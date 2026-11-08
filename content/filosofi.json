@@ -1,0 +1,437 @@
+[
+  {
+    "id": "epiktetos-kontroll",
+    "kind": "filosofi",
+    "hook": "Varför oroar du dig för det du inte kan styra?",
+    "title": "Epiktetos",
+    "meta": "Stoiker · ca 50–135 e.Kr. · föddes som slav",
+    "points": [
+      "Vissa saker styr du: dina omdömen, val och handlingar.",
+      "Andra styr du inte: väder, andras åsikter, det förflutna.",
+      "Lidande uppstår när vi blandar ihop de två."
+    ],
+    "takeaway": "Lägg din energi där du faktiskt har makt.",
+    "source": "Epiktetos, Encheiridion kap. 1",
+    "more": "Epiktetos växte upp som slav i Rom och blev en av stoicismens mest inflytelserika lärare. Hans 'kontrolldikotomi' öppnar handboken Encheiridion. Idén lever kvar i modern kognitiv beteendeterapi och i den så kallade sinnesrobönen."
+  },
+  {
+    "id": "sokrates-vet-inget",
+    "kind": "filosofi",
+    "hook": "Den klokaste i Aten sa att han inte visste någonting.",
+    "title": "Sokrates",
+    "meta": "Atenare · 470–399 f.Kr.",
+    "points": [
+      "Oraklet i Delfi sa att ingen var visare än Sokrates.",
+      "Han förhörde experter – de trodde sig veta mer än de visste.",
+      "Hans fördel: han visste var hans kunskap tog slut."
+    ],
+    "takeaway": "Att veta vad du inte vet är början på visdom.",
+    "source": "Platon, Sokrates försvarstal 21a–23b",
+    "more": "Det berömda 'jag vet att jag ingenting vet' är en förenkling. I Försvarstalet säger Sokrates att han är visare än andra bara för att han inte tror sig veta det han inte vet. Hans metod – att ställa frågor tills motsägelser blir synliga – kallas den sokratiska metoden och används än i dag i undervisning och terapi."
+  },
+  {
+    "id": "platon-grottan",
+    "kind": "filosofi",
+    "hook": "Tänk om allt du ser bara är skuggor på en vägg?",
+    "title": "Platons grotta",
+    "meta": "Platon · Staten, ca 375 f.Kr.",
+    "points": [
+      "Fångar ser bara skuggor av föremål och tror att det är verkligheten.",
+      "En fånge släpps ut, bländas av ljuset och ser världen som den är.",
+      "När han återvänder och berättar blir han hånad."
+    ],
+    "takeaway": "Sanning gör ont först – och är svår att dela.",
+    "source": "Platon, Staten bok VII, 514a–520a",
+    "more": "Grottliknelsen illustrerar Platons idélära: det vi uppfattar med sinnena är bara avbilder av en djupare verklighet. Den läses också som en bild av utbildning – att lära sig är smärtsamt, och de som sett mer möter ofta motstånd från dem som är nöjda med skuggorna."
+  },
+  {
+    "id": "aristoteles-vana",
+    "kind": "filosofi",
+    "hook": "Du blir inte modig genom att tänka. Du blir det genom att göra.",
+    "title": "Aristoteles",
+    "meta": "Grekisk filosof · 384–322 f.Kr.",
+    "points": [
+      "Vi blir rättvisa genom att handla rättvist, modiga genom modiga handlingar.",
+      "Dygd är en vana, inte en känsla eller ett beslut.",
+      "Den ligger mellan två ytterligheter: mod mellan feghet och dumdristighet."
+    ],
+    "takeaway": "Karaktär är det du gör om och om igen.",
+    "source": "Aristoteles, Nikomachiska etiken bok II",
+    "more": "Citatet 'Vi är det vi upprepade gånger gör' tillskrivs ofta Aristoteles men är egentligen filosofen Will Durants sammanfattning från 1926. Tanken är dock Aristoteles: dygder tränas fram som färdigheter, och 'den gyllene medelvägen' mellan för mycket och för lite är målet."
+  },
+  {
+    "id": "seneca-livets-korthet",
+    "kind": "filosofi",
+    "hook": "Livet är inte kort. Vi slösar bort det.",
+    "title": "Seneca",
+    "meta": "Romersk stoiker · ca 4 f.Kr.–65 e.Kr.",
+    "points": [
+      "Ingen skulle ge bort sina pengar – men vi ger bort vår tid hela tiden.",
+      "Vi lever som om vi hade oändligt med tid.",
+      "Ett långt liv handlar om hur det används, inte hur länge det varar."
+    ],
+    "takeaway": "Vakta din tid hårdare än dina pengar.",
+    "source": "Seneca, Om livets korthet kap. 1–3",
+    "more": "Seneca var både filosof, dramatiker och rådgivare åt kejsar Nero. I essän De brevitate vitae kritiserar han människor som fyller sina liv med sysslor och statusjakt men skjuter upp själva livet. Texten är nästan 2 000 år gammal men läses ofta som en kommentar till modern stress."
+  },
+  {
+    "id": "marcus-hindret",
+    "kind": "filosofi",
+    "hook": "Det som står i vägen blir vägen.",
+    "title": "Marcus Aurelius",
+    "meta": "Romersk kejsare · 121–180 e.Kr.",
+    "points": [
+      "Han skrev sina tankar i en privat dagbok – aldrig tänkt för publicering.",
+      "Hindret för handling kan självt bli en ny handling.",
+      "Varje motgång är ett tillfälle att öva tålamod, mod eller rättvisa."
+    ],
+    "takeaway": "Fråga: vad kan jag öva på i det här hindret?",
+    "source": "Marcus Aurelius, Självbetraktelser 5.20",
+    "more": "Världens mäktigaste man skrev anteckningar till sig själv under krigsfälttåg. Självbetraktelser är full av påminnelser om döden, tålamod och plikt. Raden om hindret har blivit ett motto i modern stoicism och gav namn åt Ryan Holidays bok 'The Obstacle Is the Way'."
+  },
+  {
+    "id": "epikuros-lycka",
+    "kind": "filosofi",
+    "hook": "Lyckans filosof åt mest bröd och vatten.",
+    "title": "Epikuros",
+    "meta": "Grekisk filosof · 341–270 f.Kr.",
+    "points": [
+      "Lycka var för honom frånvaro av smärta och oro – ataraxi.",
+      "Enkla nöjen, vänner och eftertanke räcker långt.",
+      "Lyx skapar nya begär, och begär skapar oro."
+    ],
+    "takeaway": "Önska mindre, så har du redan mer.",
+    "source": "Epikuros, Brev till Menoikeus",
+    "more": "Ordet 'epikuré' betyder i dag finsmakare, men Epikuros levde enkelt i sin trädgård utanför Aten med vänner. Han menade att vänskap är bland de största goda, att döden inte är något att frukta ('när döden är, är inte vi') och att de flesta begär är onödiga."
+  },
+  {
+    "id": "diogenes-solen",
+    "kind": "filosofi",
+    "hook": "Världens mäktigaste man erbjöd honom vad som helst. Han sa nej.",
+    "title": "Diogenes",
+    "meta": "Kyniker · ca 412–323 f.Kr. · bodde i en tunna",
+    "points": [
+      "Alexander den store frågade vad han kunde göra för honom.",
+      "Diogenes svarade: 'Flytta dig, du står i min sol.'",
+      "Den som behöver lite kan inte köpas."
+    ],
+    "takeaway": "Frihet är att inte behöva det andra har.",
+    "source": "Diogenes Laertios, Filosofers liv bok VI",
+    "more": "Diogenes från Sinope levde demonstrativt fattigt för att visa hur lite en människa behöver. Anekdoterna om honom är många och delvis legendariska. Alexander ska ha sagt: 'Om jag inte vore Alexander skulle jag vilja vara Diogenes.'"
+  },
+  {
+    "id": "descartes-cogito",
+    "kind": "filosofi",
+    "hook": "Hur vet du att du inte drömmer just nu?",
+    "title": "René Descartes",
+    "meta": "Fransk filosof · 1596–1650",
+    "points": [
+      "Han bestämde sig för att tvivla på allt som gick att tvivla på.",
+      "Sinnen kan lura oss, och drömmar känns verkliga.",
+      "Men själva tvivlandet bevisar att någon tänker."
+    ],
+    "takeaway": "Jag tänker, alltså finns jag.",
+    "source": "Descartes, Avhandling om metoden (1637)",
+    "more": "'Cogito, ergo sum' är kanske filosofins mest kända mening. Descartes metodiska tvivel var ett försök att hitta en grund som inte gick att rubba. Han dog i Stockholm 1650, dit han bjudits in av drottning Kristina."
+  },
+  {
+    "id": "hume-ar-bor",
+    "kind": "filosofi",
+    "hook": "Att något ÄR på ett visst sätt betyder inte att det BÖR vara så.",
+    "title": "David Hume",
+    "meta": "Skotsk filosof · 1711–1776",
+    "points": [
+      "Många argument glider obemärkt från 'är' till 'bör'.",
+      "'Det är naturligt' säger inget om huruvida det är rätt.",
+      "Fakta ensamma kan aldrig ge moraliska slutsatser."
+    ],
+    "takeaway": "Kolla när ett 'är' smygande blir ett 'bör'.",
+    "source": "Hume, A Treatise of Human Nature 3.1.1 (1739)",
+    "more": "Humes giljotin, eller är–bör-problemet, är ett av de mest diskuterade problemen i etiken. Det hänger ihop med det naturalistiska felslutet: att något är naturligt, vanligt eller traditionellt gör det inte automatiskt gott."
+  },
+  {
+    "id": "kant-imperativ",
+    "kind": "filosofi",
+    "hook": "Ett enkelt test för om något du gör är fel.",
+    "title": "Immanuel Kant",
+    "meta": "Tysk filosof · 1724–1804",
+    "points": [
+      "Fråga: vad händer om alla gjorde så här?",
+      "Om alla ljög skulle ingen tro på något – lögnen förstör sig själv.",
+      "Behandla aldrig människor enbart som medel för dina mål."
+    ],
+    "takeaway": "Handla så som du vill att alla ska handla.",
+    "source": "Kant, Grundläggning av sedernas metafysik (1785)",
+    "more": "Det kategoriska imperativet är kärnan i Kants pliktetik. Till skillnad från konsekvensetik handlar det inte om att räkna ut utfall utan om att följa principer som kan gälla för alla. Kant gick enligt legenden samma promenad varje dag så punktligt att grannarna ställde klockan efter honom."
+  },
+  {
+    "id": "nietzsche-aterkomst",
+    "kind": "filosofi",
+    "hook": "Skulle du vilja leva exakt samma liv igen? Oändligt många gånger?",
+    "title": "Friedrich Nietzsche",
+    "meta": "Tysk filosof · 1844–1900",
+    "points": [
+      "En demon säger: du ska leva ditt liv igen, varje detalj, för alltid.",
+      "Förbannar du honom – eller välkomnar du det?",
+      "Svaret visar hur du förhåller dig till ditt liv."
+    ],
+    "takeaway": "Lev så att du skulle säga ja till ett omtag.",
+    "source": "Nietzsche, Den glada vetenskapen §341 (1882)",
+    "more": "Den eviga återkomsten är främst ett tankeexperiment. Nietzsche ville att vi skulle 'älska vårt öde' – amor fati – och skapa ett liv vi kan bejaka helt. Han kallade det 'den tyngsta tyngden'."
+  },
+  {
+    "id": "kierkegaard-baklanges",
+    "kind": "filosofi",
+    "hook": "Livet kan bara förstås baklänges.",
+    "title": "Søren Kierkegaard",
+    "meta": "Dansk filosof · 1813–1855",
+    "points": [
+      "I efterhand ser allt ut att hänga ihop.",
+      "Men vi måste leva framlänges – utan facit.",
+      "Därför kräver varje verkligt val ett språng."
+    ],
+    "takeaway": "Vänta inte på klarhet innan du väljer.",
+    "source": "Kierkegaard, dagboksanteckning (1843)",
+    "more": "Kierkegaard räknas som existentialismens fader. Han skrev mycket om ångest, val och den enskilda människans ansvar. Ångest var för honom 'frihetens svindel' – känslan av att stå inför möjligheter."
+  },
+  {
+    "id": "sartre-existens",
+    "kind": "filosofi",
+    "hook": "Du föddes inte med ett syfte. Det är goda nyheter.",
+    "title": "Jean-Paul Sartre",
+    "meta": "Fransk filosof · 1905–1980",
+    "points": [
+      "En kniv tillverkas för att skära – dess syfte kommer först.",
+      "Människan finns först och skapar sedan vem hon är.",
+      "Vi är 'dömda till frihet' – även att inte välja är ett val."
+    ],
+    "takeaway": "Du är summan av dina val.",
+    "source": "Sartre, Existentialismen är en humanism (1946)",
+    "more": "'Existensen föregår essensen' är existentialismens kärnformel. Sartre menade att det inte finns någon förutbestämd mänsklig natur, och att vi därför bär fullt ansvar för vad vi gör av oss själva. Han tackade nej till Nobelpriset i litteratur 1964."
+  },
+  {
+    "id": "camus-sisyfos",
+    "kind": "filosofi",
+    "hook": "Tänk dig att rulla en sten uppför ett berg. För evigt.",
+    "title": "Albert Camus",
+    "meta": "Fransk författare · 1913–1960",
+    "points": [
+      "Sisyfos dömdes att rulla en sten upp – den rullar alltid ner igen.",
+      "Livet saknar given mening. Camus kallade det det absurda.",
+      "Hans svar: revoltera genom att leva fullt ändå."
+    ],
+    "takeaway": "Man måste föreställa sig Sisyfos lycklig.",
+    "source": "Camus, Myten om Sisyfos (1942)",
+    "more": "Camus började sin essä med frågan om livet är värt att leva. Hans svar var ja – inte för att det finns en dold mening, utan för att kampen i sig kan fylla ett människohjärta. Han fick Nobelpriset i litteratur 1957."
+  },
+  {
+    "id": "beauvoir-blir",
+    "kind": "filosofi",
+    "hook": "Man föds inte till kvinna – man blir det.",
+    "title": "Simone de Beauvoir",
+    "meta": "Fransk filosof · 1908–1986",
+    "points": [
+      "Mycket av det vi kallar 'naturligt' formas av samhälle och uppfostran.",
+      "Kvinnan hade definierats som 'den andra' i förhållande till mannen.",
+      "Frihet kräver att vi ser vilka roller vi fått tilldelade."
+    ],
+    "takeaway": "Fråga vem som bestämde vad som är 'normalt'.",
+    "source": "Beauvoir, Det andra könet (1949)",
+    "more": "Det andra könet är ett av 1900-talets mest inflytelserika verk och en grundbult i modern feminism. Beauvoir byggde på existentialismen: om existensen föregår essensen så kan inte heller kön vara ett färdigt öde."
+  },
+  {
+    "id": "mill-skadeprincipen",
+    "kind": "filosofi",
+    "hook": "När har samhället rätt att stoppa dig?",
+    "title": "John Stuart Mill",
+    "meta": "Brittisk filosof · 1806–1873",
+    "points": [
+      "Bara för att förhindra skada på andra, menade Mill.",
+      "Att något är dåligt för dig själv räcker inte som skäl.",
+      "Även fel åsikter ska få höras – de skärper sanningen."
+    ],
+    "takeaway": "Din frihet slutar där andras skada börjar.",
+    "source": "Mill, Om friheten (1859)",
+    "more": "Skadeprincipen är en hörnsten i liberal filosofi och används i debatter om allt från yttrandefrihet till droger. Mill skrev boken tillsammans med sin fru Harriet Taylor Mill, och var en tidig förespråkare för kvinnlig rösträtt."
+  },
+  {
+    "id": "rawls-slojan",
+    "kind": "filosofi",
+    "hook": "Designa ett samhälle utan att veta vem du blir i det.",
+    "title": "John Rawls",
+    "meta": "Amerikansk filosof · 1921–2002",
+    "points": [
+      "Bakom 'okunnighetens slöja' vet du inte om du blir rik eller fattig.",
+      "Du vet inte ditt kön, din hälsa eller din talang.",
+      "Vilka regler skulle du då tycka är rättvisa?"
+    ],
+    "takeaway": "Rättvisa är det vi väljer när vi inte vet vår plats.",
+    "source": "Rawls, A Theory of Justice (1971)",
+    "more": "Rawls tankeexperiment är ett av de mest använda verktygen i politisk filosofi. Han menade att rationella människor bakom slöjan skulle välja grundläggande friheter för alla, och bara acceptera ojämlikhet som gynnar de sämst ställda – 'differensprincipen'."
+  },
+  {
+    "id": "laozi-vatten",
+    "kind": "filosofi",
+    "hook": "Det mjukaste i världen övervinner det hårdaste.",
+    "title": "Laozi",
+    "meta": "Kinesisk filosof · ca 500-talet f.Kr.",
+    "points": [
+      "Vatten är mjukt och följsamt, men urholkar till slut sten.",
+      "Wu wei: handla utan att forcera, i takt med det som sker.",
+      "Den som kämpar mot allt bränner ut sig."
+    ],
+    "takeaway": "Var som vatten: följsam men ihärdig.",
+    "source": "Tao te ching, kap. 8 och 78",
+    "more": "Tao te ching är en av världens mest översatta texter. Om Laozi verkligen fanns är omdiskuterat – texten kan ha flera författare. Wu wei betyder ungefär 'icke-handlande', men handlar om att agera utan krampaktig ansträngning, inte om passivitet."
+  },
+  {
+    "id": "konfucius-gyllene",
+    "kind": "filosofi",
+    "hook": "En regel att leva efter – formulerad för 2 500 år sedan.",
+    "title": "Konfucius",
+    "meta": "Kinesisk filosof · 551–479 f.Kr.",
+    "points": [
+      "En lärjunge frågade om ett enda ord kunde vägleda ett helt liv.",
+      "Svaret: ömsesidighet (shu).",
+      "Gör inte mot andra det du inte vill ska göras mot dig."
+    ],
+    "takeaway": "Ömsesidighet är grunden för all etik.",
+    "source": "Konfucius, Analekterna 15:24",
+    "more": "Den 'gyllene regeln' finns i nästan alla kulturer och religioner – i Bibeln, hos Hillel, i hinduiska och buddhistiska texter. Konfucius version formuleras ofta negativt: avstå från det du själv inte vill utsättas för."
+  },
+  {
+    "id": "buddha-lidande",
+    "kind": "filosofi",
+    "hook": "Varför blir vi aldrig nöjda?",
+    "title": "Buddha",
+    "meta": "Siddhartha Gautama · ca 400-talet f.Kr.",
+    "points": [
+      "Livet innehåller lidande och otillfredsställelse (dukkha).",
+      "Det uppstår ur begär och att klamra sig fast vid det som förändras.",
+      "Släpper vi taget kan lidandet upphöra."
+    ],
+    "takeaway": "Allt förändras. Att klamra sig fast gör ont.",
+    "source": "De fyra ädla sanningarna, Dhammacakkappavattana-sutta",
+    "more": "De fyra ädla sanningarna sägs vara Buddhas första predikan: lidandet, dess orsak, att det kan upphöra, och vägen dit – den ädla åttafaldiga vägen. Mindfulness, som i dag används i vården, har sina rötter i buddhistisk meditation."
+  },
+  {
+    "id": "wittgenstein-sprak",
+    "kind": "filosofi",
+    "hook": "Kan du tänka det du inte har ord för?",
+    "title": "Ludwig Wittgenstein",
+    "meta": "Österrikisk filosof · 1889–1951",
+    "points": [
+      "Språket sätter ramar för vad vi kan säga och tänka klart.",
+      "Många filosofiska problem är egentligen språkliga förvirringar.",
+      "Om det man inte kan tala om måste man tiga."
+    ],
+    "takeaway": "Fler ord ger dig en större värld.",
+    "source": "Wittgenstein, Tractatus 5.6 och 7 (1921)",
+    "more": "'Mitt språks gränser betyder min världs gränser' är en av 1900-talets mest citerade meningar. Wittgenstein ändrade senare uppfattning radikalt och menade i Filosofiska undersökningar att ords mening ligger i hur de används."
+  },
+  {
+    "id": "arendt-banalitet",
+    "kind": "filosofi",
+    "hook": "Den största ondskan begås ofta av helt vanliga människor.",
+    "title": "Hannah Arendt",
+    "meta": "Tysk-amerikansk tänkare · 1906–1975",
+    "points": [
+      "Hon bevakade rättegången mot nazisten Adolf Eichmann 1961.",
+      "Hon såg inget monster – utan en karriärist som följde order.",
+      "Ondska kan växa ur tanklöshet och lydnad."
+    ],
+    "takeaway": "Att sluta tänka själv är farligt.",
+    "source": "Arendt, Eichmann i Jerusalem (1963)",
+    "more": "Begreppet 'ondskans banalitet' väckte stor debatt. Senare historiker har visat att Eichmann var mer ideologiskt övertygad än han framstod som i rättegången. Men Arendts poäng – att byråkrati och lydnad kan möjliggöra fruktansvärda brott – har stått sig."
+  },
+  {
+    "id": "popper-falsifiering",
+    "kind": "filosofi",
+    "hook": "En teori som förklarar allt förklarar ingenting.",
+    "title": "Karl Popper",
+    "meta": "Österrikisk-brittisk filosof · 1902–1994",
+    "points": [
+      "Hur många vita svanar du än ser bevisar det inte att alla är vita.",
+      "En enda svart svan räcker för att motbevisa det.",
+      "Vetenskap kräver att teorin kan visa sig vara fel."
+    ],
+    "takeaway": "Fråga: vad skulle få mig att ändra mig?",
+    "source": "Popper, Logik der Forschung (1934)",
+    "more": "Falsifierbarhet blev Poppers kriterium för vad som räknas som vetenskap. Han jämförde Einsteins teori, som gjorde riskabla förutsägelser, med teorier som kunde tolka varje utfall som stöd. Svarta svanar fanns faktiskt – européer hittade dem i Australien 1697."
+  },
+  {
+    "id": "kuhn-paradigm",
+    "kind": "filosofi",
+    "hook": "Vetenskapen går inte rakt framåt. Den gör hopp.",
+    "title": "Thomas Kuhn",
+    "meta": "Amerikansk vetenskapsfilosof · 1922–1996",
+    "points": [
+      "Forskare arbetar inom ett 'paradigm' – en gemensam världsbild.",
+      "Avvikelser hopar sig tills den gamla modellen spricker.",
+      "Då sker ett paradigmskifte – som när jorden slutade vara universums mitt."
+    ],
+    "takeaway": "Det alla 'vet' kan vara nästa gamla sanning.",
+    "source": "Kuhn, De vetenskapliga revolutionernas struktur (1962)",
+    "more": "Ordet 'paradigmskifte' kommer från Kuhn och har spridit sig långt utanför vetenskapsfilosofin. Exempel är övergången från Ptolemaios till Kopernikus, från Newton till Einstein och upptäckten att bakterier orsakar sjukdom."
+  },
+  {
+    "id": "pascal-rummet",
+    "kind": "filosofi",
+    "hook": "Kan du sitta helt still i 15 minuter utan mobil?",
+    "title": "Blaise Pascal",
+    "meta": "Fransk matematiker och filosof · 1623–1662",
+    "points": [
+      "Pascal skrev att vi jagar förströelse för att slippa tänka.",
+      "Spel, jakt och sällskap fyller tomrummet.",
+      "Allt för att slippa möta oss själva i stillhet."
+    ],
+    "takeaway": "Våga vara uttråkad ibland.",
+    "source": "Pascal, Tankar (Pensées, 1670) nr 139",
+    "more": "Pascals kända mening lyder ungefär: 'All mänsklighetens olycka kommer av en enda sak: att man inte kan sitta stilla i ett rum.' Över 350 år senare testade psykologen Timothy Wilson idén experimentellt – se studien om elstötarna."
+  },
+  {
+    "id": "heraklitos-floden",
+    "kind": "filosofi",
+    "hook": "Du kan aldrig kliva ner i samma flod två gånger.",
+    "title": "Herakleitos",
+    "meta": "Grekisk filosof · ca 535–475 f.Kr.",
+    "points": [
+      "Nytt vatten flödar hela tiden förbi.",
+      "Och du är inte heller samma person som förra gången.",
+      "Allt flyter – panta rhei."
+    ],
+    "takeaway": "Förändring är det enda som är konstant.",
+    "source": "Herakleitos, fragment B12/B91 (via Platons Kratylos)",
+    "more": "Vi känner Herakleitos bara genom fragment citerade av senare författare. Hans idé om ständig förändring stod i kontrast till Parmenides, som menade att förändring är en illusion. Debatten mellan dem formade hela den västerländska filosofin."
+  },
+  {
+    "id": "hobbes-naturtillstand",
+    "kind": "filosofi",
+    "hook": "Hur skulle livet se ut utan lagar och stat?",
+    "title": "Thomas Hobbes",
+    "meta": "Engelsk filosof · 1588–1679",
+    "points": [
+      "Utan gemensam makt blir det 'allas krig mot alla'.",
+      "Livet blir 'ensamt, fattigt, otäckt, brutalt och kort'.",
+      "Därför ger vi upp viss frihet i utbyte mot trygghet."
+    ],
+    "takeaway": "Samhällsfördraget är priset för fred.",
+    "source": "Hobbes, Leviathan kap. 13 (1651)",
+    "more": "Hobbes skrev under och efter det engelska inbördeskriget, vilket präglade hans mörka syn på människan. Hans idé om ett samhällskontrakt utvecklades vidare av Locke och Rousseau, som kom fram till helt andra slutsatser om människans natur."
+  },
+  {
+    "id": "montaigne-essaer",
+    "kind": "filosofi",
+    "hook": "Han uppfann en genre genom att skriva om sig själv.",
+    "title": "Michel de Montaigne",
+    "meta": "Fransk författare · 1533–1592",
+    "points": [
+      "Han drog sig tillbaka till ett torn med 1 000 böcker.",
+      "Han skrev om allt: vänskap, döden, att äta, att sova.",
+      "Hans motto: 'Que sais-je?' – Vad vet jag?"
+    ],
+    "takeaway": "Att undersöka sig själv är att undersöka människan.",
+    "source": "Montaigne, Essäer (1580)",
+    "more": "Ordet essä kommer från franskans 'essayer' – att försöka. Montaigne skrev försök snarare än färdiga sanningar, och ändrade sig öppet. Han har inspirerat allt från Shakespeare till dagens bloggare och poddare."
+  }
+]

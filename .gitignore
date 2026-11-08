@@ -1,0 +1,4 @@
+node_modules/
+renders/
+video/.hyperframes/
+video/batch.json

@@ -1,0 +1,26 @@
+{
+  "name": "smart-content",
+  "version": "1.0.0",
+  "description": "Lärorika YouTube Shorts: kurerat innehåll → HyperFrames-videor → scrollflöde",
+  "scripts": {
+    "content": "node scripts/build-content.mjs",
+    "render": "node scripts/build-content.mjs && cd video && hyperframes render --batch batch.json -o ../renders/{slug}.mp4",
+    "web": "bash scripts/encode-web.sh",
+    "preview": "cd video && hyperframes preview",
+    "serve": "npx --yes serve site"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jtensetti/smart-content-.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jtensetti/smart-content-/issues"
+  },
+  "homepage": "https://github.com/Jtensetti/smart-content-#readme",
+  "devDependencies": {
+    "hyperframes": "^0.9.23"
+  },
+  "private": true
+}

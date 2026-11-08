@@ -1,0 +1,229 @@
+[
+  {
+    "id": "myt-10-procent",
+    "kind": "myt",
+    "hook": "Använder du bara 10 % av hjärnan?",
+    "title": "10 %-myten",
+    "meta": "Myt · spridd sedan tidigt 1900-tal",
+    "points": [
+      "Hjärnavbildning visar aktivitet i praktiskt taget hela hjärnan.",
+      "Även enkla uppgifter aktiverar många områden.",
+      "Hjärnan är 2 % av kroppsvikten men drar runt 20 % av energin."
+    ],
+    "takeaway": "Du använder hela hjärnan – bara inte allt samtidigt.",
+    "source": "Beyerstein, i Mind Myths (1999)",
+    "more": "Ursprunget är oklart – myten har tillskrivits allt från William James till Einstein, utan belägg. Evolutionen skulle knappast låta ett så energikrävande organ vara till 90 % oanvänt. Skador på nästan vilken del som helst av hjärnan ger märkbara effekter."
+  },
+  {
+    "id": "myt-larstilar",
+    "kind": "myt",
+    "hook": "Är du en visuell eller auditiv person? Det spelar ingen roll.",
+    "title": "Lärstilar",
+    "meta": "Myt · granskad av Pashler m.fl., 2008",
+    "points": [
+      "Många tror att man lär sig bäst i sin 'egen' stil.",
+      "Men studier hittar inget stöd för att anpassa undervisningen efter det.",
+      "Innehållet avgör: kartor ses, musik hörs, simning görs."
+    ],
+    "takeaway": "Lär dig på flera sätt – inte på 'ditt' sätt.",
+    "source": "Pashler et al., Psychological Science in the Public Interest (2008)",
+    "more": "Det stämmer att människor har preferenser, men att undervisa efter dem förbättrar inte resultaten. Det som faktiskt hjälper alla är att kombinera ord och bild, plocka fram kunskap ur minnet och sprida ut repetitionerna."
+  },
+  {
+    "id": "myt-stanford-fangelse",
+    "kind": "myt",
+    "hook": "Stanford-fängelseexperimentet visar inte det du tror.",
+    "title": "Stanford­fängelset",
+    "meta": "Philip Zimbardo · 1971",
+    "points": [
+      "Studenter spelade fångar och vakter. Det sägs ha spårat ur av sig självt.",
+      "Inspelningar visar att vakterna uppmanades att vara hårda.",
+      "Det var aldrig en kontrollerad studie och publicerades aldrig i en vetenskaplig tidskrift."
+    ],
+    "takeaway": "Kolla hur en berömd studie faktiskt gick till.",
+    "source": "Le Texier, American Psychologist (2019)",
+    "more": "Thibault Le Texier gick igenom Stanfords arkiv och fann att vakterna fått tydliga instruktioner och att flera 'fångar' i efterhand sagt att de spelade teater. Experimentet säger något om roller och makt, men knappast att vanliga människor automatiskt blir grymma."
+  },
+  {
+    "id": "myt-genovese",
+    "kind": "myt",
+    "hook": "38 grannar såg mordet utan att göra något. Fast det stämmer inte.",
+    "title": "Kitty Genovese",
+    "meta": "New York · 1964",
+    "points": [
+      "New York Times skrev att 38 vittnen såg på utan att reagera.",
+      "I själva verket såg få något tydligt, och minst två ringde polisen.",
+      "En granne gick ut och höll henne i famnen när hon dog."
+    ],
+    "takeaway": "Även kända historier kan vara fel.",
+    "source": "Manning, Levine & Collins, American Psychologist (2007)",
+    "more": "Fallet blev startpunkten för forskningen om åskådareffekten. Effekten finns i laboratoriet, men den mytiska versionen av Genovese-fallet gav en onödigt mörk bild av människor. NYT medgav 2016 att artikeln innehöll allvarliga fel."
+  },
+  {
+    "id": "myt-ego-depletion",
+    "kind": "myt",
+    "hook": "Är viljestyrka en muskel som tar slut? 2 141 deltagare testade.",
+    "title": "Ego depletion",
+    "meta": "Baumeister m.fl. 1998 · replikering 2016",
+    "points": [
+      "Teorin: självkontroll förbrukar en begränsad resurs.",
+      "Hundratals studier tycktes stödja den.",
+      "En stor replikering i 23 labb fann en effekt nära noll."
+    ],
+    "takeaway": "Tro inte att din vilja tar slut – det kan bli sant.",
+    "source": "Hagger et al., Perspectives on Psychological Science (2016)",
+    "more": "Ego depletion blev en symbol för replikationskrisen inom psykologin. Forskning av bland andra Veronika Job tyder på att personer som tror att viljestyrka är obegränsad påverkas mindre av trötthet efter ansträngning. Debatten fortsätter, men effekten är långt svagare än man trodde."
+  },
+  {
+    "id": "myt-10000-timmar",
+    "kind": "myt",
+    "hook": "10 000 timmar gör dig till expert? Forskaren bakom siffran håller inte med.",
+    "title": "10 000-timmars­regeln",
+    "meta": "Ericsson 1993 · Gladwell 2008",
+    "points": [
+      "Siffran kom från ett snitt hos violinister – inte en gräns.",
+      "Malcolm Gladwell gjorde den till en regel i boken Outliers.",
+      "En metaanalys fann att övning förklarar runt 12 % av skillnaderna i prestation."
+    ],
+    "takeaway": "Övning är viktig – men hur du övar är viktigare.",
+    "source": "Macnamara, Hambrick & Oswald, Psychological Science (2014)",
+    "more": "Anders Ericsson, svensk psykolog bakom originalforskningen, betonade 'avsiktlig övning' – fokuserad träning på det man är dålig på, med feedback. Mängden timmar varierar enormt mellan områden och personer. Talang, startålder och tur spelar också roll."
+  },
+  {
+    "id": "myt-guldfisk",
+    "kind": "myt",
+    "hook": "Har guldfiskar ett minne på tre sekunder?",
+    "title": "Guldfiskens minne",
+    "meta": "Myt",
+    "points": [
+      "Guldfiskar kan lära sig att trycka på spakar för mat.",
+      "De kan tränas att reagera på ljud och färger.",
+      "Inlärda beteenden kan sitta i flera månader."
+    ],
+    "takeaway": "Guldfisken minns bättre än sitt rykte.",
+    "source": "Forskning om inlärning hos fiskar, t.ex. Gee m.fl. (1994)",
+    "more": "Fiskar har länge underskattats. Studier visar att många fiskarter kan navigera, känna igen individer och till och med använda verktyg. Myten om de tre sekunderna saknar källa – den verkar mest ha använts för att lindra skulden över små akvarier."
+  },
+  {
+    "id": "myt-tungkartan",
+    "kind": "myt",
+    "hook": "Söt längst fram, bitter längst bak? Den kartan från skolan är fel.",
+    "title": "Tungkartan",
+    "meta": "Myt · från en feltolkning 1942",
+    "points": [
+      "Kartan bygger på en tysk avhandling från 1901, felaktigt tolkad.",
+      "Alla smaker kan kännas över hela tungan.",
+      "Känsligheten skiljer sig bara lite mellan områden."
+    ],
+    "takeaway": "Det du lärde dig i skolan kan vara fel.",
+    "source": "Hänig (1901); Boring (1942); Chandrashekar m.fl., Nature (2006)",
+    "more": "Den tyske forskaren David Hänig fann små skillnader i känslighet. Psykologen Edwin Boring ritade om datan på ett sätt som såg ut som skarpa zoner. I dag räknar man med minst fem grundsmaker – söt, sur, salt, bitter och umami – och alla smaklökar finns över hela tungan."
+  },
+  {
+    "id": "myt-napoleon",
+    "kind": "myt",
+    "hook": "Napoleon var inte kort.",
+    "title": "Napoleons längd",
+    "meta": "Myt · 1769–1821",
+    "stat": "169 cm",
+    "statLabel": "ungefär genomsnittet för en fransman på hans tid",
+    "points": [
+      "Han mättes till 5 pieds 2 pouces – franska tum, som var längre än engelska.",
+      "Brittisk propaganda ritade honom som en arg liten man.",
+      "Hans livgarde var handplockat långt, vilket fick honom att se kort ut."
+    ],
+    "takeaway": "Propaganda kan leva i 200 år.",
+    "source": "Mått från obduktionen 1821; flera historiker",
+    "more": "Smeknamnet 'le petit caporal' var dessutom ett kärleksfullt epitet, inte en kommentar om längden. Det finns en 'Napoleonkomplex'-teori om korta mäns aggressivitet, men den har varken stöd i Napoleons längd eller i forskningen."
+  },
+  {
+    "id": "myt-vikingahjalmar",
+    "kind": "myt",
+    "hook": "Vikingar hade inga horn på hjälmarna.",
+    "title": "Vikingahjälmar",
+    "meta": "Myt · ca 1870-talet",
+    "points": [
+      "Den enda nästan hela vikingahjälmen som hittats, från Gjermundbu, saknar horn.",
+      "Horn skulle vara opraktiskt i strid.",
+      "Bilden kommer från 1800-talets romantik och Wagners operor."
+    ],
+    "takeaway": "Vår bild av historien är ofta ganska ny.",
+    "source": "Gjermundbu-hjälmen (Norge, 900-tal); Wagners Ringen (1876)",
+    "more": "Kostymdesignern Carl Emil Doepler gav vikingakaraktärerna horn i Wagners 'Nibelungens ring' 1876. Det finns hjälmar med horn från bronsåldern i Skandinavien, men de är omkring 2 000 år äldre än vikingatiden och troligen ceremoniella."
+  },
+  {
+    "id": "myt-kinesiska-muren",
+    "kind": "myt",
+    "hook": "Kinesiska muren syns från rymden? Fråga en astronaut.",
+    "title": "Muren från rymden",
+    "meta": "Myt",
+    "points": [
+      "Muren är lång men bara runt 5–9 meter bred.",
+      "Den har dessutom ungefär samma färg som omgivningen.",
+      "Kinas första astronaut Yang Liwei sa 2003 att han inte kunde se den."
+    ],
+    "takeaway": "Längd syns inte – bredd och kontrast gör.",
+    "source": "Yang Liwei (2003); NASA",
+    "more": "Myten fanns redan innan någon människa varit i rymden. Från låg omloppsbana syns motorvägar, flygplatser och städer bättre än muren. Med kamera och zoom går den att fotografera, men inte se med blotta ögat från omloppsbana – och absolut inte från månen."
+  },
+  {
+    "id": "myt-platt-jord",
+    "kind": "myt",
+    "hook": "Människor på medeltiden trodde att jorden var platt. Nej.",
+    "title": "Den platta jorden",
+    "meta": "Myt · spridd på 1800-talet",
+    "points": [
+      "Grekerna visste att jorden var rund redan 300 år före Kristus.",
+      "Eratosthenes mätte dess omkrets förvånansvärt exakt runt 240 f.Kr.",
+      "Medeltida lärda tog den runda jorden för given."
+    ],
+    "takeaway": "Det förflutna var smartare än vi tror.",
+    "source": "Jeffrey Burton Russell, Inventing the Flat Earth (1991)",
+    "more": "Myten spreds bland annat av Washington Irvings romantiserade biografi om Columbus 1828. Columbus diskussion med de lärda handlade om jordens storlek, inte form – och de lärda hade rätt: jorden var mycket större än han trodde. Han hade bara tur att Amerika låg i vägen."
+  },
+  {
+    "id": "myt-mozart",
+    "kind": "myt",
+    "hook": "Blir bebisar smartare av Mozart?",
+    "title": "Mozarteffekten",
+    "meta": "Rauscher m.fl. 1993",
+    "points": [
+      "Originalstudien testade collegestudenter, inte bebisar.",
+      "Effekten på en rumslig uppgift varade cirka 10–15 minuter.",
+      "Senare metaanalyser fann en liten effekt som kan förklaras av upprymdhet."
+    ],
+    "takeaway": "En liten studie kan bli en stor myt.",
+    "source": "Pietschnig, Voracek & Formann, Intelligence (2010)",
+    "more": "Trots svagt stöd lät delstaten Georgia 1998 dela ut klassisk musik på cd till alla nyfödda. Musik du gillar kan göra dig piggare och tillfälligt prestera bättre – men det gäller lika mycket en ljudbok av Stephen King, enligt en studie."
+  },
+  {
+    "id": "myt-hawthorne",
+    "kind": "myt",
+    "hook": "Arbetarna jobbade hårdare bara för att de blev observerade? Datan säger annat.",
+    "title": "Hawthorne­effekten",
+    "meta": "Hawthorne Works, Chicago · 1924–1932",
+    "points": [
+      "Historien: produktiviteten ökade oavsett om ljuset höjdes eller sänktes.",
+      "Slutsats: att bli iakttagen förändrar beteendet.",
+      "När ekonomer hittade originaldatan 2011 var effekten mycket svagare."
+    ],
+    "takeaway": "Lita inte på historier du aldrig sett datan för.",
+    "source": "Levitt & List, American Economic Journal: Applied (2011)",
+    "more": "Att människor ibland ändrar beteende när de vet att de studeras är rimligt och tas på allvar i forskning. Men den klassiska belysningsstudien är ett svagt bevis – mycket av effekten kan förklaras av att man bytte ljus på söndagar, och produktiviteten var alltid högre på måndagar."
+  },
+  {
+    "id": "myt-marshmallow",
+    "kind": "myt",
+    "hook": "Kan en marshmallow förutsäga ditt barns framtid?",
+    "title": "Marshmallowtestet",
+    "meta": "Walter Mischel · Stanford, 1960–70-tal",
+    "points": [
+      "Barn som kunde vänta på två godisbitar tycktes klara sig bättre som vuxna.",
+      "En större replikering 2018 fann ett mycket svagare samband.",
+      "Familjens bakgrund och förmåga förklarade det mesta."
+    ],
+    "takeaway": "Situationen formar självkontroll – inte bara karaktären.",
+    "source": "Watts, Duncan & Quan, Psychological Science (2018)",
+    "more": "Originalbarnen kom nästan alla från Stanfords förskola. Andra studier visar att barn väntar längre när de litar på att den vuxne håller sitt löfte. Att äta godiset direkt kan vara ett rationellt val för ett barn som lärt sig att löften inte alltid hålls."
+  }
+]

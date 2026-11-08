@@ -1,0 +1,261 @@
+[
+  {
+    "id": "ockhams-rakkniv",
+    "kind": "begrepp",
+    "hook": "Den enklaste förklaringen är ofta den rätta. Men varför?",
+    "title": "Ockhams rakkniv",
+    "meta": "Efter William av Ockham · ca 1287–1347",
+    "points": [
+      "Lägg inte till fler antaganden än vad som behövs.",
+      "Varje extra antagande är ännu ett sätt att ha fel.",
+      "Den är en tumregel – inte ett bevis."
+    ],
+    "takeaway": "Börja med förklaringen som kräver minst.",
+    "source": "Principen om sparsamhet, Ockham (1300-talet)",
+    "more": "Hörs ett ljud från vinden är möss en mer sparsam förklaring än spöken. Men verkligheten är ibland komplicerad – rakkniven säger bara att vi inte ska krångla till saker i onödan. Einstein ska ha sagt: 'Allt ska göras så enkelt som möjligt, men inte enklare.'"
+  },
+  {
+    "id": "hanlons-rakkniv",
+    "kind": "begrepp",
+    "hook": "Tror du att någon gjorde det med flit för att jävlas?",
+    "title": "Hanlons rakkniv",
+    "meta": "Tankemodell · 1980",
+    "points": [
+      "Tillskriv aldrig ondska det som kan förklaras med slarv eller okunskap.",
+      "De flesta är för upptagna med sina egna liv för att planera mot dig.",
+      "Att anta ont uppsåt gör dig arg – och ofta fel."
+    ],
+    "takeaway": "Anta misstag före elakhet.",
+    "source": "Robert J. Hanlon, i Murphy's Law Book Two (1980)",
+    "more": "Tanken är mycket äldre än namnet – liknande formuleringar finns hos Goethe. Den är särskilt användbar i mejl och chattar, där tonfall saknas och det är lätt att läsa in fientlighet som inte finns."
+  },
+  {
+    "id": "ranta-pa-ranta",
+    "kind": "begrepp",
+    "hook": "Bli 1 % bättre varje dag. Efter ett år är du så här mycket bättre.",
+    "title": "Ränta på ränta",
+    "meta": "Exponentiell tillväxt",
+    "stat": "37,8x",
+    "statLabel": "1,01 upphöjt till 365",
+    "points": [
+      "1 % bättre varje dag: 1,01 × 1,01 × … 365 gånger ≈ 37,8.",
+      "1 % sämre varje dag: 0,99 upphöjt till 365 ≈ 0,03.",
+      "Små förändringar syns inte först – sedan syns de enormt."
+    ],
+    "takeaway": "Små vanor, upprepade länge, slår stora ryck.",
+    "source": "Matematik; populariserat av James Clear, Atomic Habits (2018)",
+    "more": "Verkligheten är förstås inte så prydlig – man kan inte förbättras exakt 1 % om dagen. Men poängen håller för pengar, kunskap och vanor: tillväxt som bygger på sig själv ser långsam ut i början och explosiv i slutet. Vi underskattar den systematiskt."
+  },
+  {
+    "id": "survivorship-bias",
+    "kind": "begrepp",
+    "hook": "Var skulle du förstärka planen? Där kulhålen är? Fel.",
+    "title": "Överlevnads­bias",
+    "meta": "Abraham Wald · andra världskriget",
+    "points": [
+      "Flygplanen som kom tillbaka hade kulhål på vingar och stjärt.",
+      "Statistikern Abraham Wald pekade på det som saknades i datan.",
+      "Planen som träffades i motorerna kom aldrig tillbaka."
+    ],
+    "takeaway": "Fråga alltid: vilka ser jag inte?",
+    "source": "Wald, Statistical Research Group (1943)",
+    "more": "Överlevnadsbias finns överallt: vi hör om avhopparna som blev miljardärer men inte om de tusentals som misslyckades. 'De byggde bättre förr' – de dåliga husen har ju rivits. Historien om Wald är något förenklad, men principen är solid."
+  },
+  {
+    "id": "sunk-cost",
+    "kind": "begrepp",
+    "hook": "Du har betalat för biljetten. Filmen är usel. Stannar du?",
+    "title": "Sunk cost-fällan",
+    "meta": "Beteendeekonomi",
+    "points": [
+      "Pengar och tid du redan lagt ner får du inte tillbaka – oavsett vad du gör.",
+      "Ändå låter vi dem styra framtida beslut.",
+      "Projekt, relationer och krig dras ut för att 'inte slösa' det som gått."
+    ],
+    "takeaway": "Fråga bara: vad är bäst från och med nu?",
+    "source": "Arkes & Blumer, Org. Behavior & Human Decision Processes (1985)",
+    "more": "Kallas också Concorde-effekten efter överljudsplanet som Storbritannien och Frankrike fortsatte finansiera långt efter att det stod klart att det aldrig skulle bli lönsamt. Ett bra test: om du inte hade investerat något än – skulle du börja nu?"
+  },
+  {
+    "id": "pareto",
+    "kind": "begrepp",
+    "hook": "80 % av resultaten kommer ofta från 20 % av insatsen.",
+    "title": "Paretoprincipen",
+    "meta": "Vilfredo Pareto · 1896",
+    "stat": "80/20",
+    "statLabel": "en ojämn fördelning som dyker upp överallt",
+    "points": [
+      "Pareto märkte att 20 % av italienarna ägde 80 % av marken.",
+      "Liknande mönster: få kunder står för mest försäljning, få buggar för flest krascher.",
+      "Siffrorna är ungefärliga – poängen är ojämnheten."
+    ],
+    "takeaway": "Hitta de få saker som ger mest.",
+    "source": "Pareto, Cours d'économie politique (1896); Juran (1940-tal)",
+    "more": "Det var kvalitetsexperten Joseph Juran som gav principen dess namn och kallade det 'de få vitala och de många triviala'. Det är ingen naturlag – fördelningen kan lika gärna vara 90/10 eller 70/30 – men den påminner om att alla uppgifter inte är lika viktiga."
+  },
+  {
+    "id": "goodharts-lag",
+    "kind": "begrepp",
+    "hook": "Mät antal spikar – och fabriken tillverkar miljoner pyttesmå spikar.",
+    "title": "Goodharts lag",
+    "meta": "Charles Goodhart · 1975",
+    "points": [
+      "När ett mått blir ett mål slutar det vara ett bra mått.",
+      "Folk optimerar siffran i stället för det siffran skulle visa.",
+      "Exempel: betyg, klick, antal lösta ärenden."
+    ],
+    "takeaway": "Håll ögonen på målet, inte bara mätaren.",
+    "source": "Goodhart (1975); formulering av Marilyn Strathern (1997)",
+    "more": "Spikanekdoten om sovjetiska fabriker är troligen ett skämt, men principen är verklig. Den kända formuleringen är antropologen Marilyn Stratherns. Ett motmedel är att använda flera mått samtidigt och att regelbundet fråga vad måttet egentligen ska fånga."
+  },
+  {
+    "id": "chestertons-staket",
+    "kind": "begrepp",
+    "hook": "Du hittar ett staket mitt på en väg. Ska du riva det?",
+    "title": "Chestertons staket",
+    "meta": "G.K. Chesterton · 1929",
+    "points": [
+      "Reformatorn säger: jag ser ingen nytta med det, riv det.",
+      "Den kloka svarar: ta reda på varför det sattes upp först.",
+      "Regler och traditioner har ofta skäl som inte syns direkt."
+    ],
+    "takeaway": "Förstå varför innan du tar bort något.",
+    "source": "Chesterton, The Thing (1929)",
+    "more": "Principen betyder inte att allt gammalt ska bevaras – bara att man ska förstå syftet innan man ändrar. Den används flitigt inom programmering, där konstiga kodrader ofta visar sig skydda mot buggar ingen längre minns."
+  },
+  {
+    "id": "kartan-terrangen",
+    "kind": "begrepp",
+    "hook": "Kartan är inte terrängen.",
+    "title": "Kartan och terrängen",
+    "meta": "Alfred Korzybski · 1931",
+    "points": [
+      "Varje modell av verkligheten är en förenkling.",
+      "Budgetar, scheman, diagnoser – alla är kartor.",
+      "Problem uppstår när vi glömmer att kartan kan vara fel."
+    ],
+    "takeaway": "Lita på modeller – men titta upp ibland.",
+    "source": "Korzybski, föredrag 1931; Science and Sanity (1933)",
+    "more": "Statistikern George Box uttryckte liknande: 'Alla modeller är fel, men vissa är användbara.' En karta som var helt exakt skulle vara lika stor som terrängen själv – och därmed oanvändbar, som Borges skrev i en kort novell."
+  },
+  {
+    "id": "fermi",
+    "kind": "begrepp",
+    "hook": "Hur många pianostämmare finns det i Chicago? Du kan räkna ut det.",
+    "title": "Fermi­uppskattning",
+    "meta": "Enrico Fermi · fysiker, 1901–1954",
+    "points": [
+      "Dela upp frågan: invånare, hushåll med piano, stämningar per år.",
+      "Gissa varje del grovt – felen tar ofta ut varandra.",
+      "Svaret blir ofta rätt storleksordning: här runt 100."
+    ],
+    "takeaway": "Dela upp omöjliga frågor i möjliga bitar.",
+    "source": "Klassisk Fermi-fråga, University of Chicago",
+    "more": "Fermi uppskattade sprängkraften i den första atombombstestet genom att släppa papperslappar och se hur långt tryckvågen förde dem – och hamnade nära de uppmätta värdena. Fermiuppskattningar används i dag i allt från affärsplaner till jobbintervjuer."
+  },
+  {
+    "id": "inversion",
+    "kind": "begrepp",
+    "hook": "Vill du lyckas? Fråga först hur du skulle misslyckas.",
+    "title": "Inversion",
+    "meta": "Carl Jacobi · Charlie Munger",
+    "points": [
+      "Matematikern Jacobi: 'Vänd det, vänd det alltid.'",
+      "Fråga: vad skulle garantera att det här går åt skogen?",
+      "Undvik sedan just de sakerna."
+    ],
+    "takeaway": "Undvik dumheter innan du jagar genialitet.",
+    "source": "Jacobi (1800-talet); Munger, tal vid Harvard School (1986)",
+    "more": "Charlie Munger, Warren Buffetts partner, höll ett känt tal om hur man garanterat blir olycklig – ett inverterat lyckorecept. Inversion är också grunden för 'pre-mortem': att innan ett projekt startar föreställa sig att det har misslyckats och fråga varför."
+  },
+  {
+    "id": "regression-medel",
+    "kind": "begrepp",
+    "hook": "Beröm verkar göra folk sämre. Kritik verkar göra dem bättre. Båda är en illusion.",
+    "title": "Regression mot medelvärdet",
+    "meta": "Francis Galton · 1886",
+    "points": [
+      "Flyglärare märkte: efter beröm blev nästa landning sämre.",
+      "Men ett extremt bra försök följs nästan alltid av ett mer normalt.",
+      "Det hade hänt oavsett vad läraren sa."
+    ],
+    "takeaway": "Extrema resultat följs oftast av normala.",
+    "source": "Kahneman, Tänka, snabbt och långsamt (2011)",
+    "more": "Kahneman berättar om flyginstruktörer i israeliska flygvapnet som var övertygade om att skäll fungerade bättre än beröm. Regression förklarar också 'sophomore slump', varför nya behandlingar ibland verkar fungera och varför 'Sports Illustrated-förbannelsen' finns."
+  },
+  {
+    "id": "parkinsons-lag",
+    "kind": "begrepp",
+    "hook": "Varför tar en uppgift alltid exakt så lång tid som du har?",
+    "title": "Parkinsons lag",
+    "meta": "C. Northcote Parkinson · 1955",
+    "points": [
+      "Arbete expanderar så att det fyller den tid som finns.",
+      "Med en vecka på dig tar ett mejl en vecka.",
+      "Snäva men rimliga deadlines gör oss effektivare."
+    ],
+    "takeaway": "Ge uppgifter mindre tid än du tror.",
+    "source": "Parkinson, The Economist (1955)",
+    "more": "Parkinson skrev artikeln som satir om brittisk byråkrati – han visade att antalet tjänstemän i amiralitetet ökade medan antalet fartyg minskade. Hans andra lag: utgifter stiger tills de möter inkomsterna."
+  },
+  {
+    "id": "tit-for-tat",
+    "kind": "begrepp",
+    "hook": "Forskare lät datorprogram tävla i samarbete. Den enklaste strategin vann.",
+    "title": "Lika för lika",
+    "meta": "Robert Axelrod · turneringar 1980",
+    "points": [
+      "Program spelade fångarnas dilemma mot varandra hundratals gånger.",
+      "Vinnaren, 'Tit for Tat', var bara fyra rader kod.",
+      "Börja snällt, svara i samma mynt – och förlåt snabbt."
+    ],
+    "takeaway": "Var snäll, men inte dum. Förlåt fort.",
+    "source": "Axelrod, The Evolution of Cooperation (1984)",
+    "more": "Strategin skickades in av psykologen Anatol Rapoport. Den vann båda Axelrods turneringar. Senare forskning visar att något mer förlåtande varianter klarar sig ännu bättre när det finns brus och misstag i kommunikationen."
+  },
+  {
+    "id": "bekraftelsebias",
+    "kind": "begrepp",
+    "hook": "2, 4, 6. Gissa regeln. De flesta gissar fel – av samma skäl.",
+    "title": "Bekräftelse­bias",
+    "meta": "Peter Wason · 1960",
+    "points": [
+      "Deltagare fick testa talföljder för att hitta en dold regel.",
+      "De flesta testade 8-10-12 och trodde regeln var 'plus två'.",
+      "Regeln var bara 'stigande tal'. De testade aldrig något som kunde visa dem fel."
+    ],
+    "takeaway": "Leta efter det som kan motbevisa dig.",
+    "source": "Wason, Quarterly J. Experimental Psychology (1960)",
+    "more": "Bekräftelsebias är tendensen att söka, tolka och minnas information som stöder det vi redan tror. Den påverkar allt från vetenskap till nyhetsflöden och rättegångar. Popper hade en lösning: försök aktivt falsifiera din egen hypotes."
+  },
+  {
+    "id": "feynman-teknik",
+    "kind": "begrepp",
+    "hook": "Kan du förklara det för en tolvåring? Annars förstår du det inte.",
+    "title": "Feynmantekniken",
+    "meta": "Inspirerad av Richard Feynman · Nobelpris 1965",
+    "points": [
+      "Välj ett ämne och förklara det med enkla ord, som för ett barn.",
+      "Där du fastnar eller tar till facktermer – där finns luckan.",
+      "Gå tillbaka till källan, fyll luckan, förenkla igen."
+    ],
+    "takeaway": "Lär ut för att lära dig.",
+    "source": "Efter Feynmans undervisningsstil; namnet är modernt",
+    "more": "Feynman var känd för att vägra gömma sig bakom jargong. Själva 'tekniken' är en senare sammanfattning, men den bygger på välbelagda effekter: att förklara för andra och plocka fram kunskap ur minnet stärker förståelsen."
+  },
+  {
+    "id": "lindy",
+    "kind": "begrepp",
+    "hook": "Vilken bok läses fortfarande om 100 år? Kolla hur gammal den är.",
+    "title": "Lindyeffekten",
+    "meta": "Namn efter Lindy's deli i New York · 1964",
+    "points": [
+      "För idéer, böcker och teknik gäller: ju äldre, desto längre förväntad livslängd.",
+      "Något som funnits i 2 000 år har klarat många tester.",
+      "Nya trender har ännu inte bevisat något."
+    ],
+    "takeaway": "Det som har överlevt länge kommer ofta att fortsätta.",
+    "source": "Goldman (1964); Mandelbrot; Taleb, Antifragile (2012)",
+    "more": "Komiker på Lindy's deli trodde att en karriär varade ungefär lika länge som den redan varat. Effekten gäller inte för saker som åldras, som människor och glödlampor. Men för texter, verktyg och idéer är den en användbar tumregel – därför är så många filosofer i det här flödet."
+  }
+]

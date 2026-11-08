@@ -1,0 +1,418 @@
+[
+  {
+    "id": "milgram-lydnad",
+    "kind": "studie",
+    "hook": "Skulle du ge en främling en dödlig elstöt om någon i vit rock sa åt dig?",
+    "title": "Milgrams lydnads­experiment",
+    "meta": "Stanley Milgram · Yale, 1961–1963",
+    "stat": "65 %",
+    "statLabel": "gick hela vägen till 450 volt",
+    "points": [
+      "Deltagare trodde att de gav en 'elev' allt starkare stötar vid fel svar.",
+      "Eleven var en skådespelare – stötarna var på låtsas.",
+      "26 av 40 lydde ända till sista knappen, trots skrik och protester."
+    ],
+    "takeaway": "Auktoritet kan få vanliga människor att gå över gränser.",
+    "source": "Milgram, Journal of Abnormal and Social Psychology (1963)",
+    "more": "Experimentet är ett av psykologins mest kända – och omdebatterade. Senare forskning har visat att många deltagare tvivlade på att stötarna var äkta och att resultaten varierade mycket mellan olika versioner. En delvis replikering (Burger 2009) fann ändå liknande lydnadsnivåer upp till 150 volt."
+  },
+  {
+    "id": "asch-konformitet",
+    "kind": "studie",
+    "hook": "Skulle du säga fel svar med flit bara för att alla andra gjorde det?",
+    "title": "Aschs linjeexperiment",
+    "meta": "Solomon Asch · 1951",
+    "stat": "75 %",
+    "statLabel": "höll med gruppen om ett uppenbart fel minst en gång",
+    "points": [
+      "Uppgiften: vilken linje är lika lång som referenslinjen? Lätt.",
+      "Men alla andra i rummet var inhyrda och svarade fel med flit.",
+      "Ensam sa nästan ingen fel. I grupp böjde sig många."
+    ],
+    "takeaway": "Grupptryck kan få oss att förneka det vi ser.",
+    "source": "Asch, Groups, Leadership and Men (1951)",
+    "more": "Ungefär en tredjedel av alla svar i de kritiska försöken följde gruppens fel. Men det glöms ofta bort att en fjärdedel aldrig gav efter, och att konformiteten minskade kraftigt om bara en enda annan person höll med deltagaren. En allierad räcker långt."
+  },
+  {
+    "id": "wilson-elstotar",
+    "kind": "studie",
+    "hook": "Folk valde hellre elstötar än att sitta ensamma med sina tankar.",
+    "title": "Ensam med tankarna",
+    "meta": "Timothy Wilson m.fl. · Science, 2014",
+    "stat": "67 %",
+    "statLabel": "av männen gav sig själva en elstöt",
+    "points": [
+      "Deltagarna fick sitta ensamma i ett rum i 6–15 minuter.",
+      "Enda sysselsättning: en knapp som gav en obehaglig stöt.",
+      "Många hade tidigare sagt att de skulle betala för att slippa stöten."
+    ],
+    "takeaway": "Vi är ovana vid att bara tänka. Det går att träna.",
+    "source": "Wilson et al., Science 345 (2014)",
+    "more": "12 av 18 män och 6 av 24 kvinnor gav sig själva minst en stöt – en man gav sig 190 stötar. Studien knyter an till Pascals ord om att människan inte kan sitta still i ett rum. Forskarna noterade att det inte var tankarna i sig som var obehagliga, utan svårigheten att styra dem."
+  },
+  {
+    "id": "harvard-lycka",
+    "kind": "studie",
+    "hook": "Den längsta studien om lycka pågår sedan 1938. Svaret är inte pengar.",
+    "title": "Harvardstudien",
+    "meta": "Harvard Study of Adult Development · sedan 1938",
+    "stat": "85 år",
+    "statLabel": "av data om hundratals mäns liv",
+    "points": [
+      "724 män följdes från ungdomen – Harvardstudenter och pojkar från Bostons fattiga kvarter.",
+      "Bästa prediktorn för hälsa vid 80: hur nöjd man var med sina relationer vid 50.",
+      "Ensamhet var lika farligt för hälsan som rökning och alkohol."
+    ],
+    "takeaway": "Goda relationer håller oss friskare och lyckligare.",
+    "source": "Waldinger & Schulz, The Good Life (2023)",
+    "more": "Studien har senare utökats med deltagarnas fruar och barn. Nuvarande ledare Robert Waldinger sammanfattar den med att relationer, inte rikedom eller berömmelse, är det som gör oss lyckliga. Det handlar mer om kvalitet än antal – några få nära band räcker."
+  },
+  {
+    "id": "pengar-lycka",
+    "kind": "studie",
+    "hook": "Gör mer pengar dig lyckligare? Forskarna bråkade i 13 år.",
+    "title": "Pengar och lycka",
+    "meta": "Kahneman, Deaton, Killingsworth · 2010–2023",
+    "points": [
+      "2010: välbefinnandet planade ut vid cirka 75 000 dollar om året.",
+      "2021: ny data visade att lyckan fortsatte stiga med inkomsten.",
+      "2023 gick de ihop: platån gäller främst de mest olyckliga 20 procenten."
+    ],
+    "takeaway": "Pengar hjälper – men löser inte allt.",
+    "source": "Killingsworth, Kahneman & Mellers, PNAS (2023)",
+    "more": "Detta är ett fint exempel på 'adversarial collaboration' – forskare med motstridiga resultat som gör en gemensam studie. Slutsatsen: för de flesta ökar välbefinnandet med inkomsten, men för de mest olyckliga tar det stopp. Deras olycka verkar ha orsaker som pengar inte botar."
+  },
+  {
+    "id": "vandrande-sinne",
+    "kind": "studie",
+    "hook": "Nästan halva dagen tänker du på något annat än det du gör.",
+    "title": "Det vandrande sinnet",
+    "meta": "Killingsworth & Gilbert · Science, 2010",
+    "stat": "47 %",
+    "statLabel": "av den vakna tiden vandrar tankarna",
+    "points": [
+      "En app frågade 2 250 personer vid slumpvisa tillfällen vad de gjorde och kände.",
+      "Folk var mindre lyckliga när tankarna vandrade – även till trevliga saker.",
+      "Vad de tänkte på spelade större roll än vad de gjorde."
+    ],
+    "takeaway": "Ett närvarande sinne är ett lyckligare sinne.",
+    "source": "Killingsworth & Gilbert, Science 330 (2010)",
+    "more": "Studien hette 'A wandering mind is an unhappy mind'. Tidsföljden tydde på att tankevandringen kom före sämre humör, inte tvärtom. Den används ofta som stöd för mindfulness, även om sambandet är mer komplext i senare studier."
+  },
+  {
+    "id": "dunning-kruger",
+    "kind": "studie",
+    "hook": "De som kan minst tror ofta att de kan mest.",
+    "title": "Dunning–Kruger",
+    "meta": "Kruger & Dunning · Cornell, 1999",
+    "points": [
+      "Studenter testades i logik, grammatik och humor.",
+      "De sämsta presterade i snitt runt 12:e percentilen.",
+      "Själva trodde de att de låg runt den 62:a."
+    ],
+    "takeaway": "För att se sina brister krävs kunskapen man saknar.",
+    "source": "Kruger & Dunning, J. Personality & Social Psych. (1999)",
+    "more": "Effekten är verklig men ofta överdriven på nätet – den berömda kurvan med 'dumhetens topp' finns inte i originalstudien. En del av effekten kan förklaras statistiskt (regression mot medelvärdet). Dessutom underskattade de bästa sin förmåga något."
+  },
+  {
+    "id": "osynliga-gorillan",
+    "kind": "studie",
+    "hook": "En gorilla gick rakt igenom bilden. Hälften såg den inte.",
+    "title": "Den osynliga gorillan",
+    "meta": "Simons & Chabris · Harvard, 1999",
+    "stat": "50 %",
+    "statLabel": "missade gorillan helt",
+    "points": [
+      "Uppgift: räkna hur många passningar laget i vitt gör.",
+      "Mitt i videon går en person i gorilladräkt igenom och dunkar sig på bröstet.",
+      "Ungefär hälften märker ingenting."
+    ],
+    "takeaway": "Vi ser det vi letar efter – inte allt som finns.",
+    "source": "Simons & Chabris, Perception 28 (1999)",
+    "more": "Fenomenet kallas ouppmärksamhetsblindhet. Det förklarar varför bilister kan missa cyklister, och varför vittnen ofta missar viktiga detaljer. Även röntgenläkare i en senare studie missade en gorilla som klistrats in i lungbilder."
+  },
+  {
+    "id": "loftus-minne",
+    "kind": "studie",
+    "hook": "Ett enda ord kan ändra vad du minns.",
+    "title": "Falska minnen",
+    "meta": "Loftus & Palmer · 1974",
+    "stat": "32 %",
+    "statLabel": "mindes krossat glas som aldrig fanns",
+    "points": [
+      "Deltagare såg en film på en bilkrock.",
+      "Frågan: hur fort körde bilarna när de 'krockade' – eller 'smashade' in i varandra?",
+      "'Smashade' gav högre hastighet och fler som mindes glassplitter."
+    ],
+    "takeaway": "Minnet är en rekonstruktion, inte en inspelning.",
+    "source": "Loftus & Palmer, J. Verbal Learning & Verbal Behavior (1974)",
+    "more": "32 % i 'smashed'-gruppen mindes krossat glas, mot 14 % i 'hit'-gruppen – trots att inget glas fanns i filmen. Elizabeth Loftus forskning har haft stor betydelse för hur polis och domstolar ser på vittnesmål och ledande frågor."
+  },
+  {
+    "id": "ebbinghaus-glomska",
+    "kind": "studie",
+    "hook": "Du glömmer det mesta du lär dig inom några dagar. Om du inte gör så här.",
+    "title": "Glömskekurvan",
+    "meta": "Hermann Ebbinghaus · 1885",
+    "points": [
+      "Ebbinghaus lärde sig tusentals nonsensstavelser och mätte hur fort de försvann.",
+      "Glömskan går snabbast de första timmarna och dagarna.",
+      "Varje repetition gör kurvan flackare – minnet håller längre."
+    ],
+    "takeaway": "Repetera med växande mellanrum.",
+    "source": "Ebbinghaus, Über das Gedächtnis (1885)",
+    "more": "Ebbinghaus var sin egen försöksperson och var en av de första att studera minnet experimentellt. Hans upptäckt av 'spacing'-effekten – att utspridd repetition slår plugg – har bekräftats i hundratals studier och ligger bakom appar som Anki."
+  },
+  {
+    "id": "testeffekten",
+    "kind": "studie",
+    "hook": "Sluta läsa om. Gör så här i stället.",
+    "title": "Testeffekten",
+    "meta": "Roediger & Karpicke · 2006",
+    "stat": "61 %",
+    "statLabel": "mindes testgruppen efter en vecka – mot 40 %",
+    "points": [
+      "En grupp läste en text fyra gånger.",
+      "En annan läste den en gång och försökte sedan återge den tre gånger.",
+      "Omläsarna kände sig säkrare – men testgruppen mindes mycket mer."
+    ],
+    "takeaway": "Att plocka fram minnen är det som bygger dem.",
+    "source": "Roediger & Karpicke, Psychological Science (2006)",
+    "more": "Kallas också 'retrieval practice'. Att förhöra sig själv, göra flashcards eller förklara utan att titta är bland de mest effektiva studieteknikerna som finns. Omläsning och överstrykning känns produktivt men ger förvånansvärt lite."
+  },
+  {
+    "id": "somnbrist",
+    "kind": "studie",
+    "hook": "Sover du sex timmar per natt? Du märker inte hur trött du är.",
+    "title": "Den dolda sömnskulden",
+    "meta": "Van Dongen m.fl. · Sleep, 2003",
+    "stat": "6 h",
+    "statLabel": "sömn per natt i två veckor",
+    "points": [
+      "Deltagare fick sova 4, 6 eller 8 timmar per natt i 14 dagar.",
+      "6-timmarsgruppen presterade till slut som efter en till två helt vakna nätter.",
+      "Men de själva upplevde sig bara lite sömniga."
+    ],
+    "takeaway": "Du är sämre på att bedöma din trötthet än du tror.",
+    "source": "Van Dongen et al., Sleep 26 (2003)",
+    "more": "Kroppen vänjer sig vid känslan av trötthet, men prestationen fortsätter att försämras. Det gör kronisk sömnbrist lömsk – den som är drabbad märker det minst. Gruppen som sov 8 timmar visade inga försämringar."
+  },
+  {
+    "id": "oppen-placebo",
+    "kind": "studie",
+    "hook": "Placebo fungerade – trots att patienterna visste att det var placebo.",
+    "title": "Öppen placebo",
+    "meta": "Kaptchuk m.fl. · Harvard, 2010",
+    "stat": "59 %",
+    "statLabel": "kände tydlig lindring – mot 35 % utan piller",
+    "points": [
+      "Patienter med IBS fick sockerpiller och fick veta exakt vad de var.",
+      "De fick höra att placebo kan aktivera kroppens egna läkningsprocesser.",
+      "Ändå blev de klart bättre än gruppen som inte fick något."
+    ],
+    "takeaway": "Förväntningar och ritualer påverkar kroppen.",
+    "source": "Kaptchuk et al., PLoS ONE (2010)",
+    "more": "Studien var liten (80 patienter) men har följts av flera liknande med blandade men ofta positiva resultat, främst för subjektiva symtom som smärta och trötthet. Placebo botar inte sjukdomar som cancer, men kan påverka hur vi upplever symtom."
+  },
+  {
+    "id": "barmhartige-samariten",
+    "kind": "studie",
+    "hook": "Prästkandidater skulle hålla tal om den barmhärtige samariten. Sen hände det här.",
+    "title": "Samaritstudien",
+    "meta": "Darley & Batson · Princeton, 1973",
+    "stat": "10 %",
+    "statLabel": "av de stressade stannade och hjälpte",
+    "points": [
+      "På väg till talet passerade de en man som låg hopsjunken i en gränd.",
+      "De som fick höra att de var sena hjälpte sällan – en klev rakt över honom.",
+      "Ämnet för talet spelade ingen roll. Brådskan gjorde det."
+    ],
+    "takeaway": "Situationen styr oss mer än vi tror.",
+    "source": "Darley & Batson, J. Personality & Social Psych. (1973)",
+    "more": "Av dem som inte hade bråttom hjälpte 63 %. Studien visar hur starkt tidspress påverkar vårt beteende – mer än personlighet eller värderingar. Ett tips: om du vill vara den som hjälper, planera in marginal."
+  },
+  {
+    "id": "rokfyllda-rummet",
+    "kind": "studie",
+    "hook": "Rummet fylls med rök. Varför sitter alla kvar?",
+    "title": "Det rökfyllda rummet",
+    "meta": "Latané & Darley · 1968",
+    "stat": "75 %",
+    "statLabel": "slog larm när de satt ensamma",
+    "points": [
+      "Deltagare fyllde i en enkät när rök började sippra in genom ventilen.",
+      "Ensamma reagerade de flesta snabbt.",
+      "Med två passiva skådespelare i rummet slog bara 10 % larm."
+    ],
+    "takeaway": "Vänta inte på att någon annan reagerar först.",
+    "source": "Latané & Darley, J. Personality & Social Psych. (1968)",
+    "more": "Fenomenet kallas åskådareffekten och pluralistisk okunnighet: vi tolkar andras lugn som tecken på att allt är okej, medan de gör samma sak med oss. Senare forskning visar dock att i verkliga nödsituationer hjälper någon oftast till."
+  },
+  {
+    "id": "festinger-dissonans",
+    "kind": "studie",
+    "hook": "Folk som fick 1 dollar tyckte att en tråkig uppgift var roligare än de som fick 20.",
+    "title": "Kognitiv dissonans",
+    "meta": "Festinger & Carlsmith · Stanford, 1959",
+    "points": [
+      "Deltagare vred på pinnar i en timme – extremt tråkigt.",
+      "Sedan fick de betalt för att säga till nästa person att det var kul.",
+      "De med 1 dollar övertygade sig själva: 'det var nog ganska roligt ändå.'"
+    ],
+    "takeaway": "Vi ändrar våra åsikter för att passa våra handlingar.",
+    "source": "Festinger & Carlsmith, J. Abnormal & Social Psych. (1959)",
+    "more": "20 dollar var en bra ursäkt för att ljuga. 1 dollar var det inte – så deltagarna löste obehaget genom att ändra sin uppfattning. Det förklarar varför vi ofta försvarar beslut vi redan fattat, och varför små åtaganden kan forma stora övertygelser."
+  },
+  {
+    "id": "ikea-effekten",
+    "kind": "studie",
+    "hook": "Varför älskar du möbeln du skruvade ihop själv?",
+    "title": "IKEA-effekten",
+    "meta": "Norton, Mochon & Ariely · 2012",
+    "stat": "63 %",
+    "statLabel": "mer var folk villiga att betala för det de byggt själva",
+    "points": [
+      "Deltagare byggde IKEA-lådor, vek origami eller byggde Lego.",
+      "De värderade sina egna amatörverk nästan lika högt som experters.",
+      "Effekten försvann om de inte fick göra klart bygget."
+    ],
+    "takeaway": "Vi älskar det vi har kämpat för.",
+    "source": "Norton, Mochon & Ariely, J. Consumer Psychology (2012)",
+    "more": "Det förklarar varför kakmix säljer bättre när man själv ska tillsätta ett ägg, och varför vi kan överskatta våra egna projekt och idéer på jobbet. Arbete skapar känslomässig koppling – men också blinda fläckar."
+  },
+  {
+    "id": "forankring",
+    "kind": "studie",
+    "hook": "Ett slumpmässigt tal påverkade vad experter gissade. Även när de visste att det var slump.",
+    "title": "Förankringseffekten",
+    "meta": "Tversky & Kahneman · 1974",
+    "points": [
+      "Ett lyckohjul snurrades fram till 10 eller 65.",
+      "Fråga: hur stor andel av FN:s länder ligger i Afrika?",
+      "Snittgissningen blev 25 % efter 10 och 45 % efter 65."
+    ],
+    "takeaway": "Första siffran du hör styr din bedömning.",
+    "source": "Tversky & Kahneman, Science 185 (1974)",
+    "more": "Förankring används överallt: i lönesamtal, i 'ordinarie pris' på rea och i husbudgivningar. Ett motmedel är att aktivt fråga sig själv vad som talar för ett helt annat tal innan man bestämmer sig."
+  },
+  {
+    "id": "sylt-valet",
+    "kind": "studie",
+    "hook": "24 sorters sylt – eller 6? Ett av de mest citerade experimenten håller kanske inte.",
+    "title": "Syltstudien",
+    "meta": "Iyengar & Lepper · 2000",
+    "points": [
+      "Med 24 sorter stannade fler – men bara 3 % köpte.",
+      "Med 6 sorter köpte 30 % av dem som stannade.",
+      "Men en metaanalys av 50 studier fann i snitt ingen effekt alls."
+    ],
+    "takeaway": "Kända studier kan vara svagare än de låter.",
+    "source": "Iyengar & Lepper (2000); Scheibehenne m.fl. (2010)",
+    "more": "Idén om 'valets paradox' blev enormt populär. Men Scheibehenne och kollegor fann att effekten av många valmöjligheter i snitt var nära noll – den uppstår bara under vissa villkor, som när valen är svåra att jämföra eller man är osäker på vad man vill ha."
+  },
+  {
+    "id": "robbers-cave",
+    "kind": "studie",
+    "hook": "Två grupper pojkar blev fiender på en vecka. Så blev de vänner igen.",
+    "title": "Robbers Cave",
+    "meta": "Muzafer Sherif · Oklahoma, 1954",
+    "points": [
+      "22 pojkar delades i två läger: 'Eagles' och 'Rattlers'.",
+      "Tävlingar om priser ledde snabbt till fientlighet och räder.",
+      "Gemensamma problem – som en trasig vattenledning – förde dem samman."
+    ],
+    "takeaway": "Gemensamma mål bryter ner vi-och-dom.",
+    "source": "Sherif et al., The Robbers Cave Experiment (1961)",
+    "more": "Teorin bakom kallas realistisk konfliktteori: konkurrens om begränsade resurser skapar fientlighet. Senare granskningar har visat att forskarna själva drev på konflikterna en del. Men principen om överordnade mål används än i dag i konfliktlösning."
+  },
+  {
+    "id": "traning-depression",
+    "kind": "studie",
+    "hook": "En av de bästa behandlingarna mot depression kostar ingenting.",
+    "title": "Träning mot depression",
+    "meta": "Noetel m.fl. · BMJ, 2024 · 218 studier",
+    "points": [
+      "Forskarna sammanställde 218 studier med över 14 000 deltagare.",
+      "Promenader, jogging, yoga och styrketräning gav tydlig effekt.",
+      "Ju högre intensitet, desto större effekt."
+    ],
+    "takeaway": "Rörelse är medicin – även för huvudet.",
+    "source": "Noetel et al., BMJ 384 (2024)",
+    "more": "Effekterna var i nivå med psykoterapi, men forskarna betonar att säkerheten i resultaten var låg till måttlig och att träning är ett komplement, inte en ersättning för vård. Den som är deprimerad bör prata med vården – men en promenad skadar sällan."
+  },
+  {
+    "id": "tacksamhet",
+    "kind": "studie",
+    "hook": "Skriv ner fem saker i veckan. Det här hände efter tio veckor.",
+    "title": "Tacksamhets­studien",
+    "meta": "Emmons & McCullough · 2003",
+    "points": [
+      "En grupp skrev varje vecka ner fem saker de var tacksamma för.",
+      "Andra skrev om irritationsmoment eller neutrala händelser.",
+      "Tacksamhetsgruppen var mer optimistisk och tränade mer."
+    ],
+    "takeaway": "Det du lägger märke till formar hur du mår.",
+    "source": "Emmons & McCullough, J. Personality & Social Psych. (2003)",
+    "more": "Senare metaanalyser visar att tacksamhetsövningar har små men verkliga effekter på välbefinnandet. Det är ingen mirakelkur, men det är gratis, tar några minuter och har nästan inga biverkningar."
+  },
+  {
+    "id": "lotteri-anpassning",
+    "kind": "studie",
+    "hook": "Lotterivinnare var inte lyckligare än andra ett år senare.",
+    "title": "Hedonisk anpassning",
+    "meta": "Brickman, Coates & Janoff-Bulman · 1978",
+    "points": [
+      "Forskarna intervjuade lotterivinnare och personer som förlamats i olyckor.",
+      "Vinnarna var inte lyckligare än kontrollgruppen.",
+      "De njöt dessutom mindre av vardagliga saker."
+    ],
+    "takeaway": "Vi vänjer oss vid nästan allt – gott som ont.",
+    "source": "Brickman et al., J. Personality & Social Psych. (1978)",
+    "more": "Studien var liten och senare forskning nyanserar bilden: vissa händelser, som långvarig arbetslöshet eller svår sjukdom, kan påverka lyckan varaktigt. Men grundidén – den 'hedoniska löpbandet' – har stått sig: vi anpassar oss snabbare än vi tror."
+  },
+  {
+    "id": "pygmalion",
+    "kind": "studie",
+    "hook": "Lärare fick höra att vissa elever skulle blomma ut. Eleverna var slumpvis valda.",
+    "title": "Pygmalioneffekten",
+    "meta": "Rosenthal & Jacobson · 1968",
+    "points": [
+      "Lärare fick veta att vissa barn var 'akademiska blomstrare'.",
+      "I själva verket var de utvalda helt slumpmässigt.",
+      "Efter ett år hade särskilt de yngsta 'blomstrarna' höjt sitt IQ-resultat mer."
+    ],
+    "takeaway": "Andras förväntningar kan bli självuppfyllande.",
+    "source": "Rosenthal & Jacobson, Pygmalion in the Classroom (1968)",
+    "more": "Studien blev mycket kritiserad för sina metoder, och senare forskning visar att förväntanseffekter finns men oftast är små. De verkar vara starkast för yngre barn och för elever som lärarna vet lite om från början."
+  },
+  {
+    "id": "nara-exponering",
+    "kind": "studie",
+    "hook": "Varför börjar du gilla en låt du först tyckte var okej?",
+    "title": "Exponerings­effekten",
+    "meta": "Robert Zajonc · 1968",
+    "points": [
+      "Deltagare fick se påhittade ord, kinesiska tecken och ansikten olika många gånger.",
+      "Ju oftare de sett något, desto mer gillade de det.",
+      "Effekten fanns även när de inte mindes att de sett det."
+    ],
+    "takeaway": "Bekant känns bra – även när det inte är bättre.",
+    "source": "Zajonc, J. Personality & Social Psych. Monograph (1968)",
+    "more": "Exponeringseffekten är en av anledningarna till att reklam upprepas och att låtar spelas om och om igen på radio. Den kan också förklara varför vi föredrar det vi är vana vid – och varför nya idéer ibland möter motstånd bara för att de är nya."
+  },
+  {
+    "id": "ultimatumspelet",
+    "kind": "studie",
+    "hook": "Någon erbjuder dig gratis pengar. Varför säger folk nej?",
+    "title": "Ultimatumspelet",
+    "meta": "Güth, Schmittberger & Schwarze · 1982",
+    "points": [
+      "Person A delar 100 kronor och föreslår hur de ska fördelas.",
+      "Person B kan acceptera – eller avböja, så att ingen får något.",
+      "Låga bud, under ungefär 20 %, avvisas ofta."
+    ],
+    "takeaway": "Människor betalar för att straffa orättvisa.",
+    "source": "Güth et al., J. Economic Behavior & Organization (1982)",
+    "more": "Enligt klassisk ekonomisk teori borde B acceptera vad som helst – lite pengar är bättre än inga. Att folk avböjer visar att rättvisa är ett starkt motiv. De flesta som delar ut pengar erbjuder också 40–50 %, kanske just för att de förutser detta."
+  }
+]

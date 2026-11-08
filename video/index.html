@@ -1,0 +1,276 @@
+<!doctype html>
+<html
+  lang="sv"
+  data-resolution="portrait"
+  data-composition-variables='[
+    {"id":"kind","type":"enum","label":"Kategori","default":"filosofi","options":[{"value":"filosofi","label":"Filosofi"},{"value":"studie","label":"Studie"},{"value":"begrepp","label":"Begrepp"},{"value":"myt","label":"Myt"}]},
+    {"id":"tag","type":"string","label":"Etikett","default":"FILOSOFI"},
+    {"id":"num","type":"string","label":"Nummer","default":"#01"},
+    {"id":"hook","type":"string","label":"Hook","default":"Varför oroar du dig för det du inte kan styra?","maxLength":90},
+    {"id":"title","type":"string","label":"Titel","default":"Epiktetos"},
+    {"id":"meta","type":"string","label":"Undertitel","default":"Stoiker · ca 50–135 e.Kr."},
+    {"id":"stat","type":"string","label":"Siffra (valfri)","default":""},
+    {"id":"statLabel","type":"string","label":"Siffrans text","default":""},
+    {"id":"p1","type":"string","label":"Punkt 1","default":"Vissa saker styr du: dina omdömen, val och handlingar."},
+    {"id":"p2","type":"string","label":"Punkt 2","default":"Andra styr du inte: väder, andras åsikter, det förflutna."},
+    {"id":"p3","type":"string","label":"Punkt 3","default":"Lidande uppstår när vi blandar ihop de två."},
+    {"id":"takeaway","type":"string","label":"Lärdom","default":"Lägg din energi där du faktiskt har makt."},
+    {"id":"source","type":"string","label":"Källa","default":"Epiktetos, Encheiridion kap. 1"},
+    {"id":"accent","type":"color","label":"Accent","default":"#f5b942"},
+    {"id":"accent2","type":"color","label":"Accent 2","default":"#e8613c"},
+    {"id":"music","type":"string","label":"Musik","default":"assets/pad-filosofi.m4a"},
+    {"id":"slug","type":"string","label":"Filnamn","default":"epiktetos-kontroll"}
+  ]'
+>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=1080, height=1920" />
+    <script src="assets/gsap.min.js"></script>
+    <style>
+      :root {
+        --ground: #0b0d14;
+        --ink: #f6f3ec;
+        --muted: rgba(246, 243, 236, 0.62);
+      }
+      * { margin: 0; padding: 0; box-sizing: border-box; }
+      html, body {
+        width: 1080px; height: 1920px; overflow: hidden;
+        background: var(--ground);
+        font-family: "Inter", sans-serif; color: var(--ink);
+      }
+      #root { position: absolute; inset: 0; }
+
+      /* ---------- background (decoration only) ---------- */
+      #bg { position: absolute; inset: 0; overflow: hidden; background: var(--ground); }
+      .orb {
+        position: absolute; width: 1300px; height: 1300px; border-radius: 50%;
+        opacity: 0.42;
+      }
+      #orb-a { left: -420px; top: -360px; background: radial-gradient(circle, var(--accent) 0%, transparent 62%); }
+      #orb-b { left: 300px; top: 1000px; background: radial-gradient(circle, var(--accent2) 0%, transparent 62%); }
+      #ring { position: absolute; left: 140px; top: 1180px; width: 1100px; height: 1100px; opacity: 0.16; }
+      #glyph {
+        position: absolute; right: -40px; bottom: 60px; font-family: "Playfair Display", serif;
+        font-size: 640px; line-height: 1; font-weight: 700; color: var(--accent); opacity: 0.10;
+      }
+      #shade {
+        position: absolute; inset: 0;
+        background: linear-gradient(180deg, rgba(11,13,20,0.55) 0%, rgba(11,13,20,0.15) 40%, rgba(11,13,20,0.7) 100%);
+      }
+
+      /* ---------- persistent chrome ---------- */
+      #chrome { position: absolute; left: 80px; right: 150px; top: 196px; height: 64px; }
+      #chip {
+        position: absolute; left: 0; top: 0; padding: 12px 24px; border-radius: 40px;
+        background: var(--accent); color: #111; font-weight: 900; font-size: 30px; letter-spacing: 0.12em;
+      }
+      #num { position: absolute; right: 0; top: 10px; font-family: "Space Mono", monospace; font-size: 34px; color: var(--muted); }
+      #progress-track { position: absolute; left: 80px; right: 150px; top: 290px; height: 6px; border-radius: 3px; background: rgba(255,255,255,0.14); }
+      #progress { width: 100%; height: 100%; border-radius: 3px; background: var(--accent); transform-origin: 0 50%; }
+
+      /* ---------- beats ---------- */
+      .beat { position: absolute; left: 80px; right: 150px; top: 360px; height: 940px; }
+      .center { display: flex; flex-direction: column; justify-content: center; }
+
+      .beat { overflow-wrap: break-word; hyphens: manual; }
+      #hook-text { font-size: 100px; line-height: 1.04; font-weight: 900; letter-spacing: -0.035em; }
+      #hook-text .w { display: inline-block; margin-right: 0.24em; }
+      #hook-bar { margin-top: 56px; width: 260px; height: 14px; border-radius: 7px; background: linear-gradient(90deg, var(--accent), var(--accent2)); transform-origin: 0 50%; }
+
+      #subj-kicker { font-size: 34px; font-weight: 700; letter-spacing: 0.16em; color: var(--accent); text-transform: uppercase; }
+      #subj-title { margin-top: 22px; font-family: "Playfair Display", serif; font-size: 124px; line-height: 1.0; font-weight: 700; letter-spacing: -0.02em; }
+      #subj-meta { margin-top: 30px; font-size: 42px; line-height: 1.25; color: var(--muted); }
+      #stat-wrap { margin-top: 70px; }
+      #stat { font-size: 210px; line-height: 0.95; font-weight: 900; letter-spacing: -0.05em; color: var(--accent); }
+      #stat-label { margin-top: 16px; font-size: 42px; line-height: 1.25; font-weight: 600; }
+
+      .pt { display: flex; gap: 30px; align-items: flex-start; margin-bottom: 64px; }
+      .pt:last-child { margin-bottom: 0; }
+      .pt-n {
+        flex: 0 0 80px; height: 80px; border-radius: 50%; border: 4px solid var(--accent);
+        display: flex; align-items: center; justify-content: center;
+        font-weight: 900; font-size: 38px; color: var(--accent);
+      }
+      .pt-t { font-size: 52px; line-height: 1.2; font-weight: 700; letter-spacing: -0.015em; }
+
+      #take-label { font-size: 34px; font-weight: 900; letter-spacing: 0.18em; color: var(--accent); }
+      #take-text { margin-top: 28px; font-size: 84px; line-height: 1.08; font-weight: 900; letter-spacing: -0.03em; }
+      #take-src { margin-top: 64px; font-size: 32px; line-height: 1.35; color: var(--muted); }
+      #take-src b { color: var(--ink); font-weight: 700; }
+      #take-cta { align-self: flex-start; margin-top: 40px; display: inline-block; padding: 14px 28px; border-radius: 40px; border: 3px solid rgba(255,255,255,0.35); font-size: 32px; font-weight: 700; }
+    </style>
+  </head>
+  <body>
+    <div id="root" data-composition-id="main" data-start="0" data-duration="19" data-width="1080" data-height="1920">
+      <!-- background -->
+      <div id="bg" class="clip" data-start="0" data-duration="19" data-track-index="0" data-layout-ignore data-layout-allow-overflow>
+        <div id="orb-a" class="orb"></div>
+        <div id="orb-b" class="orb"></div>
+        <svg id="ring" viewBox="0 0 200 200">
+          <g fill="none" stroke="currentColor" style="color: var(--accent)">
+            <circle cx="100" cy="100" r="96" stroke-width="0.6" />
+            <circle cx="100" cy="100" r="78" stroke-width="0.6" stroke-dasharray="2 4" />
+            <circle cx="100" cy="100" r="58" stroke-width="0.6" />
+            <circle cx="100" cy="100" r="38" stroke-width="0.6" stroke-dasharray="1 3" />
+            <line x1="4" y1="100" x2="196" y2="100" stroke-width="0.4" />
+            <line x1="100" y1="4" x2="100" y2="196" stroke-width="0.4" />
+          </g>
+        </svg>
+        <div id="glyph">Φ</div>
+        <div id="shade"></div>
+      </div>
+
+      <!-- persistent chrome -->
+      <div id="chrome" class="clip" data-start="0" data-duration="19" data-track-index="1">
+        <div id="chip" data-var-text="tag">FILOSOFI</div>
+        <div id="num" data-var-text="num">#01</div>
+      </div>
+      <div id="progress-track" class="clip" data-start="0" data-duration="19" data-track-index="2">
+        <div id="progress"></div>
+      </div>
+
+      <!-- beat 1: hook (on screen from frame 0) -->
+      <div id="beat-hook" class="beat center clip" data-start="0" data-duration="3.6" data-track-index="3">
+        <div id="hook-text">Varför oroar du dig för det du inte kan styra?</div>
+        <div id="hook-bar"></div>
+      </div>
+
+      <!-- beat 2: subject -->
+      <div id="beat-subj" class="beat center clip" data-start="3.6" data-duration="3.8" data-track-index="4">
+        <div id="subj-kicker">Vem / vad</div>
+        <div id="subj-title" data-var-text="title">Epiktetos</div>
+        <div id="subj-meta" data-var-text="meta">Stoiker · ca 50–135 e.Kr.</div>
+        <div id="stat-wrap">
+          <div id="stat">0</div>
+          <div id="stat-label" data-var-text="statLabel"></div>
+        </div>
+      </div>
+
+      <!-- beat 3: three points -->
+      <div id="beat-pts" class="beat center clip" data-start="7.4" data-duration="7.0" data-track-index="5">
+        <div class="pt" id="pt1"><div class="pt-n">1</div><div class="pt-t" data-var-text="p1">…</div></div>
+        <div class="pt" id="pt2"><div class="pt-n">2</div><div class="pt-t" data-var-text="p2">…</div></div>
+        <div class="pt" id="pt3"><div class="pt-n">3</div><div class="pt-t" data-var-text="p3">…</div></div>
+      </div>
+
+      <!-- beat 4: takeaway -->
+      <div id="beat-take" class="beat center clip" data-start="14.4" data-duration="4.6" data-track-index="6">
+        <div id="take-label">LÄRDOM</div>
+        <div id="take-text" data-var-text="takeaway">…</div>
+        <div id="take-src">Källa: <b data-var-text="source">…</b></div>
+        <div id="take-cta">Scrolla för nästa ↓</div>
+      </div>
+
+      <audio id="music" class="clip" src="assets/pad-filosofi.m4a" data-var-src="music" data-start="0" data-duration="19" data-volume="0.55" data-track-index="7"></audio>
+    </div>
+
+    <script>
+      (function () {
+        const v = (window.__hyperframes && window.__hyperframes.getVariables && window.__hyperframes.getVariables()) || {};
+        const GLYPHS = { filosofi: "Φ", studie: "σ", begrepp: "∞", myt: "?" };
+        document.getElementById("glyph").textContent = GLYPHS[v.kind] || "Φ";
+
+        // hook: one span per word so the words can land one by one
+        const hook = v.hook || document.getElementById("hook-text").textContent;
+        const hookEl = document.getElementById("hook-text");
+        hookEl.innerHTML = "";
+        hook.trim().split(/\s+/).forEach((w) => {
+          const s = document.createElement("span");
+          s.className = "w"; s.textContent = w; hookEl.appendChild(s);
+        });
+
+        // optional stat: parse "65 %", "1 000", "2,5x" -> number + suffix for a count-up
+        const statStr = (v.stat || "").trim();
+        const statEl = document.getElementById("stat");
+        let statNum = null, statDec = 0, statPre = "", statSuf = "";
+        if (!statStr) {
+          document.getElementById("stat-wrap").style.display = "none";
+        } else {
+          const m = statStr.match(/^([^\d]*)(\d+(?:[\s ]\d{3})*(?:,\d+)?)(.*)$/);
+          if (m) {
+            statPre = m[1]; statSuf = m[3];
+            const raw = m[2].replace(/\s/g, "");
+            statDec = raw.includes(",") ? raw.split(",")[1].length : 0;
+            statNum = parseFloat(raw.replace(",", "."));
+          }
+          statEl.textContent = statStr;
+        }
+        const fmt = (n) => {
+          const fixed = n.toFixed(statDec).split(".");
+          const int = fixed[0].replace(/\B(?=(\d{3})+(?!\d))/g, " ");
+          return statPre + int + (statDec ? "," + fixed[1] : "") + statSuf;
+        };
+
+        // Fit text without measuring (fonts may still be loading): shrink a block
+        // when its longest word or its total length would overflow the 850 px column.
+        const COL = 850;
+        const fit = (el, base, opts) => {
+          const text = el.textContent;
+          const longest = Math.max(...text.split(/[\s\u00ad]+/).map((w) => w.length));
+          let size = base;
+          size = Math.min(size, COL / (longest * opts.em));
+          if (opts.soft && text.length > opts.soft) size = Math.min(size, base * Math.sqrt(opts.soft / text.length));
+          el.style.fontSize = Math.max(opts.min, Math.floor(size)) + "px";
+        };
+        if (v.title) document.getElementById("subj-title").textContent = v.title;
+        if (v.takeaway) document.getElementById("take-text").textContent = v.takeaway;
+        fit(hookEl, 100, { em: 0.62, soft: 78, min: 72 });
+        fit(document.getElementById("subj-title"), 124, { em: 0.56, soft: 22, min: 72 });
+        fit(document.getElementById("take-text"), 84, { em: 0.62, soft: 46, min: 60 });
+        ["p1", "p2", "p3"].forEach((k, i) => {
+          const el = document.querySelector("#pt" + (i + 1) + " .pt-t");
+          if (v[k]) el.textContent = v[k];
+          fit(el, 52, { em: 0.6 * 850 / 740, soft: 80, min: 42 });
+        });
+
+        const tl = gsap.timeline({ paused: true });
+
+        // background drift (whole film)
+        tl.fromTo("#orb-a", { x: 0, y: 0, scale: 1 }, { x: 260, y: 180, scale: 1.15, duration: 19, ease: "sine.inOut" }, 0);
+        tl.fromTo("#orb-b", { x: 0, y: 0, scale: 1.1 }, { x: -320, y: -260, scale: 0.95, duration: 19, ease: "sine.inOut" }, 0);
+        tl.fromTo("#ring", { rotation: 0 }, { rotation: 90, duration: 19, ease: "none" }, 0);
+        tl.fromTo("#glyph", { y: 0 }, { y: -80, duration: 19, ease: "none" }, 0);
+        tl.fromTo("#progress", { scaleX: 0 }, { scaleX: 1, duration: 19, ease: "none" }, 0);
+
+        // beat 1 — hook: readable at frame 0, words settle in
+        const words = hookEl.querySelectorAll(".w");
+        tl.fromTo(words, { opacity: 0.8, y: 12 }, { opacity: 1, y: 0, duration: 0.35, stagger: 0.07, ease: "power3.out" }, 0);
+        tl.fromTo("#hook-bar", { scaleX: 0 }, { scaleX: 1, duration: 0.8, ease: "power3.out" }, 0.5);
+        tl.fromTo("#hook-text", { scale: 1 }, { scale: 1.04, duration: 3.6, ease: "none", transformOrigin: "0% 50%" }, 0);
+        tl.to(["#hook-text", "#hook-bar"], { opacity: 0, y: -40, duration: 0.3, ease: "power2.in" }, 3.25);
+
+        // beat 2 — subject
+        tl.fromTo("#subj-kicker", { opacity: 0, y: 30 }, { opacity: 1, y: 0, duration: 0.4, ease: "power3.out" }, 3.65);
+        tl.fromTo("#subj-title", { opacity: 0, y: 50 }, { opacity: 1, y: 0, duration: 0.55, ease: "power4.out" }, 3.75);
+        tl.fromTo("#subj-meta", { opacity: 0, y: 30 }, { opacity: 1, y: 0, duration: 0.45, ease: "power3.out" }, 3.95);
+        if (statStr) {
+          tl.fromTo("#stat-wrap", { opacity: 0, y: 40 }, { opacity: 1, y: 0, duration: 0.45, ease: "power3.out" }, 4.2);
+          if (statNum !== null) {
+            const o = { n: 0 };
+            tl.fromTo(o, { n: 0 }, {
+              n: statNum, duration: 1.4, ease: "power2.out",
+              onUpdate: () => { statEl.textContent = fmt(o.n); },
+            }, 4.2);
+          }
+        }
+        tl.to("#beat-subj > *", { opacity: 0, y: -40, duration: 0.3, ease: "power2.in" }, 7.05);
+
+        // beat 3 — points, one by one
+        [["#pt1", 7.5], ["#pt2", 9.0], ["#pt3", 10.5]].forEach(([id, t]) => {
+          tl.fromTo(id + " .pt-n", { opacity: 0, scale: 0.4 }, { opacity: 1, scale: 1, duration: 0.4, ease: "back.out(2)" }, t);
+          tl.fromTo(id + " .pt-t", { opacity: 0, x: 40 }, { opacity: 1, x: 0, duration: 0.5, ease: "power3.out" }, t + 0.08);
+        });
+        tl.to(["#pt1", "#pt2", "#pt3"], { opacity: 0, y: -40, duration: 0.3, stagger: 0.04, ease: "power2.in" }, 14.0);
+
+        // beat 4 — takeaway
+        tl.fromTo("#take-label", { opacity: 0, y: 30 }, { opacity: 1, y: 0, duration: 0.4, ease: "power3.out" }, 14.45);
+        tl.fromTo("#take-text", { opacity: 0, y: 50 }, { opacity: 1, y: 0, duration: 0.6, ease: "power4.out" }, 14.55);
+        tl.fromTo("#take-src", { opacity: 0 }, { opacity: 1, duration: 0.5 }, 15.1);
+        tl.fromTo("#take-cta", { opacity: 0, y: 20 }, { opacity: 1, y: 0, duration: 0.5, ease: "power3.out" }, 15.6);
+
+        window.__timelines["main"] = tl;
+        tl.seek(0);
+      })();
+    </script>
+  </body>
+</html>
