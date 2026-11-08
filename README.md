@@ -1,6 +1,6 @@
 # Smart Content
 
-Korta, lärorika videor (YouTube Shorts-format, 1080×1920, 19 s) om filosofer,
+Korta, lärorika videor (YouTube Shorts-format, 1080×1920, 34 s) om filosofer,
 vetenskapliga studier, tankemodeller och vanliga myter – plus ett scrollflöde
 där varje video täcker skärmen.
 
@@ -8,7 +8,7 @@ där varje video täcker skärmen.
 
 | Steg | Var | Vad |
 | --- | --- | --- |
-| 1. Kurera innehåll | `content/*.json` | 87 shorts med hook, tre punkter, lärdom, källa och en längre "läs mer"-text |
+| 1. Kurera innehåll | `content/*.json`, `content/visuals.mjs` | 87 shorts med hook, tre punkter, lärdom, källa, en längre "läs mer"-text och en animerad visualisering |
 | 2. Bygg videor | `video/index.html` | En [HyperFrames](https://hyperframes.heygen.com)-mall (HTML + GSAP) som drivs av variabler. Varje innehållspost blir en rad i en batch-rendering |
 | 3. Scrollflöde | `site/` | Statisk sida: helskärmsvideo, snap-scroll, filter, "läs mer", dela-länk per video |
 
@@ -56,7 +56,27 @@ Lägg till ett objekt i valfri fil i `content/`:
 }
 ```
 
-Kör sedan `npm run render && npm run web`. Valideringen stoppar för långa texter.
+Lägg också till en visualisering med samma id i `content/visuals.mjs`, till exempel:
+
+```js
+"mitt-id": { type: "bars", title: "Andel som …", unit: "%",
+  items: [{ l: "Grupp A", v: 59 }, { l: "Grupp B", v: 35 }], hi: 0, max: 100 },
+```
+
+| Typ | Passar för | Fält |
+| --- | --- | --- |
+| `bars` | jämföra siffror | `items[{l, v, t?}]`, `hi`, `max`, `unit` |
+| `line` | utveckling över tid | `x[]`, `series[{l, pts[]}]`, `ymax`, `marks[{i, s?, t}]`, `mean?` |
+| `dots` | andelar ("47 av 100") | `n`, `of`, `l`, `l2` |
+| `versus` | myt mot fakta | `myth`, `fact` |
+| `quote` | citat | `text`, `by` |
+| `flow` | steg, resonemang, cykler | `steps[]`, `loop?` |
+| `split` | två sidor | `a{h, items}`, `b{h, items}` |
+| `gauge` | en skala som stiger | `min`, `max`, `v`, `unit`, `zones[]` |
+| `timeline` | historik | `ev[{t, d}]` |
+| `spectrum` | mitten mellan ytterligheter | `rows[[vänster, mitt, höger]]` |
+
+Alla typer tar även `title` och `note`. Kör sedan `npm run render && npm run web`. Valideringen stoppar för långa texter.
 
 ### Skrivregler
 
@@ -74,9 +94,12 @@ Varje video har en egen länk: `…/#epiktetos-kontroll`.
 
 ## Mallen
 
+Upplägget är inspirerat av [Deepstash](https://deepstash.com): en källa kokas ner till ett fåtal korta idékort.
+
 - 0–3,6 s: hook (läsbar redan i första bildrutan – den blir thumbnail)
-- 3,6–7,4 s: vem/vad, eventuell siffra som räknas upp
-- 7,4–14,4 s: tre punkter
-- 14,4–19 s: lärdom + källa
-- Lugn bakgrundsmusik genererad med FFmpeg (`video/assets/pad-*.m4a`), en ton per kategori.
+- 3,6–7,6 s: vem/vad, eventuell siffra som räknas upp
+- 7,6–18,6 s: animerad visualisering (staplar, kurva, citat, flöde …)
+- 18,6–28,2 s: tre idékort, ett i taget
+- 28,2–34 s: lärdom med överstrykning + källa
+- Lugn bakgrundsmusik genererad med FFmpeg (`scripts/make-music.sh` → `video/assets/pad-*.m4a`): två ackord som långsamt glider i varandra, en tonart per kategori.
 - All text ligger inom YouTube Shorts säkra yta (ovanför 1330 px, inte under knapparna till höger).

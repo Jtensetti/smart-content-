@@ -4,6 +4,7 @@
 import { readFileSync, writeFileSync, readdirSync, mkdirSync, existsSync } from "node:fs";
 import { join, dirname } from "node:path";
 import { fileURLToPath } from "node:url";
+import VISUALS from "../content/visuals.mjs";
 
 const root = join(dirname(fileURLToPath(import.meta.url)), "..");
 const KINDS = {
@@ -38,6 +39,33 @@ for (const it of items) {
   check("statLabel", it.statLabel, LIMITS.statLabel);
   (it.points || []).forEach((p, i) => check(`point ${i + 1}`, p, LIMITS.point));
 }
+
+// ---- validate visuals (one per short, short enough to fit the 850 px column) ----
+const VLIM = { title: 44, note: 64, bar: 34, step: 46, item: 26, quote: 120, by: 60, versus: 96, ev: 56, zone: 20 };
+for (const it of items) {
+  const v = VISUALS[it.id];
+  const where = `${it.id} (visual)`;
+  if (!v) { problems.push(`${where}: missing`); continue; }
+  const check = (k, s, max) => s && s.length > max && problems.push(`${where}: ${k} "${s}" is ${s.length} chars (max ${max})`);
+  check("title", v.title, VLIM.title);
+  check("note", v.note, VLIM.note);
+  const need = (cond, msg) => !cond && problems.push(`${where}: ${msg}`);
+  switch (v.type) {
+    case "bars": need(v.items?.length >= 2 && v.items.length <= 5, "bars needs 2–5 items"); v.items?.forEach((b) => check("bar", b.l, VLIM.bar)); break;
+    case "line": need(v.series?.every((s) => s.pts.length === v.x.length), "line: every series needs one point per x label"); break;
+    case "dots": need(v.n >= 0 && v.n <= (v.of || 100), "dots: n out of range"); break;
+    case "versus": check("myth", v.myth, VLIM.versus); check("fact", v.fact, VLIM.versus); break;
+    case "quote": check("quote", v.text, VLIM.quote); check("by", v.by, VLIM.by); break;
+    case "flow": need(v.steps?.length >= 2 && v.steps.length <= 5, "flow needs 2–5 steps"); v.steps?.forEach((x) => check("step", x, VLIM.step)); break;
+    case "split": for (const c of [v.a, v.b]) { need(c?.items?.length <= 4, "split: max 4 items"); c?.items.forEach((x) => check("item", x, VLIM.item)); } break;
+    case "gauge": v.zones?.forEach((z) => check("zone", z, VLIM.zone)); break;
+    case "timeline": need(v.ev?.length >= 2 && v.ev.length <= 4, "timeline needs 2–4 events"); v.ev?.forEach((e) => check("event", e.d, VLIM.ev)); break;
+    case "spectrum": need(v.rows?.length >= 1 && v.rows.length <= 3, "spectrum needs 1–3 rows"); break;
+    default: problems.push(`${where}: unknown type ${v.type}`);
+  }
+}
+for (const id of Object.keys(VISUALS)) if (!ids.has(id)) problems.push(`visual ${id}: no short with that id`);
+
 if (problems.length) {
   console.error("Content problems:\n  " + problems.join("\n  "));
   process.exit(1);
@@ -69,6 +97,7 @@ const rows = feed.map((it, i) => {
     accent: k.accent,
     accent2: k.accent2,
     music: `assets/pad-${it.kind}.m4a`,
+    viz: JSON.stringify(VISUALS[it.id]),
   };
 });
 

@@ -7,7 +7,8 @@
     "render": "node scripts/build-content.mjs && cd video && hyperframes render --batch batch.json -o ../renders/{slug}.mp4",
     "web": "bash scripts/encode-web.sh",
     "preview": "cd video && hyperframes preview",
-    "serve": "npx --yes serve site"
+    "serve": "npx --yes serve site",
+    "music": "bash scripts/make-music.sh"
   },
   "repository": {
     "type": "git",
