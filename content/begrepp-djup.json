@@ -1,0 +1,227 @@
+[
+  {
+    "id": "jevons-paradox",
+    "kind": "begrepp",
+    "hook": "Effektivare ångmaskiner – och kolförbrukningen ökade. Hur går det ihop?",
+    "title": "Jevons paradox",
+    "meta": "William Stanley Jevons · 1865",
+    "points": [
+      "När en resurs används effektivare blir den billigare att använda.",
+      "Då används den till fler saker – och totalförbrukningen kan öka.",
+      "Mönstret har setts med belysning, bränsle och datorkraft."
+    ],
+    "takeaway": "Effektivare betyder inte automatiskt mindre.",
+    "source": "Jevons, The Coal Question (1865)",
+    "more": "Jevons skrev att det är ett misstag att tro att sparsam användning av bränsle minskar förbrukningen – det motsatta är sant. Hur stark effekten blir varierar: ibland äts bara en del av besparingen upp (en så kallad rekyleffekt), ibland mer än allt. Därför behöver effektivisering ofta kombineras med andra styrmedel för att totalen ska minska."
+  },
+  {
+    "id": "kobraeffekten",
+    "kind": "begrepp",
+    "hook": "Hanoi betalade för råttsvansar. Resultatet: fler råttor.",
+    "title": "Kobraeffekten",
+    "meta": "Exempel: franska Hanoi, 1902",
+    "points": [
+      "För att bekämpa råttor betalade myndigheterna en slant per avhuggen svans.",
+      "Snart sågs svanslösa råttor springa omkring – de släpptes för att föröka sig.",
+      "Vissa började till och med föda upp råttor för att tjäna pengar."
+    ],
+    "takeaway": "Belöna lösta problem, inte bevis som går att fejka.",
+    "source": "Vann, 'Of Rats, Rice, and Race', French Colonial History (2003)",
+    "more": "Namnet kobraeffekten kommer från en berättelse om kobror i det brittiska Delhi, som är svår att belägga. Fallet i Hanoi är däremot väldokumenterat i koloniala arkiv. Mönstret är detsamma: en belöning för ett mått skapar incitament att producera måttet, inte att lösa problemet."
+  },
+  {
+    "id": "galls-lag",
+    "kind": "begrepp",
+    "hook": "Varför misslyckas så många stora system som byggs från grunden?",
+    "title": "Galls lag",
+    "meta": "John Gall · Systemantics, 1975",
+    "points": [
+      "Ett komplext system som fungerar har nästan alltid vuxit fram ur ett enkelt som fungerade.",
+      "Ett komplext system som designas från grunden fungerar sällan.",
+      "Det går inte att laga i efterhand – man får börja om med något enkelt."
+    ],
+    "takeaway": "Börja med något litet som fungerar – och väx.",
+    "source": "Gall, Systemantics: How Systems Work and Especially How They Fail (1975)",
+    "more": "Gall var barnläkare och skrev boken halvt på skämt, men den blev en kultklassiker bland ingenjörer. Internet, Linux och de flesta städer har vuxit fram stegvis. Stora projekt som försöker bygga allt på en gång – nya IT-system för hela myndigheter, till exempel – är ökända för att spräcka budgetar och tidsplaner."
+  },
+  {
+    "id": "conways-lag",
+    "kind": "begrepp",
+    "hook": "Varför liknar produkter ofta organisationen som byggde dem?",
+    "title": "Conways lag",
+    "meta": "Melvin Conway · 1968",
+    "points": [
+      "System speglar kommunikationsstrukturen hos dem som bygger dem.",
+      "Fyra team som bygger en kompilator får en kompilator i fyra steg.",
+      "Glapp mellan avdelningar blir glapp i produkten."
+    ],
+    "takeaway": "Vill du ändra produkten – ändra hur folk samarbetar.",
+    "source": "Conway, 'How Do Committees Invent?', Datamation (1968)",
+    "more": "Conways artikel refuserades först av Harvard Business Review. I dag använder många företag lagen baklänges, den så kallade omvända Conway-manövern: man formar teamen efter den arkitektur man vill få. Forskare vid Harvard Business School fann stöd för lagen när de jämförde hur modulär mjukvara blev i olika typer av organisationer."
+  },
+  {
+    "id": "hofstadters-lag",
+    "kind": "begrepp",
+    "hook": "Varför tar allt längre tid än du tror – även när du räknat med det?",
+    "title": "Hofstadters lag",
+    "meta": "Douglas Hofstadter · Gödel, Escher, Bach, 1979",
+    "points": [
+      "Lagen: det tar alltid längre tid än du tror, även när du tar hänsyn till Hofstadters lag.",
+      "Den är ett skämt – men speglar planeringsfelslutet, som är väl belagt.",
+      "I en studie blev bara 30 % av studenterna klara med uppsatsen när de själva trott."
+    ],
+    "takeaway": "Utgå från hur lång tid liknande saker tog förut.",
+    "source": "Hofstadter (1979); Buehler, Griffin & Ross, JPSP (1994)",
+    "more": "Planeringsfelslutet beskrevs av Kahneman och Tversky 1979. Botemedlet kallas referensklassprognos: i stället för att föreställa dig hur just ditt projekt ska gå, titta på hur lång tid liknande projekt faktiskt brukar ta. Operahuset i Sydney skulle bli klart 1963 för 7 miljoner australiska dollar – det blev 1973 och 102 miljoner."
+  },
+  {
+    "id": "brandolinis-lag",
+    "kind": "begrepp",
+    "hook": "Varför är det så mycket lättare att sprida en lögn än att motbevisa den?",
+    "title": "Brandolinis lag",
+    "meta": "Alberto Brandolini · 2013",
+    "points": [
+      "Det krävs en storleksordning mer energi att motbevisa trams än att skapa det.",
+      "Ett falskt påstående tar sekunder att skriva. Att granska det kan ta dagar.",
+      "Därför hinner myten ofta långt innan rättelsen ens har kommit ut."
+    ],
+    "takeaway": "Lägg energin på att förebygga, inte bara rätta.",
+    "source": "Brandolini, inlägg på Twitter (2013)",
+    "more": "Lagen kallas också asymmetriprincipen för trams. Ett exempel är myten om att vaccin orsakar autism: den bygger på en studie från 1998 som drogs tillbaka och visade sig vara fusk, men det har krävt decennier och hundratals studier att bemöta den. Forskning om förvaccinering (prebunking) tyder på att det är effektivt att varna för vanliga manipulationstekniker i förväg."
+  },
+  {
+    "id": "moravecs-paradox",
+    "kind": "begrepp",
+    "hook": "Datorer slår oss i schack men har svårt att vika en handduk. Varför?",
+    "title": "Moravecs paradox",
+    "meta": "Hans Moravec m.fl. · 1980-talet",
+    "points": [
+      "Det vi tycker är svårt – logik, schack, huvudräkning – är relativt lätt för datorer.",
+      "Det vi tycker är lätt – gå, se, greppa saker – är extremt svårt att bygga.",
+      "Evolutionen har finslipat våra sinnen och vår motorik i hundratals miljoner år."
+    ],
+    "takeaway": "Det som känns lätt för oss är ofta det svåraste att bygga.",
+    "source": "Moravec, Mind Children (1988)",
+    "more": "Moravec skrev att det är jämförelsevis lätt att få datorer att prestera på vuxen nivå i intelligenstester eller dam, men svårt eller omöjligt att ge dem en ettårings förmåga att uppfatta och röra sig. Abstrakt tänkande är en ny och tunn förmåga hos oss – därför är det lättare att efterlikna. Robotar som viker tvätt är fortfarande ett forskningsområde."
+  },
+  {
+    "id": "braess-paradox",
+    "kind": "begrepp",
+    "hook": "Kan en ny väg göra trafiken långsammare för alla?",
+    "title": "Braess paradox",
+    "meta": "Dietrich Braess · 1968",
+    "points": [
+      "Om alla förare väljer den snabbaste vägen för egen del kan en ny genväg skapa köer.",
+      "Alla trängs in på genvägen – och restiden blir längre för alla.",
+      "Omvänt kan en stängd väg ibland göra trafiken bättre."
+    ],
+    "takeaway": "Det bästa för var och en är inte alltid bäst för alla.",
+    "source": "Braess, Unternehmensforschung (1968)",
+    "more": "När Seoul 2005 rev en motorväg och återställde floden Cheonggyecheon blev det inte trafikkaos, som många befarat. Samma princip har visats i elnät och till och med i mekaniska system med fjädrar. Fenomenet visar att ett läge där alla agerar för egen vinning kan vara sämre för alla än ett samordnat val."
+  },
+  {
+    "id": "simpsons-paradox",
+    "kind": "begrepp",
+    "hook": "Ett universitet såg ut att diskriminera kvinnor. Siffrorna visade något annat.",
+    "title": "Simpsons paradox",
+    "meta": "Exempel: UC Berkeley, antagningen 1973",
+    "points": [
+      "Totalt antogs 44 % av de manliga sökande men bara 35 % av de kvinnliga.",
+      "Men inom de flesta institutioner antogs kvinnor i lika hög eller högre grad.",
+      "Kvinnorna sökte oftare till institutioner där få antogs – oavsett kön."
+    ],
+    "takeaway": "Ett totalsnitt kan visa motsatsen till delarna.",
+    "source": "Bickel, Hammel & O'Connell, Science (1975)",
+    "more": "Simpsons paradox uppstår när en dold faktor – här vilken institution man sökte till – påverkar både gruppen och utfallet. Den dyker upp i medicin, sport och politik. I ett känt exempel om njursten var den behandling som såg sämre ut totalt i själva verket bättre för både små och stora stenar, var för sig."
+  },
+  {
+    "id": "basfrekvensfelet",
+    "kind": "begrepp",
+    "hook": "Testet är 99 % säkert och du får ett positivt svar. Hur troligt är det att du är sjuk?",
+    "title": "Basfrekvensfelet",
+    "meta": "Statistik · Bayes sats, 1763",
+    "points": [
+      "Säg att sjukdomen drabbar 1 av 1 000 och att testet ger 1 % falsklarm.",
+      "Testa 1 000 personer: den sjuka hittas – men också runt 10 friska.",
+      "Av alla positiva svar är alltså bara ungefär vart elfte sant."
+    ],
+    "takeaway": "Fråga alltid: hur vanligt är det från början?",
+    "source": "Bayes (1763); Casscells, Schoenberger & Graboys, NEJM (1978)",
+    "more": "I en klassisk studie fick läkare och läkarstudenter vid Harvard en liknande fråga. Det vanligaste svaret var 95 % – rätt svar var runt 2 %. Basfrekvensen glöms bort eftersom fallet framför oss känns viktigare än den tråkiga statistiken i bakgrunden. Samma misstag görs i rättssalar och vid screening av hela befolkningar."
+  },
+  {
+    "id": "satisficing",
+    "kind": "begrepp",
+    "hook": "Ska du leta efter det bästa – eller nöja dig med bra nog?",
+    "title": "Satisficing",
+    "meta": "Herbert Simon · 1956",
+    "points": [
+      "Simon menade att vi sällan kan hitta det optimala – det kostar för mycket att leta.",
+      "Vi väljer i stället det första som är tillräckligt bra.",
+      "Senare studier fann att maximerare gjorde objektivt bättre val – men var mindre nöjda."
+    ],
+    "takeaway": "Bestäm vad som är bra nog – och sluta leta där.",
+    "source": "Simon, Psychological Review (1956); Iyengar, Wells & Schwartz (2006)",
+    "more": "Ordet är en blandning av engelskans 'satisfy' och 'suffice'. Simon fick ekonomipriset till Nobels minne 1978. I en studie av nyutexaminerade fick maximerarna jobb med 20 % högre lön, men de var mindre nöjda, mer ängsliga och mer besvikna under jobbsökandet än de som nöjde sig med bra nog."
+  },
+  {
+    "id": "riskkompensation",
+    "kind": "begrepp",
+    "hook": "Säkrare bilar – och förarna började köra mer vårdslöst.",
+    "title": "Riskkompensation",
+    "meta": "Sam Peltzman · 1975",
+    "points": [
+      "När något känns säkrare tar vi ofta ut tryggheten i form av mer risk.",
+      "I en studie i München körde taxichaufförer med ABS-bromsar tätare och tvärare.",
+      "Effekten äter sällan upp hela säkerhetsvinsten – men en del av den."
+    ],
+    "takeaway": "Ny säkerhet förändrar beteendet – räkna med det.",
+    "source": "Peltzman, J. of Political Economy (1975); Aschenbrenner & Biehl (1994)",
+    "more": "Peltzman hävdade att säkerhetskrav på bilar knappt minskade dödligheten eftersom förare körde mer riskabelt – en slutsats som senare forskning ifrågasatt. Bilbälten räddar uppenbart liv. Men idén lever vidare i forskning om allt från cykelhjälmar till statliga garantier för banker."
+  },
+  {
+    "id": "stockdaleparadoxen",
+    "kind": "begrepp",
+    "hook": "I fånglägret bröts optimisterna ned först. Varför?",
+    "title": "Stockdaleparadoxen",
+    "meta": "James Stockdale · krigsfånge 1965–1973",
+    "points": [
+      "Stockdale satt sju och ett halvt år i fångenskap i Nordvietnam.",
+      "De som sa 'vi är hemma till jul' bröts ned när jul efter jul passerade.",
+      "Han höll fast vid att det skulle sluta väl – och såg samtidigt verkligheten i vitögat."
+    ],
+    "takeaway": "Tro på slutet. Blunda inte för nuet.",
+    "source": "Collins, Good to Great (2001), kap. 4",
+    "more": "Stockdale var en av de högst rankade amerikanska officerarna i fånglägret och torterades upprepade gånger. Han berättade för Jim Collins att han aldrig tvivlade på att han skulle komma ut. Han hade läst Epiktetos och sa att stoicismen hjälpte honom att skilja mellan det han kunde och inte kunde påverka."
+  },
+  {
+    "id": "roda-drottningen",
+    "kind": "begrepp",
+    "hook": "Varför måste arter springa för att stå still?",
+    "title": "Röda drottningen",
+    "meta": "Leigh Van Valen · 1973",
+    "points": [
+      "Rovdjur blir snabbare, bytesdjur blir snabbare – ingen får ett varaktigt övertag.",
+      "Parasiter anpassar sig till värdar, och värdar till parasiter.",
+      "Arter måste ständigt förändras bara för att behålla sin plats."
+    ],
+    "takeaway": "I en tävlande värld är stillastående att falla bakåt.",
+    "source": "Van Valen, 'A New Evolutionary Law', Evolutionary Theory (1973)",
+    "more": "Namnet kommer från Lewis Carrolls Alice i Spegellandet. Van Valen fann att risken för att en grupp av arter dör ut verkade ungefär konstant över tid – oavsett hur länge gruppen funnits. Idén används också för att förklara varför sexuell förökning finns: den blandar generna och gör det svårare för parasiter att hänga med."
+  },
+  {
+    "id": "ostroms-allmanningar",
+    "kind": "begrepp",
+    "hook": "Måste allmänningar alltid gå under? En Nobelpristagare sa nej.",
+    "title": "Ostroms allmänningar",
+    "meta": "Elinor Ostrom · ekonomipriset 2009",
+    "points": [
+      "Teorin sa att gemensamma resurser överutnyttjas om ingen äger dem.",
+      "Ostrom studerade fiskevatten, betesmarker och bevattning som skötts i århundraden.",
+      "Grupper med egna regler, övervakning och gradvisa straff lyckades."
+    ],
+    "takeaway": "Människor kan förvalta det gemensamma – med rätt regler.",
+    "source": "Ostrom, Governing the Commons (1990)",
+    "more": "Ostrom var den första kvinnan som fick ekonomipriset till Nobels minne. Hennes exempel inkluderade alpbeten i Törbel i Schweiz, som förvaltats gemensamt sedan medeltiden, och bevattningssystem i Spanien och Filippinerna. Hon formulerade åtta designprinciper, som tydliga gränser och att de som berörs av reglerna får vara med och ändra dem."
+  }
+]

@@ -1,0 +1,242 @@
+[
+  {
+    "id": "zhuangzi-tradet",
+    "kind": "filosofi",
+    "hook": "Vad är det för fel med att vara oanvändbar?",
+    "title": "Zhuangzi",
+    "meta": "Daoist · ca 369–286 f.Kr.",
+    "points": [
+      "En snickare går förbi ett jättelikt, knotigt träd utan att ens stanna.",
+      "Virket duger inte till båtar, kistor eller dörrar – så ingen hugger ner det.",
+      "Just därför har trädet fått växa sig enormt och uråldrigt."
+    ],
+    "takeaway": "Allt behöver inte vara nyttigt för att ha ett värde.",
+    "source": "Zhuangzi, kap. 4 (Människans värld)",
+    "more": "Zhuangzi gör ofta narr av jakten på nytta och plikt. I berättelsen visar sig trädet för snickaren i en dröm och frågar om han själv – en 'användbar' människa som snart ska dö – verkligen är så mycket bättre. Poängen: det som värderas för sin nytta blir också förbrukat."
+  },
+  {
+    "id": "pyrrhon-epoche",
+    "kind": "filosofi",
+    "hook": "Tänk om lugnet kommer först när du slutar ta ställning?",
+    "title": "Pyrrhon",
+    "meta": "Skeptiker · ca 360–270 f.Kr.",
+    "points": [
+      "För varje argument går det att hitta ett lika starkt motargument.",
+      "Pyrrhon föreslog epoché: att hålla inne med sitt omdöme.",
+      "Ur det, menade skeptikerna, följer ataraxia – sinnesro."
+    ],
+    "takeaway": "Alla frågor kräver inte ett svar just nu.",
+    "source": "Sextus Empiricus, Grunddragen av pyrrhonismen, bok 1",
+    "more": "Pyrrhon följde Alexander den store till Indien och kan ha mött asketer där. Han skrev inget själv; vi känner honom genom eleven Timon och läkaren Sextus Empiricus. Sextus liknar sinnesron vid målaren Apelles, som gav upp att måla skummet kring en hästs mule, kastade svampen mot tavlan i ilska – och fick fram skummet."
+  },
+  {
+    "id": "weil-uppmarksamhet",
+    "kind": "filosofi",
+    "hook": "Den finaste gåvan du kan ge någon kostar ingenting.",
+    "title": "Simone Weil",
+    "meta": "Filosof · 1909–1943",
+    "points": [
+      "Weil menade att uppmärksamhet är något annat än att anstränga sig.",
+      "Det är att tömma sig på sig själv och låta den andra finnas fullt ut.",
+      "Den viktigaste frågan till någon som lider är: 'Vad går du igenom?'"
+    ],
+    "takeaway": "Uppmärksamhet är en form av kärlek.",
+    "source": "Weil, brev till Joë Bousquet (1942); Om skolstudiernas rätta bruk",
+    "more": "Weil arbetade frivilligt i fabrik och reste till spanska inbördeskriget för att förstå de utsattas villkor. Hon menade att även en misslyckad skolövning är värdefull, eftersom den tränar förmågan att verkligen rikta uppmärksamheten – samma förmåga som krävs för att se en annan människa."
+  },
+  {
+    "id": "murdoch-tornfalken",
+    "kind": "filosofi",
+    "hook": "En fågel utanför fönstret kan bryta en grubblande tanke.",
+    "title": "Iris Murdoch",
+    "meta": "Filosof och romanförfattare · 1919–1999",
+    "points": [
+      "Murdoch sitter ängslig och sårad – och ser plötsligt en tornfalk sväva.",
+      "På ett ögonblick är det grubblande jaget borta. Bara falken finns kvar.",
+      "Hon kallade det 'unselfing': att se verkligheten bortom sitt ego."
+    ],
+    "takeaway": "Moral börjar med att se klart – inte med att välja.",
+    "source": "Murdoch, The Sovereignty of Good (1970)",
+    "more": "Murdoch menade att det mesta av vårt moraliska liv inte sker i stora val utan i hur vi ser på saker och människor, dag efter dag. Hindret är 'det feta, obevekliga egot'. Skönhet i naturen och konsten är genvägar ut ur det – och att lära sig något svårt, som ett främmande språk, likaså."
+  },
+  {
+    "id": "nagarjuna-tomhet",
+    "kind": "filosofi",
+    "hook": "Finns det något som existerar helt av sig självt?",
+    "title": "Nagarjuna",
+    "meta": "Buddhistisk filosof · ca 150–250 e.Kr.",
+    "points": [
+      "Allt uppstår i beroende av något annat: orsaker, delar och sammanhang.",
+      "Därför saknar allt en fast, egen kärna – det är 'tomt'.",
+      "Tomhet betyder inte att inget finns, utan att allt hänger ihop."
+    ],
+    "takeaway": "Ingenting står helt för sig självt – inte ens du.",
+    "source": "Nagarjuna, Mūlamadhyamakakārikā, kap. 24",
+    "more": "Nagarjuna grundade madhyamaka, 'mellanvägens' skola. Han varnade för att göra tomheten till en ny dogm: den som griper den fel är som någon som griper en orm i fel ände. Han skilde mellan konventionell sanning – där bord och personer finns – och ultimat sanning, där allt är relationer."
+  },
+  {
+    "id": "ibn-khaldun-cykeln",
+    "kind": "filosofi",
+    "hook": "Varför faller mäktiga dynastier ofta inom tre generationer?",
+    "title": "Ibn Khaldun",
+    "meta": "Historiker och filosof · 1332–1406",
+    "points": [
+      "Han kallade gruppens sammanhållning för asabiyya.",
+      "Hårda villkor skapar stark asabiyya – och grupper som erövrar.",
+      "Lyx och trygghet nöter ner den, tills en ny grupp tar över."
+    ],
+    "takeaway": "Framgång kan underminera det som skapade den.",
+    "source": "Ibn Khaldun, Muqaddimah (1377)",
+    "more": "Ibn Khaldun skrev Muqaddimah som inledning till en världshistoria, och den räknas ofta som en föregångare till sociologin. Han menade att en dynasti sällan överlever mer än tre–fyra generationer, ungefär 120 år: grundarna, de som minns grundarna och de som bara känner lyxen."
+  },
+  {
+    "id": "al-ghazali-elden",
+    "kind": "filosofi",
+    "hook": "Är det verkligen elden som får bomullen att brinna?",
+    "title": "Al-Ghazali",
+    "meta": "Teolog och filosof · 1058–1111",
+    "points": [
+      "Vi ser att bomull brinner när den rör vid eld – men aldrig själva orsaken.",
+      "Att två saker alltid följer på varandra bevisar inte att de måste göra det.",
+      "Samma argument gjorde David Hume berömd – över 600 år senare."
+    ],
+    "takeaway": "Vana är inte samma sak som bevis.",
+    "source": "Al-Ghazali, Filosofernas inkoherens (Tahāfut, ca 1095)",
+    "more": "Al-Ghazali använde argumentet för att hävda att Gud orsakar varje händelse direkt. Men själva iakttagelsen – att vi bara ser att saker följer på varandra, inte att de måste göra det – står på egna ben. Ibn Rushd (Averroës) svarade med boken 'Inkoherensens inkoherens'."
+  },
+  {
+    "id": "spinoza-stenen",
+    "kind": "filosofi",
+    "hook": "Om en kastad sten kunde tänka – skulle den tro att den var fri?",
+    "title": "Spinoza",
+    "meta": "Filosof · 1632–1677",
+    "points": [
+      "En sten i luften skulle kunna tro att den flyger av egen vilja.",
+      "Vi känner till våra begär, men sällan orsakerna bakom dem.",
+      "Frihet, för Spinoza, är att förstå vad som driver en."
+    ],
+    "takeaway": "Förstå dina orsaker så styr de dig mindre.",
+    "source": "Spinoza, brev 58 till Schuller (1674); Etiken, del 4–5",
+    "more": "Spinoza bannlystes från den judiska församlingen i Amsterdam 1656, 23 år gammal, och försörjde sig delvis som linsslipare. I Etiken skriver han att en känsla som är ett lidande upphör att vara det så fort vi bildar oss en klar idé om den. Hans tänkande påverkade allt från upplysningen till Einstein."
+  },
+  {
+    "id": "midgley-rormokeri",
+    "kind": "filosofi",
+    "hook": "Varför liknade en filosof sitt ämne vid rörmokeri?",
+    "title": "Mary Midgley",
+    "meta": "Filosof · 1919–2018",
+    "points": [
+      "Under varje kultur löper ett osynligt system av idéer – som rör under golvet.",
+      "Ingen tänker på dem förrän något börjar lukta.",
+      "Filosofens jobb är att lyfta på golvet och leta efter läckan."
+    ],
+    "takeaway": "Problem kan sitta i idéerna som ingen ser.",
+    "source": "Midgley, Philosophical Plumbing (1992)",
+    "more": "Midgley gav ut sin första bok först vid 59 års ålder och skrev sedan om allt från djurs moral till vetenskapens myter. Hon kritiserade till exempel Richard Dawkins för att göra 'själviska gener' till en moralisk berättelse. Hennes poäng: dåliga bakomliggande bilder av människan ger dåliga beslut – även om ingen säger dem högt."
+  },
+  {
+    "id": "parfit-teleportern",
+    "kind": "filosofi",
+    "hook": "Om en teleporter kopierade dig – vem vore då du?",
+    "title": "Derek Parfit",
+    "meta": "Filosof · 1942–2017",
+    "points": [
+      "Maskinen skannar dig, förstör originalet och bygger en exakt kopia på Mars.",
+      "Kopian minns allt du minns. Är det du – eller en ny person?",
+      "Parfit menade att frågan om identitet är mindre viktig än vi tror."
+    ],
+    "takeaway": "Det som räknas är sambandet, inte en fast kärna.",
+    "source": "Parfit, Reasons and Persons (1984), del 3",
+    "more": "Parfit hävdade att det som spelar roll är psykologisk kontinuitet – minnen, avsikter, karaktär – och att den kan vara mer eller mindre stark. Han skrev att insikten gjorde honom mindre rädd för döden: livet kändes mindre som en glastunnel och mer som öppen luft, med andra människor närmare."
+  },
+  {
+    "id": "williams-moralisk-tur",
+    "kind": "filosofi",
+    "hook": "Två berusade förare kör hem. Bara den ena kör på ett barn.",
+    "title": "Moralisk tur",
+    "meta": "Bernard Williams & Thomas Nagel · 1976",
+    "points": [
+      "Båda gjorde samma sak. Ändå dömer vi den ena mycket hårdare.",
+      "Skillnaden avgjordes av slumpen – ett barn som sprang ut.",
+      "Ändå känns det fel att säga att de är lika skyldiga."
+    ],
+    "takeaway": "Vi dömer ofta utfall, inte val.",
+    "source": "Williams & Nagel, 'Moral Luck', Aristotelian Society (1976)",
+    "more": "Nagel delade in turen i olika slag: tur i omständigheter, i konsekvenser och till och med i vilken karaktär man fått. Problemet är att vi bara vill skylla folk för det de kontrollerar – men nästan inget är helt under vår kontroll. Frågan är fortfarande olöst."
+  },
+  {
+    "id": "neurath-skeppet",
+    "kind": "filosofi",
+    "hook": "Hur bygger man om ett skepp mitt ute på havet?",
+    "title": "Otto Neurath",
+    "meta": "Filosof och samhällsvetare · 1882–1945",
+    "points": [
+      "Vi kan aldrig docka vår kunskap och börja om från grunden.",
+      "Vi får byta en planka i taget – medan vi seglar.",
+      "Varje idé prövas mot alla de andra som vi just då står på."
+    ],
+    "takeaway": "Förbättra det du har – du kan inte börja om från noll.",
+    "source": "Neurath, 'Protokollsätze', Erkenntnis (1932)",
+    "more": "Neurath var medlem av Wienkretsen och skapade även Isotype, bildspråket som ligger bakom dagens infografik och piktogram. Skeppet är ett svar till Descartes, som ville riva allt och bygga på säker grund. Liknelsen togs senare upp av W. V. O. Quine och har blivit en standardbild för hur kunskap och samhällen förändras."
+  },
+  {
+    "id": "wang-yangming",
+    "kind": "filosofi",
+    "hook": "Om du vet vad du borde göra men inte gör det – vet du det då?",
+    "title": "Wang Yangming",
+    "meta": "Konfuciansk filosof · 1472–1529",
+    "points": [
+      "Wang lärde ut 'kunskapens och handlingens enhet'.",
+      "Den som säger sig veta att föräldrar ska vördas men inte gör det, vet det inte än.",
+      "Riktig kunskap är som att avsky en dålig lukt – avskyn kommer med insikten."
+    ],
+    "takeaway": "Kunskap som inte syns i handling är bara åsikt.",
+    "source": "Wang Yangming, Chuanxi lu (Instruktioner för praktiskt liv)",
+    "more": "Wang var ämbetsman och general och förvisades till en avlägsen post i Guizhou efter att ha kritiserat en mäktig eunuck vid hovet. Där fick han sin insikt: principerna finns inte i yttre ting utan i det egna sinnet. Hans skola fick stort inflytande i Japan, bland annat på reformatorer under Meiji-tiden."
+  },
+  {
+    "id": "nagel-fladdermus",
+    "kind": "filosofi",
+    "hook": "Hur känns det att vara en fladdermus?",
+    "title": "Thomas Nagel",
+    "meta": "Filosof · f. 1937",
+    "points": [
+      "Fladdermöss uppfattar världen med ekolod – ett sinne vi helt saknar.",
+      "Vi kan beskriva deras hjärna i detalj och ändå inte veta hur det känns.",
+      "Upplevelsen inifrån är svår att fånga med fysikens språk."
+    ],
+    "takeaway": "Att förstå något är inte samma sak som att uppleva det.",
+    "source": "Nagel, 'What Is It Like to Be a Bat?', Philosophical Review (1974)",
+    "more": "Nagels uppsats är en av de mest citerade i medvetandefilosofin. Han förnekar inte att medvetandet är fysiskt, men hävdar att vi saknar begrepp för att förstå hur det skulle kunna vara det. Idén föregick David Chalmers 'svåra problem' med två decennier."
+  },
+  {
+    "id": "mozi-omsorg",
+    "kind": "filosofi",
+    "hook": "En kinesisk tänkare argumenterade mot erövringskrig – för 2 400 år sedan.",
+    "title": "Mozi",
+    "meta": "Filosof · ca 470–391 f.Kr.",
+    "points": [
+      "Den som stjäl persikor kallas tjuv. Den som erövrar ett land kallas hjälte.",
+      "Mozi förespråkade jian ai: omsorg om alla, inte bara om de egna.",
+      "Hans anhängare blev experter på att försvara städer mot belägring."
+    ],
+    "takeaway": "Det som är fel i liten skala är fel även i stor.",
+    "source": "Mozi, kapitlen 'Mot anfallskrig' och 'Allomfattande omsorg'",
+    "more": "Mohismen var under en tid lika inflytelserik som konfucianismen. Mozi prövade idéer mot tre kriterier: stämmer de med de vises exempel, med folks erfarenhet, och gagnar de folket? Mohisterna byggde försvarsverk åt hotade städer – en fredsrörelse med verktyg. Skolan försvann efter att Qin-dynastin enat Kina."
+  },
+  {
+    "id": "boethius-hjulet",
+    "kind": "filosofi",
+    "hook": "Vad skriver man i en fängelsecell i väntan på avrättning?",
+    "title": "Boethius",
+    "meta": "Filosof och ämbetsman · ca 477–524",
+    "points": [
+      "Boethius föll från Roms högsta ämbeten till dödscellen.",
+      "Där lät han Filosofin besöka honom i en kvinnas gestalt och tala honom till rätta.",
+      "Lyckan är ett hjul: den som klagar när det snurrar har missförstått det."
+    ],
+    "takeaway": "Lyckan kan ta det den gav – men inte vem du är.",
+    "source": "Boethius, Filosofins tröst (ca 524), bok 2",
+    "more": "Filosofins tröst blev en av medeltidens mest lästa böcker och översattes av bland andra Alfred den store, Chaucer och drottning Elizabeth I. Lyckohjulet, rota fortunae, fanns redan i antiken men fick genom Boethius sin plats i medeltida konst och litteratur."
+  }
+]

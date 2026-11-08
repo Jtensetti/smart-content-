@@ -3,6 +3,8 @@
 // `title` is the small heading above the visual, `note` the line under it (both optional).
 // Numbers here come from the cited sources; illustrative shapes say so in `note`.
 
+import DJUP from "./visuals-djup.mjs";
+
 const curve = (n, f) => Array.from({ length: n }, (_, i) => +f(i).toFixed(3));
 
 export default {
@@ -462,4 +464,5 @@ export default {
     myth: "Barn som kan vänta på godiset lyckas bättre i livet.",
     fact: "Med 900 barn och hänsyn till bakgrund krymper sambandet nästan till noll.",
   },
+  ...DJUP,
 };

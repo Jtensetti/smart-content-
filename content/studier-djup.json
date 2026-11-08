@@ -1,0 +1,285 @@
+[
+  {
+    "id": "challenger-minnen",
+    "kind": "studie",
+    "hook": "Du minns exakt var du var när du fick chockbeskedet. Eller?",
+    "title": "Challenger-minnena",
+    "meta": "Ulric Neisser & Nicole Harsch · Emory, 1986–1988",
+    "stat": "25 %",
+    "statLabel": "mindes fel på varenda huvudpunkt – men var säkra",
+    "points": [
+      "Dagen efter rymdfärjans olycka skrev studenter ned hur de fått beskedet.",
+      "Två och ett halvt år senare fick de berätta igen.",
+      "Många minnen hade ändrats helt – men säkerheten var lika hög."
+    ],
+    "takeaway": "Starka känslor ger livliga minnen, inte korrekta.",
+    "source": "Neisser & Harsch, i Affect and Accuracy in Recall (1992)",
+    "more": "Några deltagare vägrade tro sina egna anteckningar när de fick se dem: det var deras handstil, men så hade det inte gått till. Liknande studier efter 11 september visade samma mönster. Så kallade blixtljusminnen känns fotografiska men förändras ungefär som vanliga minnen – bara vår tilltro till dem består."
+  },
+  {
+    "id": "kalla-handen",
+    "kind": "studie",
+    "hook": "Skulle du hellre ha 60 sekunders smärta – eller 90?",
+    "title": "Kalla handen-experimentet",
+    "meta": "Kahneman, Fredrickson m.fl. · 1993",
+    "stat": "69 %",
+    "statLabel": "valde att upprepa det längre försöket",
+    "points": [
+      "Deltagare höll handen i 14-gradigt vatten i 60 sekunder.",
+      "I ett annat försök: 60 sekunder, sedan 30 till medan vattnet blev en grad varmare.",
+      "De flesta valde att göra om det längre försöket – det slutade ju bättre."
+    ],
+    "takeaway": "Minnet mäter toppen och slutet, inte längden.",
+    "source": "Kahneman m.fl., Psychological Science (1993)",
+    "more": "Fenomenet kallas topp–slut-regeln. Samma mönster syntes hos patienter som gjorde koloskopi: de som fick en lugnare avslutning mindes hela undersökningen som mindre obehaglig, trots att den varade längre (Redelmeier & Kahneman 1996). Det säger något om hur semestrar, möten och svåra samtal borde avslutas."
+  },
+  {
+    "id": "kopiatorn",
+    "kind": "studie",
+    "hook": "Ett enda ord fick folk att släppa fram en främling i kön.",
+    "title": "Kopiatorstudien",
+    "meta": "Ellen Langer m.fl. · Harvard, 1978",
+    "stat": "93 %",
+    "statLabel": "släppte fram – för att personen 'behövde göra kopior'",
+    "points": [
+      "En forskare försökte gå före i kön till kopiatorn med fem sidor.",
+      "Med ett riktigt skäl ('jag har bråttom') sa 94 % ja. Utan skäl 60 %.",
+      "Med ett tomt skäl – 'för att jag måste göra kopior' – sa 93 % ja."
+    ],
+    "takeaway": "Ett 'för att' räcker ofta – vi lyssnar sällan på resten.",
+    "source": "Langer, Blank & Chanowitz, J. of Personality and Social Psychology (1978)",
+    "more": "Langer kallade det tanklöshet: vi följer inlärda manus. Men effekten hade gränser. När forskaren ville kopiera 20 sidor fungerade det tomma skälet inte bättre än inget skäl alls – då började folk faktiskt tänka efter. Stora beslut väcker oss, små gör det inte."
+  },
+  {
+    "id": "hofling-skoterskor",
+    "kind": "studie",
+    "hook": "En okänd läkare ringer och beordrar en överdos. Vad gör sjuksköterskan?",
+    "title": "Hoflings sjuksköterskor",
+    "meta": "Charles Hofling m.fl. · amerikanska sjukhus, 1966",
+    "stat": "21 av 22",
+    "statLabel": "var på väg att ge dubbla maxdosen när de stoppades",
+    "points": [
+      "En 'doktor Smith' ringde och bad om 20 mg av ett okänt läkemedel.",
+      "Förpackningen sa tydligt att maxdosen var 10 mg.",
+      "Att ta emot ordinationer per telefon var dessutom emot sjukhusets regler."
+    ],
+    "takeaway": "Hierarki kan slå ut både regler och sunt förnuft.",
+    "source": "Hofling m.fl., Journal of Nervous and Mental Disease (1966)",
+    "more": "Läkemedlet, 'Astroten', var påhittat och kapslarna ofarliga. När andra sjuksköterskor fick frågan i en enkät svarade nästan alla att de aldrig skulle lyda. En senare studie (Rank & Jacobsen 1977) fann betydligt lägre lydnad när läkemedlet var välkänt och sjuksköterskorna kunde rådfråga kollegor – vilket i sig är en lärdom."
+  },
+  {
+    "id": "capilano-bron",
+    "kind": "studie",
+    "hook": "Kan en skakig bro få dig att bli förälskad?",
+    "title": "Bron över Capilano",
+    "meta": "Donald Dutton & Arthur Aron · Kanada, 1974",
+    "stat": "50 %",
+    "statLabel": "ringde upp henne efter hängbron – mot 13 % efter den stadiga",
+    "points": [
+      "En kvinna intervjuade män mitt på en svajande hängbro, 70 meter upp.",
+      "Andra män intervjuades på en låg, stadig bro längre ned.",
+      "Hon gav alla sitt nummer. Männen från hängbron ringde mycket oftare."
+    ],
+    "takeaway": "Kroppen kan blanda ihop rädsla med attraktion.",
+    "source": "Dutton & Aron, J. of Personality and Social Psychology (1974)",
+    "more": "Förklaringen kallas felattribution av upphetsning: hjärtat bultar av höjden, men hjärnan tolkar det som att kvinnan är attraktiv. Studien var liten – 9 av 18 mot 2 av 16 ringde – och effekten har varit svår att få fram lika tydligt i senare försök. Se den som en intressant idé snarare än en naturlag."
+  },
+  {
+    "id": "nunnestudien",
+    "kind": "studie",
+    "hook": "Kan en text skriven vid 22 års ålder förutsäga hur länge du lever?",
+    "title": "Nunnestudien",
+    "meta": "Danner, Snowdon & Friesen · USA, 2001",
+    "stat": "~7 år",
+    "statLabel": "längre liv för de mest positiva skribenterna",
+    "points": [
+      "180 nunnor skrev korta självbiografier när de gick in i orden, på 1930-talet.",
+      "Sex decennier senare räknade forskare uttryck för positiva känslor i texterna.",
+      "Den gladaste fjärdedelen levde i snitt nästan sju år längre än den minst glada."
+    ],
+    "takeaway": "Positiva känslor hänger ihop med ett längre liv.",
+    "source": "Danner, Snowdon & Friesen, J. of Personality and Social Psychology (2001)",
+    "more": "Nunnor är en ovanligt bra grupp att studera: samma mat, samma boende, samma vård och varken barn eller rökning. Det minskar många störfaktorer. Men studien visar fortfarande ett samband, inte en orsak – glädjen kan spegla något annat, som god hälsa redan tidigt. Samma nunnor bidrog också till alzheimerforskningen."
+  },
+  {
+    "id": "rodin-plantor",
+    "kind": "studie",
+    "hook": "En krukväxt och lite eget ansvar – och fler levde ett och ett halvt år senare.",
+    "title": "Plantorna på äldreboendet",
+    "meta": "Ellen Langer & Judith Rodin · Connecticut, 1976",
+    "stat": "15 % mot 30 %",
+    "statLabel": "dödlighet efter 18 månader – med och utan eget ansvar",
+    "points": [
+      "Boende på en våning fick välja och sköta en egen växt och styra mer av sin vardag.",
+      "På en annan våning fick de en växt som personalen skötte.",
+      "Gruppen med ansvar blev gladare och mer aktiv – och färre hade dött efter 18 månader."
+    ],
+    "takeaway": "Känslan av kontroll är bra för hälsan.",
+    "source": "Langer & Rodin (1976); Rodin & Langer (1977), JPSP",
+    "more": "Studien var liten och dödligheten var inget planerat huvudmått, så siffrorna ska tas med försiktighet. Men grundidén – att människor mår bättre när de får bestämma över sin egen tillvaro – har stöd i mycket annan forskning. Den har påverkat hur många äldreboenden arbetar med delaktighet."
+  },
+  {
+    "id": "spotlight-trojan",
+    "kind": "studie",
+    "hook": "Alla såg din pinsamma tröja. Eller hur många var det egentligen?",
+    "title": "Spotlighteffekten",
+    "meta": "Thomas Gilovich m.fl. · Cornell, 2000",
+    "stat": "≈ 23 %",
+    "statLabel": "lade märke till tröjan – inte hälften, som bäraren trodde",
+    "points": [
+      "Studenter fick ta på sig en tröja med Barry Manilow och gå in i ett rum fullt av folk.",
+      "De gissade att ungefär hälften av de andra hade lagt märke till den.",
+      "I själva verket var det ungefär var fjärde."
+    ],
+    "takeaway": "Andra tänker mycket mindre på dig än du tror.",
+    "source": "Gilovich, Medvec & Savitsky, J. of Personality and Social Psychology (2000)",
+    "more": "Effekten gäller även våra felsägningar i diskussioner och dåliga hårdagar. Vi är så upptagna av vår egen upplevelse att vi överskattar hur synliga vi är. Det gäller åt andra hållet också: andra märker sällan hur nervösa vi är – det kallas genomskinlighetsillusionen."
+  },
+  {
+    "id": "falsk-konsensus",
+    "kind": "studie",
+    "hook": "Skulle du gå runt på campus med en reklamskylt? Vad tror du att andra skulle göra?",
+    "title": "Falsk konsensus",
+    "meta": "Lee Ross m.fl. · Stanford, 1977",
+    "stat": "62 %",
+    "statLabel": "trodde att andra också skulle ställa upp – bland dem som sa ja",
+    "points": [
+      "Studenter ombads bära en skylt med texten 'Eat at Joe's' i en halvtimme.",
+      "De som sa ja trodde att de flesta andra också skulle säga ja.",
+      "De som sa nej trodde att de flesta skulle säga nej."
+    ],
+    "takeaway": "Vi tror att vårt eget val är det normala.",
+    "source": "Ross, Greene & House, J. of Experimental Social Psychology (1977)",
+    "more": "Effekten är robust och syns överallt – i politik, konsumtion och vanor. Den som röker överskattar hur många som röker, och den som fuskar på skatten tror att alla gör det. Att se sin egen åsikt som den vanliga gör det också lättare att se dem som tycker annorlunda som konstiga."
+  },
+  {
+    "id": "lenski-ecoli",
+    "kind": "studie",
+    "hook": "Ett experiment med bakterier har pågått sedan 1988. Vad har hänt?",
+    "title": "Lenskis E. coli",
+    "meta": "Richard Lenski m.fl. · startat 1988",
+    "stat": "75 000+",
+    "statLabel": "generationer av evolution i realtid",
+    "points": [
+      "Tolv identiska bakteriepopulationer startades och förs över till ny näring varje dag.",
+      "Prover fryses ned regelbundet – en fossil serie som kan väckas till liv igen.",
+      "Efter drygt 30 000 generationer lärde sig en population äta citrat – en helt ny förmåga."
+    ],
+    "takeaway": "Evolution går att se, mäta och spola tillbaka.",
+    "source": "Blount, Borland & Lenski, PNAS (2008)",
+    "more": "Genom att väcka frysta prover kunde forskarna visa att citratförmågan krävde tidigare, till synes neutrala mutationer – historien spelade roll. Alla populationer har också blivit bättre på att växa, men förbättringarna avtar med tiden utan att ta slut. Sedan 2022 drivs experimentet vidare av Jeffrey Barrick vid University of Texas."
+  },
+  {
+    "id": "semmelweis",
+    "kind": "studie",
+    "hook": "Han räddade mödrars liv med handtvätt – och blev utskrattad.",
+    "title": "Semmelweis och handtvätten",
+    "meta": "Ignaz Semmelweis · Wien, 1847",
+    "stat": "18 % → 2 %",
+    "statLabel": "dödlighet månaden före och efter handtvätten",
+    "points": [
+      "På läkarnas förlossningsavdelning dog mödrar i barnsängsfeber långt oftare än på barnmorskornas.",
+      "Läkarna gick direkt från obduktioner till förlossningar. Barnmorskorna gjorde inte det.",
+      "Semmelweis införde handtvätt i klorkalk. Dödligheten rasade."
+    ],
+    "takeaway": "Data räcker inte – man måste också övertyga.",
+    "source": "Semmelweis, Barnsängsfeberns etiologi, begrepp och profylax (1861)",
+    "more": "Semmelweis kunde inte förklara varför tvätten fungerade – bakterieteorin kom först senare med Pasteur och Lister – och han var dessutom aggressiv mot sina kritiker. Han dog 1865 på ett mentalsjukhus, sannolikt av en infektion. 'Semmelweisreflexen' kallas i dag tendensen att avfärda ny kunskap som går emot det invanda."
+  },
+  {
+    "id": "goodall-verktyg",
+    "kind": "studie",
+    "hook": "En schimpans med ett grässtrå fick forskarna att definiera om människan.",
+    "title": "Goodall och termitpinnen",
+    "meta": "Jane Goodall · Gombe, Tanzania, 1960",
+    "points": [
+      "Man trodde att verktyg var det som skilde människan från alla andra djur.",
+      "Goodall såg schimpansen David Greybeard fiska termiter med ett strå.",
+      "Han rensade dessutom kvistar från blad – han tillverkade verktyg."
+    ],
+    "takeaway": "En enda noggrann observation kan välta en hel definition.",
+    "source": "Goodall, In the Shadow of Man (1971)",
+    "more": "Goodall hade ingen akademisk examen när hon började och kritiserades för att ge schimpanserna namn i stället för nummer och för att beskriva deras personligheter. I dag är individuella observationer en självklar del av forskningen om djurs beteende, och verktygsbruk har setts hos kråkor, bläckfiskar och delfiner."
+  },
+  {
+    "id": "tetlock-experter",
+    "kind": "studie",
+    "hook": "Är experter bättre än slumpen på att förutsäga framtiden?",
+    "title": "Tetlocks prognoser",
+    "meta": "Philip Tetlock · USA, 1984–2003",
+    "stat": "82 000+",
+    "statLabel": "prognoser från 284 experter, följda i nästan 20 år",
+    "points": [
+      "Experter på politik och ekonomi fick göra tusentals förutsägelser.",
+      "I snitt var de knappt bättre än slumpen.",
+      "'Rävar' som vägde många perspektiv slog 'igelkottar' med en enda stor idé."
+    ],
+    "takeaway": "Ödmjuka, flexibla tänkare förutsäger bättre.",
+    "source": "Tetlock, Expert Political Judgment (2005)",
+    "more": "De mest kända experterna, de som syntes mest i medier, träffade ofta sämst – en stor och säker berättelse är bra tv men ger dåliga prognoser. Tetlock gick vidare med Good Judgment Project, där vanliga människor som tränats i att tänka i sannolikheter slog underrättelseanalytiker som hade tillgång till hemlig information."
+  },
+  {
+    "id": "galton-oxen",
+    "kind": "studie",
+    "hook": "787 personer gissade vad en oxe vägde. Medianen blev nästan exakt rätt.",
+    "title": "Galtons oxe",
+    "meta": "Francis Galton · Plymouth, 1906",
+    "stat": "0,8 %",
+    "statLabel": "från rätt vikt – för medianen av alla gissningar",
+    "points": [
+      "På en boskapsmarknad betalade folk för att gissa vad en slaktad oxe vägde.",
+      "Gissningarna spretade åt alla håll – men felen tog ut varandra.",
+      "Medianen: 1 207 pund. Verklig vikt: 1 198 pund."
+    ],
+    "takeaway": "Många oberoende gissningar slår ofta experten.",
+    "source": "Galton, 'Vox Populi', Nature (1907)",
+    "more": "Galton var själv skeptisk till vanligt folks omdöme och blev förvånad. Effekten kräver att gissningarna är oberoende: hör folk varandras svar först drar de åt samma håll och felen slutar ta ut varandra. Därför fungerar en tyst, anonym runda ofta bättre än en diskussion där den mest självsäkra talar först."
+  },
+  {
+    "id": "pennebaker-skriva",
+    "kind": "studie",
+    "hook": "Fyra dagar, femton minuter om dagen. Kan skrivande göra dig friskare?",
+    "title": "Att skriva av sig",
+    "meta": "James Pennebaker · Texas, 1986",
+    "points": [
+      "Studenter skrev om sina djupaste tankar och känslor kring en svår händelse.",
+      "En kontrollgrupp skrev om ytliga ämnen, som hur deras rum såg ut.",
+      "Under månaderna efter besökte de som skrivit om det svåra vårdcentralen mer sällan."
+    ],
+    "takeaway": "Att sätta ord på det svåra kan lätta bördan.",
+    "source": "Pennebaker & Beall, J. of Abnormal Psychology (1986)",
+    "more": "Effekten har upprepats i hundratals studier, men den är oftast måttlig och varierar. Det verkar viktigt att både uttrycka känslorna och försöka förstå händelsen – texter med fler ord som 'eftersom' och 'insåg' gav störst nytta. Direkt efter skrivandet mådde deltagarna ofta sämre; nyttan kom senare."
+  },
+  {
+    "id": "promenad-ideer",
+    "kind": "studie",
+    "hook": "Fastnat på ett problem? Res dig upp.",
+    "title": "Promenaden och idéerna",
+    "meta": "Marily Oppezzo & Daniel Schwartz · Stanford, 2014",
+    "stat": "+60 %",
+    "statLabel": "fler kreativa idéer när deltagarna gick i stället för att sitta",
+    "points": [
+      "Deltagare fick hitta på nya användningar för vardagsföremål.",
+      "De som gick – även på löpband vända mot en vägg – kom på betydligt fler.",
+      "Effekten satt i en stund även efter att de satt sig igen."
+    ],
+    "takeaway": "Gå en sväng när du behöver nya idéer.",
+    "source": "Oppezzo & Schwartz, J. of Experimental Psychology: LMC (2014)",
+    "more": "Promenaden hjälpte det öppna tänkandet – att få många idéer – men inte uppgifter med ett enda rätt svar. Nietzsche skrev att alla verkligt stora tankar föds under promenader, och Darwin hade en egen grusgång, Sandwalk, som han vandrade varv efter varv på varje dag."
+  },
+  {
+    "id": "maier-hjalploshet",
+    "kind": "studie",
+    "hook": "I 50 år trodde vi att hjälplöshet var inlärd. Det var tvärtom.",
+    "title": "Hjälplösheten som vändes",
+    "meta": "Steven Maier & Martin Seligman · 1967 och 2016",
+    "points": [
+      "1967: hundar som fått stötar de inte kunde stoppa slutade senare försöka fly.",
+      "Slutsatsen blev att de hade lärt sig att vara hjälplösa.",
+      "50 år senare visade hjärnforskningen att passivitet är grundläget. Det vi lär oss är kontroll."
+    ],
+    "takeaway": "Det vi lär oss är inte hjälplöshet – utan att vi kan påverka.",
+    "source": "Maier & Seligman, Psychological Review (2016)",
+    "more": "Hjärnans grundsvar på långvarig, svår stress är att bli passiv. Först när ett djur – eller en människa – upplever att det faktiskt kan påverka situationen lär sig en krets i pannloben att dämpa passiviteten. Det ger en ny syn på resiliens: den byggs genom erfarenheter av kontroll. De ursprungliga försöken på hundar är i dag etiskt omdiskuterade."
+  }
+]

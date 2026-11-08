@@ -1,5 +1,27 @@
 [
  {
+  "id": "zhuangzi-tradet",
+  "num": 88,
+  "kind": "filosofi",
+  "label": "Filosofi",
+  "accent": "#f5b942",
+  "hook": "Vad är det för fel med att vara oanvändbar?",
+  "title": "Zhuangzi",
+  "meta": "Daoist · ca 369–286 f.Kr.",
+  "stat": "",
+  "statLabel": "",
+  "points": [
+   "En snickare går förbi ett jättelikt, knotigt träd utan att ens stanna.",
+   "Virket duger inte till båtar, kistor eller dörrar – så ingen hugger ner det.",
+   "Just därför har trädet fått växa sig enormt och uråldrigt."
+  ],
+  "takeaway": "Allt behöver inte vara nyttigt för att ha ett värde.",
+  "source": "Zhuangzi, kap. 4 (Människans värld)",
+  "more": "Zhuangzi gör ofta narr av jakten på nytta och plikt. I berättelsen visar sig trädet för snickaren i en dröm och frågar om han själv – en 'användbar' människa som snart ska dö – verkligen är så mycket bättre. Poängen: det som värderas för sin nytta blir också förbrukat.",
+  "video": "videos/zhuangzi-tradet.mp4",
+  "poster": "posters/zhuangzi-tradet.jpg"
+ },
+ {
   "id": "epiktetos-kontroll",
   "num": 1,
   "kind": "filosofi",
@@ -20,6 +42,28 @@
   "more": "Epiktetos växte upp som slav i Rom och blev en av stoicismens mest inflytelserika lärare. Hans 'kontrolldikotomi' öppnar handboken Encheiridion. Idén lever kvar i modern kognitiv beteendeterapi och i den så kallade sinnesrobönen.",
   "video": "videos/epiktetos-kontroll.mp4",
   "poster": "posters/epiktetos-kontroll.jpg"
+ },
+ {
+  "id": "challenger-minnen",
+  "num": 89,
+  "kind": "studie",
+  "label": "Studie",
+  "accent": "#4cc9f0",
+  "hook": "Du minns exakt var du var när du fick chockbeskedet. Eller?",
+  "title": "Challenger-minnena",
+  "meta": "Ulric Neisser & Nicole Harsch · Emory, 1986–1988",
+  "stat": "25 %",
+  "statLabel": "mindes fel på varenda huvudpunkt – men var säkra",
+  "points": [
+   "Dagen efter rymdfärjans olycka skrev studenter ned hur de fått beskedet.",
+   "Två och ett halvt år senare fick de berätta igen.",
+   "Många minnen hade ändrats helt – men säkerheten var lika hög."
+  ],
+  "takeaway": "Starka känslor ger livliga minnen, inte korrekta.",
+  "source": "Neisser & Harsch, i Affect and Accuracy in Recall (1992)",
+  "more": "Några deltagare vägrade tro sina egna anteckningar när de fick se dem: det var deras handstil, men så hade det inte gått till. Liknande studier efter 11 september visade samma mönster. Så kallade blixtljusminnen känns fotografiska men förändras ungefär som vanliga minnen – bara vår tilltro till dem består.",
+  "video": "videos/challenger-minnen.mp4",
+  "poster": "posters/challenger-minnen.jpg"
  },
  {
   "id": "milgram-lydnad",
@@ -44,6 +88,28 @@
   "poster": "posters/milgram-lydnad.jpg"
  },
  {
+  "id": "jevons-paradox",
+  "num": 90,
+  "kind": "begrepp",
+  "label": "Tankemodell",
+  "accent": "#b892ff",
+  "hook": "Effektivare ångmaskiner – och kolförbrukningen ökade. Hur går det ihop?",
+  "title": "Jevons paradox",
+  "meta": "William Stanley Jevons · 1865",
+  "stat": "",
+  "statLabel": "",
+  "points": [
+   "När en resurs används effektivare blir den billigare att använda.",
+   "Då används den till fler saker – och totalförbrukningen kan öka.",
+   "Mönstret har setts med belysning, bränsle och datorkraft."
+  ],
+  "takeaway": "Effektivare betyder inte automatiskt mindre.",
+  "source": "Jevons, The Coal Question (1865)",
+  "more": "Jevons skrev att det är ett misstag att tro att sparsam användning av bränsle minskar förbrukningen – det motsatta är sant. Hur stark effekten blir varierar: ibland äts bara en del av besparingen upp (en så kallad rekyleffekt), ibland mer än allt. Därför behöver effektivisering ofta kombineras med andra styrmedel för att totalen ska minska.",
+  "video": "videos/jevons-paradox.mp4",
+  "poster": "posters/jevons-paradox.jpg"
+ },
+ {
   "id": "ockhams-rakkniv",
   "num": 3,
   "kind": "begrepp",
@@ -64,6 +130,28 @@
   "more": "Hörs ett ljud från vinden är möss en mer sparsam förklaring än spöken. Men verkligheten är ibland komplicerad – rakkniven säger bara att vi inte ska krångla till saker i onödan. Einstein ska ha sagt: 'Allt ska göras så enkelt som möjligt, men inte enklare.'",
   "video": "videos/ockhams-rakkniv.mp4",
   "poster": "posters/ockhams-rakkniv.jpg"
+ },
+ {
+  "id": "myt-rosenhan",
+  "num": 91,
+  "kind": "myt",
+  "label": "Myt",
+  "accent": "#ff6b6b",
+  "hook": "Studien som 'avslöjade' psykiatrin – kan ha varit till stor del påhittad.",
+  "title": "Rosenhans pseudopatienter",
+  "meta": "Myt · Science, 1973",
+  "stat": "",
+  "statLabel": "",
+  "points": [
+   "Rosenhan påstod att åtta friska personer lurat sig in på psykiatriska sjukhus.",
+   "Journalisten Susannah Cahalan granskade studien i flera år.",
+   "Hon hittade bara två av deltagarna – och den ena hade uteslutits för att han trivdes."
+  ],
+  "takeaway": "Även läroboksklassiker behöver granskas.",
+  "source": "Cahalan, The Great Pretender (2019)",
+  "more": "Studien 'On Being Sane in Insane Places' bidrog till stora reformer inom psykiatrin och citeras fortfarande flitigt. Cahalan fann att Rosenhans egna journalanteckningar motsade hans beskrivning, och att en deltagare med positiva upplevelser lämnats utanför. Hon kunde inte hitta de övriga pseudopatienterna.",
+  "video": "videos/myt-rosenhan.mp4",
+  "poster": "posters/myt-rosenhan.jpg"
  },
  {
   "id": "myt-10-procent",
@@ -88,6 +176,28 @@
   "poster": "posters/myt-10-procent.jpg"
  },
  {
+  "id": "pyrrhon-epoche",
+  "num": 92,
+  "kind": "filosofi",
+  "label": "Filosofi",
+  "accent": "#f5b942",
+  "hook": "Tänk om lugnet kommer först när du slutar ta ställning?",
+  "title": "Pyrrhon",
+  "meta": "Skeptiker · ca 360–270 f.Kr.",
+  "stat": "",
+  "statLabel": "",
+  "points": [
+   "För varje argument går det att hitta ett lika starkt motargument.",
+   "Pyrrhon föreslog epoché: att hålla inne med sitt omdöme.",
+   "Ur det, menade skeptikerna, följer ataraxia – sinnesro."
+  ],
+  "takeaway": "Alla frågor kräver inte ett svar just nu.",
+  "source": "Sextus Empiricus, Grunddragen av pyrrhonismen, bok 1",
+  "more": "Pyrrhon följde Alexander den store till Indien och kan ha mött asketer där. Han skrev inget själv; vi känner honom genom eleven Timon och läkaren Sextus Empiricus. Sextus liknar sinnesron vid målaren Apelles, som gav upp att måla skummet kring en hästs mule, kastade svampen mot tavlan i ilska – och fick fram skummet.",
+  "video": "videos/pyrrhon-epoche.mp4",
+  "poster": "posters/pyrrhon-epoche.jpg"
+ },
+ {
   "id": "sokrates-vet-inget",
   "num": 5,
   "kind": "filosofi",
@@ -108,6 +218,28 @@
   "more": "Det berömda 'jag vet att jag ingenting vet' är en förenkling. I Försvarstalet säger Sokrates att han är visare än andra bara för att han inte tror sig veta det han inte vet. Hans metod – att ställa frågor tills motsägelser blir synliga – kallas den sokratiska metoden och används än i dag i undervisning och terapi.",
   "video": "videos/sokrates-vet-inget.mp4",
   "poster": "posters/sokrates-vet-inget.jpg"
+ },
+ {
+  "id": "kalla-handen",
+  "num": 93,
+  "kind": "studie",
+  "label": "Studie",
+  "accent": "#4cc9f0",
+  "hook": "Skulle du hellre ha 60 sekunders smärta – eller 90?",
+  "title": "Kalla handen-experimentet",
+  "meta": "Kahneman, Fredrickson m.fl. · 1993",
+  "stat": "69 %",
+  "statLabel": "valde att upprepa det längre försöket",
+  "points": [
+   "Deltagare höll handen i 14-gradigt vatten i 60 sekunder.",
+   "I ett annat försök: 60 sekunder, sedan 30 till medan vattnet blev en grad varmare.",
+   "De flesta valde att göra om det längre försöket – det slutade ju bättre."
+  ],
+  "takeaway": "Minnet mäter toppen och slutet, inte längden.",
+  "source": "Kahneman m.fl., Psychological Science (1993)",
+  "more": "Fenomenet kallas topp–slut-regeln. Samma mönster syntes hos patienter som gjorde koloskopi: de som fick en lugnare avslutning mindes hela undersökningen som mindre obehaglig, trots att den varade längre (Redelmeier & Kahneman 1996). Det säger något om hur semestrar, möten och svåra samtal borde avslutas.",
+  "video": "videos/kalla-handen.mp4",
+  "poster": "posters/kalla-handen.jpg"
  },
  {
   "id": "asch-konformitet",
@@ -132,6 +264,28 @@
   "poster": "posters/asch-konformitet.jpg"
  },
  {
+  "id": "kobraeffekten",
+  "num": 94,
+  "kind": "begrepp",
+  "label": "Tankemodell",
+  "accent": "#b892ff",
+  "hook": "Hanoi betalade för råttsvansar. Resultatet: fler råttor.",
+  "title": "Kobraeffekten",
+  "meta": "Exempel: franska Hanoi, 1902",
+  "stat": "",
+  "statLabel": "",
+  "points": [
+   "För att bekämpa råttor betalade myndigheterna en slant per avhuggen svans.",
+   "Snart sågs svanslösa råttor springa omkring – de släpptes för att föröka sig.",
+   "Vissa började till och med föda upp råttor för att tjäna pengar."
+  ],
+  "takeaway": "Belöna lösta problem, inte bevis som går att fejka.",
+  "source": "Vann, 'Of Rats, Rice, and Race', French Colonial History (2003)",
+  "more": "Namnet kobraeffekten kommer från en berättelse om kobror i det brittiska Delhi, som är svår att belägga. Fallet i Hanoi är däremot väldokumenterat i koloniala arkiv. Mönstret är detsamma: en belöning för ett mått skapar incitament att producera måttet, inte att lösa problemet.",
+  "video": "videos/kobraeffekten.mp4",
+  "poster": "posters/kobraeffekten.jpg"
+ },
+ {
   "id": "hanlons-rakkniv",
   "num": 7,
   "kind": "begrepp",
@@ -152,6 +306,28 @@
   "more": "Tanken är mycket äldre än namnet – liknande formuleringar finns hos Goethe. Den är särskilt användbar i mejl och chattar, där tonfall saknas och det är lätt att läsa in fientlighet som inte finns.",
   "video": "videos/hanlons-rakkniv.mp4",
   "poster": "posters/hanlons-rakkniv.jpg"
+ },
+ {
+  "id": "myt-hungriga-domare",
+  "num": 95,
+  "kind": "myt",
+  "label": "Myt",
+  "accent": "#ff6b6b",
+  "hook": "Domare är hårdare innan lunch? Kanske inte.",
+  "title": "De hungriga domarna",
+  "meta": "Myt · PNAS, 2011",
+  "stat": "",
+  "statLabel": "",
+  "points": [
+   "En studie fann att beviljade frigivningar sjönk från 65 % till nära noll före varje paus.",
+   "Kritiker visade att ordningen inte var slumpmässig: fångar utan advokat togs ofta sist.",
+   "Effekten är dessutom orimligt stor – större än nästan allt annat inom psykologin."
+  ],
+  "takeaway": "Är en effekt för bra för att vara sann – var misstänksam.",
+  "source": "Danziger m.fl., PNAS (2011); Weinshall-Margel & Shapard, PNAS (2011)",
+  "more": "Studien blev en favorit i populärvetenskapen som bevis för beslutsutmattning. Men domarna planerade pauserna själva, och ärenden utan ombud tenderade att hamna sist före en paus. Psykologen Daniël Lakens påpekade att en så enorm effekt borde ha märkts av alla som arbetar i domstolar.",
+  "video": "videos/myt-hungriga-domare.mp4",
+  "poster": "posters/myt-hungriga-domare.jpg"
  },
  {
   "id": "myt-larstilar",
@@ -176,6 +352,28 @@
   "poster": "posters/myt-larstilar.jpg"
  },
  {
+  "id": "weil-uppmarksamhet",
+  "num": 96,
+  "kind": "filosofi",
+  "label": "Filosofi",
+  "accent": "#f5b942",
+  "hook": "Den finaste gåvan du kan ge någon kostar ingenting.",
+  "title": "Simone Weil",
+  "meta": "Filosof · 1909–1943",
+  "stat": "",
+  "statLabel": "",
+  "points": [
+   "Weil menade att uppmärksamhet är något annat än att anstränga sig.",
+   "Det är att tömma sig på sig själv och låta den andra finnas fullt ut.",
+   "Den viktigaste frågan till någon som lider är: 'Vad går du igenom?'"
+  ],
+  "takeaway": "Uppmärksamhet är en form av kärlek.",
+  "source": "Weil, brev till Joë Bousquet (1942); Om skolstudiernas rätta bruk",
+  "more": "Weil arbetade frivilligt i fabrik och reste till spanska inbördeskriget för att förstå de utsattas villkor. Hon menade att även en misslyckad skolövning är värdefull, eftersom den tränar förmågan att verkligen rikta uppmärksamheten – samma förmåga som krävs för att se en annan människa.",
+  "video": "videos/weil-uppmarksamhet.mp4",
+  "poster": "posters/weil-uppmarksamhet.jpg"
+ },
+ {
   "id": "platon-grottan",
   "num": 9,
   "kind": "filosofi",
@@ -196,6 +394,28 @@
   "more": "Grottliknelsen illustrerar Platons idélära: det vi uppfattar med sinnena är bara avbilder av en djupare verklighet. Den läses också som en bild av utbildning – att lära sig är smärtsamt, och de som sett mer möter ofta motstånd från dem som är nöjda med skuggorna.",
   "video": "videos/platon-grottan.mp4",
   "poster": "posters/platon-grottan.jpg"
+ },
+ {
+  "id": "kopiatorn",
+  "num": 97,
+  "kind": "studie",
+  "label": "Studie",
+  "accent": "#4cc9f0",
+  "hook": "Ett enda ord fick folk att släppa fram en främling i kön.",
+  "title": "Kopiatorstudien",
+  "meta": "Ellen Langer m.fl. · Harvard, 1978",
+  "stat": "93 %",
+  "statLabel": "släppte fram – för att personen 'behövde göra kopior'",
+  "points": [
+   "En forskare försökte gå före i kön till kopiatorn med fem sidor.",
+   "Med ett riktigt skäl ('jag har bråttom') sa 94 % ja. Utan skäl 60 %.",
+   "Med ett tomt skäl – 'för att jag måste göra kopior' – sa 93 % ja."
+  ],
+  "takeaway": "Ett 'för att' räcker ofta – vi lyssnar sällan på resten.",
+  "source": "Langer, Blank & Chanowitz, J. of Personality and Social Psychology (1978)",
+  "more": "Langer kallade det tanklöshet: vi följer inlärda manus. Men effekten hade gränser. När forskaren ville kopiera 20 sidor fungerade det tomma skälet inte bättre än inget skäl alls – då började folk faktiskt tänka efter. Stora beslut väcker oss, små gör det inte.",
+  "video": "videos/kopiatorn.mp4",
+  "poster": "posters/kopiatorn.jpg"
  },
  {
   "id": "wilson-elstotar",
@@ -220,6 +440,28 @@
   "poster": "posters/wilson-elstotar.jpg"
  },
  {
+  "id": "galls-lag",
+  "num": 98,
+  "kind": "begrepp",
+  "label": "Tankemodell",
+  "accent": "#b892ff",
+  "hook": "Varför misslyckas så många stora system som byggs från grunden?",
+  "title": "Galls lag",
+  "meta": "John Gall · Systemantics, 1975",
+  "stat": "",
+  "statLabel": "",
+  "points": [
+   "Ett komplext system som fungerar har nästan alltid vuxit fram ur ett enkelt som fungerade.",
+   "Ett komplext system som designas från grunden fungerar sällan.",
+   "Det går inte att laga i efterhand – man får börja om med något enkelt."
+  ],
+  "takeaway": "Börja med något litet som fungerar – och väx.",
+  "source": "Gall, Systemantics: How Systems Work and Especially How They Fail (1975)",
+  "more": "Gall var barnläkare och skrev boken halvt på skämt, men den blev en kultklassiker bland ingenjörer. Internet, Linux och de flesta städer har vuxit fram stegvis. Stora projekt som försöker bygga allt på en gång – nya IT-system för hela myndigheter, till exempel – är ökända för att spräcka budgetar och tidsplaner.",
+  "video": "videos/galls-lag.mp4",
+  "poster": "posters/galls-lag.jpg"
+ },
+ {
   "id": "ranta-pa-ranta",
   "num": 11,
   "kind": "begrepp",
@@ -240,6 +482,28 @@
   "more": "Verkligheten är förstås inte så prydlig – man kan inte förbättras exakt 1 % om dagen. Men poängen håller för pengar, kunskap och vanor: tillväxt som bygger på sig själv ser långsam ut i början och explosiv i slutet. Vi underskattar den systematiskt.",
   "video": "videos/ranta-pa-ranta.mp4",
   "poster": "posters/ranta-pa-ranta.jpg"
+ },
+ {
+  "id": "myt-aldre-priming",
+  "num": 99,
+  "kind": "myt",
+  "label": "Myt",
+  "accent": "#ff6b6b",
+  "hook": "Läser du ord om ålderdom går du långsammare. Eller?",
+  "title": "Äldre-primingen",
+  "meta": "Myt · Bargh m.fl., 1996",
+  "stat": "",
+  "statLabel": "",
+  "points": [
+   "Studenter som läst ord som 'grå' och 'bingo' sades gå långsammare i korridoren.",
+   "När Doyen m.fl. upprepade försöket 2012 med fotoceller syntes ingen effekt.",
+   "Effekten kom bara tillbaka när försöksledarna visste vad de väntade sig."
+  ],
+  "takeaway": "Försöksledarens förväntningar kan forma resultatet.",
+  "source": "Bargh m.fl., JPSP (1996); Doyen m.fl., PLoS ONE (2012)",
+  "more": "Studien citerades tusentals gånger och lyftes fram av Daniel Kahneman i Tänka, snabbt och långsamt. Kahneman skrev 2012 ett öppet brev där han varnade för ett tågvrak inom primingforskningen. Den här studien blev en av startpunkterna för replikationskrisen i psykologin.",
+  "video": "videos/myt-aldre-priming.mp4",
+  "poster": "posters/myt-aldre-priming.jpg"
  },
  {
   "id": "myt-stanford-fangelse",
@@ -264,6 +528,28 @@
   "poster": "posters/myt-stanford-fangelse.jpg"
  },
  {
+  "id": "murdoch-tornfalken",
+  "num": 100,
+  "kind": "filosofi",
+  "label": "Filosofi",
+  "accent": "#f5b942",
+  "hook": "En fågel utanför fönstret kan bryta en grubblande tanke.",
+  "title": "Iris Murdoch",
+  "meta": "Filosof och romanförfattare · 1919–1999",
+  "stat": "",
+  "statLabel": "",
+  "points": [
+   "Murdoch sitter ängslig och sårad – och ser plötsligt en tornfalk sväva.",
+   "På ett ögonblick är det grubblande jaget borta. Bara falken finns kvar.",
+   "Hon kallade det 'unselfing': att se verkligheten bortom sitt ego."
+  ],
+  "takeaway": "Moral börjar med att se klart – inte med att välja.",
+  "source": "Murdoch, The Sovereignty of Good (1970)",
+  "more": "Murdoch menade att det mesta av vårt moraliska liv inte sker i stora val utan i hur vi ser på saker och människor, dag efter dag. Hindret är 'det feta, obevekliga egot'. Skönhet i naturen och konsten är genvägar ut ur det – och att lära sig något svårt, som ett främmande språk, likaså.",
+  "video": "videos/murdoch-tornfalken.mp4",
+  "poster": "posters/murdoch-tornfalken.jpg"
+ },
+ {
   "id": "aristoteles-vana",
   "num": 13,
   "kind": "filosofi",
@@ -284,6 +570,28 @@
   "more": "Citatet 'Vi är det vi upprepade gånger gör' tillskrivs ofta Aristoteles men är egentligen filosofen Will Durants sammanfattning från 1926. Tanken är dock Aristoteles: dygder tränas fram som färdigheter, och 'den gyllene medelvägen' mellan för mycket och för lite är målet.",
   "video": "videos/aristoteles-vana.mp4",
   "poster": "posters/aristoteles-vana.jpg"
+ },
+ {
+  "id": "hofling-skoterskor",
+  "num": 101,
+  "kind": "studie",
+  "label": "Studie",
+  "accent": "#4cc9f0",
+  "hook": "En okänd läkare ringer och beordrar en överdos. Vad gör sjuksköterskan?",
+  "title": "Hoflings sjuksköterskor",
+  "meta": "Charles Hofling m.fl. · amerikanska sjukhus, 1966",
+  "stat": "21 av 22",
+  "statLabel": "var på väg att ge dubbla maxdosen när de stoppades",
+  "points": [
+   "En 'doktor Smith' ringde och bad om 20 mg av ett okänt läkemedel.",
+   "Förpackningen sa tydligt att maxdosen var 10 mg.",
+   "Att ta emot ordinationer per telefon var dessutom emot sjukhusets regler."
+  ],
+  "takeaway": "Hierarki kan slå ut både regler och sunt förnuft.",
+  "source": "Hofling m.fl., Journal of Nervous and Mental Disease (1966)",
+  "more": "Läkemedlet, 'Astroten', var påhittat och kapslarna ofarliga. När andra sjuksköterskor fick frågan i en enkät svarade nästan alla att de aldrig skulle lyda. En senare studie (Rank & Jacobsen 1977) fann betydligt lägre lydnad när läkemedlet var välkänt och sjuksköterskorna kunde rådfråga kollegor – vilket i sig är en lärdom.",
+  "video": "videos/hofling-skoterskor.mp4",
+  "poster": "posters/hofling-skoterskor.jpg"
  },
  {
   "id": "harvard-lycka",
@@ -308,6 +616,28 @@
   "poster": "posters/harvard-lycka.jpg"
  },
  {
+  "id": "conways-lag",
+  "num": 102,
+  "kind": "begrepp",
+  "label": "Tankemodell",
+  "accent": "#b892ff",
+  "hook": "Varför liknar produkter ofta organisationen som byggde dem?",
+  "title": "Conways lag",
+  "meta": "Melvin Conway · 1968",
+  "stat": "",
+  "statLabel": "",
+  "points": [
+   "System speglar kommunikationsstrukturen hos dem som bygger dem.",
+   "Fyra team som bygger en kompilator får en kompilator i fyra steg.",
+   "Glapp mellan avdelningar blir glapp i produkten."
+  ],
+  "takeaway": "Vill du ändra produkten – ändra hur folk samarbetar.",
+  "source": "Conway, 'How Do Committees Invent?', Datamation (1968)",
+  "more": "Conways artikel refuserades först av Harvard Business Review. I dag använder många företag lagen baklänges, den så kallade omvända Conway-manövern: man formar teamen efter den arkitektur man vill få. Forskare vid Harvard Business School fann stöd för lagen när de jämförde hur modulär mjukvara blev i olika typer av organisationer.",
+  "video": "videos/conways-lag.mp4",
+  "poster": "posters/conways-lag.jpg"
+ },
+ {
   "id": "survivorship-bias",
   "num": 15,
   "kind": "begrepp",
@@ -328,6 +658,28 @@
   "more": "Överlevnadsbias finns överallt: vi hör om avhopparna som blev miljardärer men inte om de tusentals som misslyckades. 'De byggde bättre förr' – de dåliga husen har ju rivits. Historien om Wald är något förenklad, men principen är solid.",
   "video": "videos/survivorship-bias.mp4",
   "poster": "posters/survivorship-bias.jpg"
+ },
+ {
+  "id": "myt-power-posing",
+  "num": 103,
+  "kind": "myt",
+  "label": "Myt",
+  "accent": "#ff6b6b",
+  "hook": "Två minuter i en 'kraftpose' gör dig modigare. Eller inte?",
+  "title": "Power posing",
+  "meta": "Myt · Carney, Cuddy & Yap, 2010",
+  "stat": "",
+  "statLabel": "",
+  "points": [
+   "Ett populärt TED-föredrag gjorde idén världsberömd: breda poser skulle ändra hormonerna.",
+   "Större upprepningar fann ingen effekt på testosteron, kortisol eller risktagande.",
+   "2016 skrev studiens försteförfattare att hon inte längre trodde på effekten."
+  ],
+  "takeaway": "En effekt blir inte sann för att den är populär.",
+  "source": "Ranehill m.fl., Psychological Science (2015); Carney (2016)",
+  "more": "Dana Carney publicerade ett uttalande där hon beskrev hur data i originalstudien hade analyserats på flexibla sätt. Amy Cuddy har hävdat att poserna ändå kan få folk att känna sig starkare, och det finns visst stöd för den känslan. Men effekterna på hormoner och beteende har inte hållit.",
+  "video": "videos/myt-power-posing.mp4",
+  "poster": "posters/myt-power-posing.jpg"
  },
  {
   "id": "myt-genovese",
@@ -352,6 +704,28 @@
   "poster": "posters/myt-genovese.jpg"
  },
  {
+  "id": "nagarjuna-tomhet",
+  "num": 104,
+  "kind": "filosofi",
+  "label": "Filosofi",
+  "accent": "#f5b942",
+  "hook": "Finns det något som existerar helt av sig självt?",
+  "title": "Nagarjuna",
+  "meta": "Buddhistisk filosof · ca 150–250 e.Kr.",
+  "stat": "",
+  "statLabel": "",
+  "points": [
+   "Allt uppstår i beroende av något annat: orsaker, delar och sammanhang.",
+   "Därför saknar allt en fast, egen kärna – det är 'tomt'.",
+   "Tomhet betyder inte att inget finns, utan att allt hänger ihop."
+  ],
+  "takeaway": "Ingenting står helt för sig självt – inte ens du.",
+  "source": "Nagarjuna, Mūlamadhyamakakārikā, kap. 24",
+  "more": "Nagarjuna grundade madhyamaka, 'mellanvägens' skola. Han varnade för att göra tomheten till en ny dogm: den som griper den fel är som någon som griper en orm i fel ände. Han skilde mellan konventionell sanning – där bord och personer finns – och ultimat sanning, där allt är relationer.",
+  "video": "videos/nagarjuna-tomhet.mp4",
+  "poster": "posters/nagarjuna-tomhet.jpg"
+ },
+ {
   "id": "seneca-livets-korthet",
   "num": 17,
   "kind": "filosofi",
@@ -372,6 +746,28 @@
   "more": "Seneca var både filosof, dramatiker och rådgivare åt kejsar Nero. I essän De brevitate vitae kritiserar han människor som fyller sina liv med sysslor och statusjakt men skjuter upp själva livet. Texten är nästan 2 000 år gammal men läses ofta som en kommentar till modern stress.",
   "video": "videos/seneca-livets-korthet.mp4",
   "poster": "posters/seneca-livets-korthet.jpg"
+ },
+ {
+  "id": "capilano-bron",
+  "num": 105,
+  "kind": "studie",
+  "label": "Studie",
+  "accent": "#4cc9f0",
+  "hook": "Kan en skakig bro få dig att bli förälskad?",
+  "title": "Bron över Capilano",
+  "meta": "Donald Dutton & Arthur Aron · Kanada, 1974",
+  "stat": "50 %",
+  "statLabel": "ringde upp henne efter hängbron – mot 13 % efter den stadiga",
+  "points": [
+   "En kvinna intervjuade män mitt på en svajande hängbro, 70 meter upp.",
+   "Andra män intervjuades på en låg, stadig bro längre ned.",
+   "Hon gav alla sitt nummer. Männen från hängbron ringde mycket oftare."
+  ],
+  "takeaway": "Kroppen kan blanda ihop rädsla med attraktion.",
+  "source": "Dutton & Aron, J. of Personality and Social Psychology (1974)",
+  "more": "Förklaringen kallas felattribution av upphetsning: hjärtat bultar av höjden, men hjärnan tolkar det som att kvinnan är attraktiv. Studien var liten – 9 av 18 mot 2 av 16 ringde – och effekten har varit svår att få fram lika tydligt i senare försök. Se den som en intressant idé snarare än en naturlag.",
+  "video": "videos/capilano-bron.mp4",
+  "poster": "posters/capilano-bron.jpg"
  },
  {
   "id": "pengar-lycka",
@@ -396,6 +792,28 @@
   "poster": "posters/pengar-lycka.jpg"
  },
  {
+  "id": "hofstadters-lag",
+  "num": 106,
+  "kind": "begrepp",
+  "label": "Tankemodell",
+  "accent": "#b892ff",
+  "hook": "Varför tar allt längre tid än du tror – även när du räknat med det?",
+  "title": "Hofstadters lag",
+  "meta": "Douglas Hofstadter · Gödel, Escher, Bach, 1979",
+  "stat": "",
+  "statLabel": "",
+  "points": [
+   "Lagen: det tar alltid längre tid än du tror, även när du tar hänsyn till Hofstadters lag.",
+   "Den är ett skämt – men speglar planeringsfelslutet, som är väl belagt.",
+   "I en studie blev bara 30 % av studenterna klara med uppsatsen när de själva trott."
+  ],
+  "takeaway": "Utgå från hur lång tid liknande saker tog förut.",
+  "source": "Hofstadter (1979); Buehler, Griffin & Ross, JPSP (1994)",
+  "more": "Planeringsfelslutet beskrevs av Kahneman och Tversky 1979. Botemedlet kallas referensklassprognos: i stället för att föreställa dig hur just ditt projekt ska gå, titta på hur lång tid liknande projekt faktiskt brukar ta. Operahuset i Sydney skulle bli klart 1963 för 7 miljoner australiska dollar – det blev 1973 och 102 miljoner.",
+  "video": "videos/hofstadters-lag.mp4",
+  "poster": "posters/hofstadters-lag.jpg"
+ },
+ {
   "id": "sunk-cost",
   "num": 19,
   "kind": "begrepp",
@@ -416,6 +834,28 @@
   "more": "Kallas också Concorde-effekten efter överljudsplanet som Storbritannien och Frankrike fortsatte finansiera långt efter att det stod klart att det aldrig skulle bli lönsamt. Ett bra test: om du inte hade investerat något än – skulle du börja nu?",
   "video": "videos/sunk-cost.mp4",
   "poster": "posters/sunk-cost.jpg"
+ },
+ {
+  "id": "myt-lamlar",
+  "num": 107,
+  "kind": "myt",
+  "label": "Myt",
+  "accent": "#ff6b6b",
+  "hook": "Begår lämlar massjälvmord? Bilderna var arrangerade.",
+  "title": "Lämlarnas självmord",
+  "meta": "Myt · Disneys White Wilderness, 1958",
+  "stat": "",
+  "statLabel": "",
+  "points": [
+   "Disneys Oscarsbelönade naturfilm visade lämlar som störtade sig i havet.",
+   "Djuren hade fraktats till Alberta och föstes ut över en flodbrant av filmteamet.",
+   "Lämmelstammar svänger kraftigt och djuren vandrar – men inte för att dö."
+  ],
+  "takeaway": "Även naturfilmer kan vara iscensatta.",
+  "source": "CBC, The Fifth Estate (1982)",
+  "more": "Myten om lämlarnas självmord fanns före filmen, men filmen gjorde den till en sanning för generationer. När stammarna blir täta vandrar lämlar och kan drunkna när de försöker simma över vatten. Det är olyckor, inte avsikt. Lämmeltåg lever ändå kvar som bild för folk som följer varandra blint.",
+  "video": "videos/myt-lamlar.mp4",
+  "poster": "posters/myt-lamlar.jpg"
  },
  {
   "id": "myt-ego-depletion",
@@ -440,6 +880,28 @@
   "poster": "posters/myt-ego-depletion.jpg"
  },
  {
+  "id": "ibn-khaldun-cykeln",
+  "num": 108,
+  "kind": "filosofi",
+  "label": "Filosofi",
+  "accent": "#f5b942",
+  "hook": "Varför faller mäktiga dynastier ofta inom tre generationer?",
+  "title": "Ibn Khaldun",
+  "meta": "Historiker och filosof · 1332–1406",
+  "stat": "",
+  "statLabel": "",
+  "points": [
+   "Han kallade gruppens sammanhållning för asabiyya.",
+   "Hårda villkor skapar stark asabiyya – och grupper som erövrar.",
+   "Lyx och trygghet nöter ner den, tills en ny grupp tar över."
+  ],
+  "takeaway": "Framgång kan underminera det som skapade den.",
+  "source": "Ibn Khaldun, Muqaddimah (1377)",
+  "more": "Ibn Khaldun skrev Muqaddimah som inledning till en världshistoria, och den räknas ofta som en föregångare till sociologin. Han menade att en dynasti sällan överlever mer än tre–fyra generationer, ungefär 120 år: grundarna, de som minns grundarna och de som bara känner lyxen.",
+  "video": "videos/ibn-khaldun-cykeln.mp4",
+  "poster": "posters/ibn-khaldun-cykeln.jpg"
+ },
+ {
   "id": "marcus-hindret",
   "num": 21,
   "kind": "filosofi",
@@ -460,6 +922,28 @@
   "more": "Världens mäktigaste man skrev anteckningar till sig själv under krigsfälttåg. Självbetraktelser är full av påminnelser om döden, tålamod och plikt. Raden om hindret har blivit ett motto i modern stoicism och gav namn åt Ryan Holidays bok 'The Obstacle Is the Way'.",
   "video": "videos/marcus-hindret.mp4",
   "poster": "posters/marcus-hindret.jpg"
+ },
+ {
+  "id": "nunnestudien",
+  "num": 109,
+  "kind": "studie",
+  "label": "Studie",
+  "accent": "#4cc9f0",
+  "hook": "Kan en text skriven vid 22 års ålder förutsäga hur länge du lever?",
+  "title": "Nunnestudien",
+  "meta": "Danner, Snowdon & Friesen · USA, 2001",
+  "stat": "~7 år",
+  "statLabel": "längre liv för de mest positiva skribenterna",
+  "points": [
+   "180 nunnor skrev korta självbiografier när de gick in i orden, på 1930-talet.",
+   "Sex decennier senare räknade forskare uttryck för positiva känslor i texterna.",
+   "Den gladaste fjärdedelen levde i snitt nästan sju år längre än den minst glada."
+  ],
+  "takeaway": "Positiva känslor hänger ihop med ett längre liv.",
+  "source": "Danner, Snowdon & Friesen, J. of Personality and Social Psychology (2001)",
+  "more": "Nunnor är en ovanligt bra grupp att studera: samma mat, samma boende, samma vård och varken barn eller rökning. Det minskar många störfaktorer. Men studien visar fortfarande ett samband, inte en orsak – glädjen kan spegla något annat, som god hälsa redan tidigt. Samma nunnor bidrog också till alzheimerforskningen.",
+  "video": "videos/nunnestudien.mp4",
+  "poster": "posters/nunnestudien.jpg"
  },
  {
   "id": "vandrande-sinne",
@@ -484,6 +968,28 @@
   "poster": "posters/vandrande-sinne.jpg"
  },
  {
+  "id": "brandolinis-lag",
+  "num": 110,
+  "kind": "begrepp",
+  "label": "Tankemodell",
+  "accent": "#b892ff",
+  "hook": "Varför är det så mycket lättare att sprida en lögn än att motbevisa den?",
+  "title": "Brandolinis lag",
+  "meta": "Alberto Brandolini · 2013",
+  "stat": "",
+  "statLabel": "",
+  "points": [
+   "Det krävs en storleksordning mer energi att motbevisa trams än att skapa det.",
+   "Ett falskt påstående tar sekunder att skriva. Att granska det kan ta dagar.",
+   "Därför hinner myten ofta långt innan rättelsen ens har kommit ut."
+  ],
+  "takeaway": "Lägg energin på att förebygga, inte bara rätta.",
+  "source": "Brandolini, inlägg på Twitter (2013)",
+  "more": "Lagen kallas också asymmetriprincipen för trams. Ett exempel är myten om att vaccin orsakar autism: den bygger på en studie från 1998 som drogs tillbaka och visade sig vara fusk, men det har krävt decennier och hundratals studier att bemöta den. Forskning om förvaccinering (prebunking) tyder på att det är effektivt att varna för vanliga manipulationstekniker i förväg.",
+  "video": "videos/brandolinis-lag.mp4",
+  "poster": "posters/brandolinis-lag.jpg"
+ },
+ {
   "id": "pareto",
   "num": 23,
   "kind": "begrepp",
@@ -504,6 +1010,28 @@
   "more": "Det var kvalitetsexperten Joseph Juran som gav principen dess namn och kallade det 'de få vitala och de många triviala'. Det är ingen naturlag – fördelningen kan lika gärna vara 90/10 eller 70/30 – men den påminner om att alla uppgifter inte är lika viktiga.",
   "video": "videos/pareto.mp4",
   "poster": "posters/pareto.jpg"
+ },
+ {
+  "id": "myt-glas-flyter",
+  "num": 111,
+  "kind": "myt",
+  "label": "Myt",
+  "accent": "#ff6b6b",
+  "hook": "Gamla fönster är tjockare nertill – för att glaset rinner?",
+  "title": "Glaset som flyter",
+  "meta": "Myt · seglivad sedan 1900-talet",
+  "stat": "",
+  "statLabel": "",
+  "points": [
+   "Glas är ett amorft fast ämne. Vid rumstemperatur rör det sig inte märkbart.",
+   "Beräkningar visar att det skulle ta längre tid än universums ålder att se en skillnad.",
+   "Gamla rutor var ojämna från början, och glasmästare satte ofta den tjocka kanten nedåt."
+  ],
+  "takeaway": "Ojämnt glas är spår av hantverket, inte av tiden.",
+  "source": "Zanotto, American Journal of Physics (1998)",
+  "more": "Förr gjordes fönsterglas ofta som kronglas: en glasklump snurrades ut till en stor platt skiva som blev ojämn i tjocklek. Det finns gamla rutor med den tjocka kanten uppåt eller åt sidan. Och romerska glasföremål och teleskoplinser som är hundratals år gamla har inte flutit ut.",
+  "video": "videos/myt-glas-flyter.mp4",
+  "poster": "posters/myt-glas-flyter.jpg"
  },
  {
   "id": "myt-10000-timmar",
@@ -528,6 +1056,28 @@
   "poster": "posters/myt-10000-timmar.jpg"
  },
  {
+  "id": "al-ghazali-elden",
+  "num": 112,
+  "kind": "filosofi",
+  "label": "Filosofi",
+  "accent": "#f5b942",
+  "hook": "Är det verkligen elden som får bomullen att brinna?",
+  "title": "Al-Ghazali",
+  "meta": "Teolog och filosof · 1058–1111",
+  "stat": "",
+  "statLabel": "",
+  "points": [
+   "Vi ser att bomull brinner när den rör vid eld – men aldrig själva orsaken.",
+   "Att två saker alltid följer på varandra bevisar inte att de måste göra det.",
+   "Samma argument gjorde David Hume berömd – över 600 år senare."
+  ],
+  "takeaway": "Vana är inte samma sak som bevis.",
+  "source": "Al-Ghazali, Filosofernas inkoherens (Tahāfut, ca 1095)",
+  "more": "Al-Ghazali använde argumentet för att hävda att Gud orsakar varje händelse direkt. Men själva iakttagelsen – att vi bara ser att saker följer på varandra, inte att de måste göra det – står på egna ben. Ibn Rushd (Averroës) svarade med boken 'Inkoherensens inkoherens'.",
+  "video": "videos/al-ghazali-elden.mp4",
+  "poster": "posters/al-ghazali-elden.jpg"
+ },
+ {
   "id": "epikuros-lycka",
   "num": 25,
   "kind": "filosofi",
@@ -548,6 +1098,28 @@
   "more": "Ordet 'epikuré' betyder i dag finsmakare, men Epikuros levde enkelt i sin trädgård utanför Aten med vänner. Han menade att vänskap är bland de största goda, att döden inte är något att frukta ('när döden är, är inte vi') och att de flesta begär är onödiga.",
   "video": "videos/epikuros-lycka.mp4",
   "poster": "posters/epikuros-lycka.jpg"
+ },
+ {
+  "id": "rodin-plantor",
+  "num": 113,
+  "kind": "studie",
+  "label": "Studie",
+  "accent": "#4cc9f0",
+  "hook": "En krukväxt och lite eget ansvar – och fler levde ett och ett halvt år senare.",
+  "title": "Plantorna på äldreboendet",
+  "meta": "Ellen Langer & Judith Rodin · Connecticut, 1976",
+  "stat": "15 % mot 30 %",
+  "statLabel": "dödlighet efter 18 månader – med och utan eget ansvar",
+  "points": [
+   "Boende på en våning fick välja och sköta en egen växt och styra mer av sin vardag.",
+   "På en annan våning fick de en växt som personalen skötte.",
+   "Gruppen med ansvar blev gladare och mer aktiv – och färre hade dött efter 18 månader."
+  ],
+  "takeaway": "Känslan av kontroll är bra för hälsan.",
+  "source": "Langer & Rodin (1976); Rodin & Langer (1977), JPSP",
+  "more": "Studien var liten och dödligheten var inget planerat huvudmått, så siffrorna ska tas med försiktighet. Men grundidén – att människor mår bättre när de får bestämma över sin egen tillvaro – har stöd i mycket annan forskning. Den har påverkat hur många äldreboenden arbetar med delaktighet.",
+  "video": "videos/rodin-plantor.mp4",
+  "poster": "posters/rodin-plantor.jpg"
  },
  {
   "id": "dunning-kruger",
@@ -572,6 +1144,28 @@
   "poster": "posters/dunning-kruger.jpg"
  },
  {
+  "id": "moravecs-paradox",
+  "num": 114,
+  "kind": "begrepp",
+  "label": "Tankemodell",
+  "accent": "#b892ff",
+  "hook": "Datorer slår oss i schack men har svårt att vika en handduk. Varför?",
+  "title": "Moravecs paradox",
+  "meta": "Hans Moravec m.fl. · 1980-talet",
+  "stat": "",
+  "statLabel": "",
+  "points": [
+   "Det vi tycker är svårt – logik, schack, huvudräkning – är relativt lätt för datorer.",
+   "Det vi tycker är lätt – gå, se, greppa saker – är extremt svårt att bygga.",
+   "Evolutionen har finslipat våra sinnen och vår motorik i hundratals miljoner år."
+  ],
+  "takeaway": "Det som känns lätt för oss är ofta det svåraste att bygga.",
+  "source": "Moravec, Mind Children (1988)",
+  "more": "Moravec skrev att det är jämförelsevis lätt att få datorer att prestera på vuxen nivå i intelligenstester eller dam, men svårt eller omöjligt att ge dem en ettårings förmåga att uppfatta och röra sig. Abstrakt tänkande är en ny och tunn förmåga hos oss – därför är det lättare att efterlikna. Robotar som viker tvätt är fortfarande ett forskningsområde.",
+  "video": "videos/moravecs-paradox.mp4",
+  "poster": "posters/moravecs-paradox.jpg"
+ },
+ {
   "id": "goodharts-lag",
   "num": 27,
   "kind": "begrepp",
@@ -592,6 +1186,28 @@
   "more": "Spikanekdoten om sovjetiska fabriker är troligen ett skämt, men principen är verklig. Den kända formuleringen är antropologen Marilyn Stratherns. Ett motmedel är att använda flera mått samtidigt och att regelbundet fråga vad måttet egentligen ska fånga.",
   "video": "videos/goodharts-lag.mp4",
   "poster": "posters/goodharts-lag.jpg"
+ },
+ {
+  "id": "myt-socker",
+  "num": 115,
+  "kind": "myt",
+  "label": "Myt",
+  "accent": "#ff6b6b",
+  "hook": "Barn blir uppe i varv av socker. Eller är det föräldrarna som ser det?",
+  "title": "Socker och hyperaktivitet",
+  "meta": "Myt · vanlig sedan 1970-talet",
+  "stat": "",
+  "statLabel": "",
+  "points": [
+   "En sammanställning av 16 dubbelblinda studier fann ingen effekt av socker på barns beteende.",
+   "I ett försök fick mammor höra att sonen druckit socker – fast han fått placebo.",
+   "De bedömde honom som mer hyperaktiv och var mer kritiska mot honom."
+  ],
+  "takeaway": "Förväntningar kan ändra hur vi ser på beteende.",
+  "source": "Wolraich m.fl., JAMA (1995); Hoover & Milich (1994)",
+  "more": "Kalas, högtider och godis kommer ofta tillsammans med spänning, andra barn och sena kvällar – och då är det lätt att skylla på sockret. Socker är inte bra för tänderna eller hälsan i stora mängder, men det verkar inte göra barn hyperaktiva.",
+  "video": "videos/myt-socker.mp4",
+  "poster": "posters/myt-socker.jpg"
  },
  {
   "id": "myt-guldfisk",
@@ -616,6 +1232,28 @@
   "poster": "posters/myt-guldfisk.jpg"
  },
  {
+  "id": "spinoza-stenen",
+  "num": 116,
+  "kind": "filosofi",
+  "label": "Filosofi",
+  "accent": "#f5b942",
+  "hook": "Om en kastad sten kunde tänka – skulle den tro att den var fri?",
+  "title": "Spinoza",
+  "meta": "Filosof · 1632–1677",
+  "stat": "",
+  "statLabel": "",
+  "points": [
+   "En sten i luften skulle kunna tro att den flyger av egen vilja.",
+   "Vi känner till våra begär, men sällan orsakerna bakom dem.",
+   "Frihet, för Spinoza, är att förstå vad som driver en."
+  ],
+  "takeaway": "Förstå dina orsaker så styr de dig mindre.",
+  "source": "Spinoza, brev 58 till Schuller (1674); Etiken, del 4–5",
+  "more": "Spinoza bannlystes från den judiska församlingen i Amsterdam 1656, 23 år gammal, och försörjde sig delvis som linsslipare. I Etiken skriver han att en känsla som är ett lidande upphör att vara det så fort vi bildar oss en klar idé om den. Hans tänkande påverkade allt från upplysningen till Einstein.",
+  "video": "videos/spinoza-stenen.mp4",
+  "poster": "posters/spinoza-stenen.jpg"
+ },
+ {
   "id": "diogenes-solen",
   "num": 29,
   "kind": "filosofi",
@@ -636,6 +1274,28 @@
   "more": "Diogenes från Sinope levde demonstrativt fattigt för att visa hur lite en människa behöver. Anekdoterna om honom är många och delvis legendariska. Alexander ska ha sagt: 'Om jag inte vore Alexander skulle jag vilja vara Diogenes.'",
   "video": "videos/diogenes-solen.mp4",
   "poster": "posters/diogenes-solen.jpg"
+ },
+ {
+  "id": "spotlight-trojan",
+  "num": 117,
+  "kind": "studie",
+  "label": "Studie",
+  "accent": "#4cc9f0",
+  "hook": "Alla såg din pinsamma tröja. Eller hur många var det egentligen?",
+  "title": "Spotlighteffekten",
+  "meta": "Thomas Gilovich m.fl. · Cornell, 2000",
+  "stat": "≈ 23 %",
+  "statLabel": "lade märke till tröjan – inte hälften, som bäraren trodde",
+  "points": [
+   "Studenter fick ta på sig en tröja med Barry Manilow och gå in i ett rum fullt av folk.",
+   "De gissade att ungefär hälften av de andra hade lagt märke till den.",
+   "I själva verket var det ungefär var fjärde."
+  ],
+  "takeaway": "Andra tänker mycket mindre på dig än du tror.",
+  "source": "Gilovich, Medvec & Savitsky, J. of Personality and Social Psychology (2000)",
+  "more": "Effekten gäller även våra felsägningar i diskussioner och dåliga hårdagar. Vi är så upptagna av vår egen upplevelse att vi överskattar hur synliga vi är. Det gäller åt andra hållet också: andra märker sällan hur nervösa vi är – det kallas genomskinlighetsillusionen.",
+  "video": "videos/spotlight-trojan.mp4",
+  "poster": "posters/spotlight-trojan.jpg"
  },
  {
   "id": "osynliga-gorillan",
@@ -660,6 +1320,28 @@
   "poster": "posters/osynliga-gorillan.jpg"
  },
  {
+  "id": "braess-paradox",
+  "num": 118,
+  "kind": "begrepp",
+  "label": "Tankemodell",
+  "accent": "#b892ff",
+  "hook": "Kan en ny väg göra trafiken långsammare för alla?",
+  "title": "Braess paradox",
+  "meta": "Dietrich Braess · 1968",
+  "stat": "",
+  "statLabel": "",
+  "points": [
+   "Om alla förare väljer den snabbaste vägen för egen del kan en ny genväg skapa köer.",
+   "Alla trängs in på genvägen – och restiden blir längre för alla.",
+   "Omvänt kan en stängd väg ibland göra trafiken bättre."
+  ],
+  "takeaway": "Det bästa för var och en är inte alltid bäst för alla.",
+  "source": "Braess, Unternehmensforschung (1968)",
+  "more": "När Seoul 2005 rev en motorväg och återställde floden Cheonggyecheon blev det inte trafikkaos, som många befarat. Samma princip har visats i elnät och till och med i mekaniska system med fjädrar. Fenomenet visar att ett läge där alla agerar för egen vinning kan vara sämre för alla än ett samordnat val.",
+  "video": "videos/braess-paradox.mp4",
+  "poster": "posters/braess-paradox.jpg"
+ },
+ {
   "id": "chestertons-staket",
   "num": 31,
   "kind": "begrepp",
@@ -680,6 +1362,28 @@
   "more": "Principen betyder inte att allt gammalt ska bevaras – bara att man ska förstå syftet innan man ändrar. Den används flitigt inom programmering, där konstiga kodrader ofta visar sig skydda mot buggar ingen längre minns.",
   "video": "videos/chestertons-staket.mp4",
   "poster": "posters/chestertons-staket.jpg"
+ },
+ {
+  "id": "myt-medellivslangd",
+  "num": 119,
+  "kind": "myt",
+  "label": "Myt",
+  "accent": "#ff6b6b",
+  "hook": "Folk dog vid 30 på medeltiden? Inte riktigt.",
+  "title": "Medellivslängden",
+  "meta": "Myt · bygger på missförstådd statistik",
+  "stat": "",
+  "statLabel": "",
+  "points": [
+   "Den låga medellivslängden drogs ned av att väldigt många dog som barn.",
+   "Den som klarade barndomen hade goda chanser att bli 50–60 år eller mer.",
+   "Ett snitt säger lite när utfallen är så ojämnt fördelade."
+  ],
+  "takeaway": "Ett medelvärde kan dölja hur det faktiskt ser ut.",
+  "source": "Our World in Data, Life Expectancy; Kaplan m.fl. (2000)",
+  "more": "I många samhällen före 1800-talet dog ungefär vart tredje eller vart fjärde barn före fem års ålder. Bland engelska adelsmän födda 1200–1450 levde den som fyllt 21 i snitt till runt 64 års ålder. Det betyder inte att livet var lätt – men en 40-åring var ingen gammal människa.",
+  "video": "videos/myt-medellivslangd.mp4",
+  "poster": "posters/myt-medellivslangd.jpg"
  },
  {
   "id": "myt-tungkartan",
@@ -704,6 +1408,28 @@
   "poster": "posters/myt-tungkartan.jpg"
  },
  {
+  "id": "midgley-rormokeri",
+  "num": 120,
+  "kind": "filosofi",
+  "label": "Filosofi",
+  "accent": "#f5b942",
+  "hook": "Varför liknade en filosof sitt ämne vid rörmokeri?",
+  "title": "Mary Midgley",
+  "meta": "Filosof · 1919–2018",
+  "stat": "",
+  "statLabel": "",
+  "points": [
+   "Under varje kultur löper ett osynligt system av idéer – som rör under golvet.",
+   "Ingen tänker på dem förrän något börjar lukta.",
+   "Filosofens jobb är att lyfta på golvet och leta efter läckan."
+  ],
+  "takeaway": "Problem kan sitta i idéerna som ingen ser.",
+  "source": "Midgley, Philosophical Plumbing (1992)",
+  "more": "Midgley gav ut sin första bok först vid 59 års ålder och skrev sedan om allt från djurs moral till vetenskapens myter. Hon kritiserade till exempel Richard Dawkins för att göra 'själviska gener' till en moralisk berättelse. Hennes poäng: dåliga bakomliggande bilder av människan ger dåliga beslut – även om ingen säger dem högt.",
+  "video": "videos/midgley-rormokeri.mp4",
+  "poster": "posters/midgley-rormokeri.jpg"
+ },
+ {
   "id": "descartes-cogito",
   "num": 33,
   "kind": "filosofi",
@@ -724,6 +1450,28 @@
   "more": "'Cogito, ergo sum' är kanske filosofins mest kända mening. Descartes metodiska tvivel var ett försök att hitta en grund som inte gick att rubba. Han dog i Stockholm 1650, dit han bjudits in av drottning Kristina.",
   "video": "videos/descartes-cogito.mp4",
   "poster": "posters/descartes-cogito.jpg"
+ },
+ {
+  "id": "falsk-konsensus",
+  "num": 121,
+  "kind": "studie",
+  "label": "Studie",
+  "accent": "#4cc9f0",
+  "hook": "Skulle du gå runt på campus med en reklamskylt? Vad tror du att andra skulle göra?",
+  "title": "Falsk konsensus",
+  "meta": "Lee Ross m.fl. · Stanford, 1977",
+  "stat": "62 %",
+  "statLabel": "trodde att andra också skulle ställa upp – bland dem som sa ja",
+  "points": [
+   "Studenter ombads bära en skylt med texten 'Eat at Joe's' i en halvtimme.",
+   "De som sa ja trodde att de flesta andra också skulle säga ja.",
+   "De som sa nej trodde att de flesta skulle säga nej."
+  ],
+  "takeaway": "Vi tror att vårt eget val är det normala.",
+  "source": "Ross, Greene & House, J. of Experimental Social Psychology (1977)",
+  "more": "Effekten är robust och syns överallt – i politik, konsumtion och vanor. Den som röker överskattar hur många som röker, och den som fuskar på skatten tror att alla gör det. Att se sin egen åsikt som den vanliga gör det också lättare att se dem som tycker annorlunda som konstiga.",
+  "video": "videos/falsk-konsensus.mp4",
+  "poster": "posters/falsk-konsensus.jpg"
  },
  {
   "id": "loftus-minne",
@@ -748,6 +1496,28 @@
   "poster": "posters/loftus-minne.jpg"
  },
  {
+  "id": "simpsons-paradox",
+  "num": 122,
+  "kind": "begrepp",
+  "label": "Tankemodell",
+  "accent": "#b892ff",
+  "hook": "Ett universitet såg ut att diskriminera kvinnor. Siffrorna visade något annat.",
+  "title": "Simpsons paradox",
+  "meta": "Exempel: UC Berkeley, antagningen 1973",
+  "stat": "",
+  "statLabel": "",
+  "points": [
+   "Totalt antogs 44 % av de manliga sökande men bara 35 % av de kvinnliga.",
+   "Men inom de flesta institutioner antogs kvinnor i lika hög eller högre grad.",
+   "Kvinnorna sökte oftare till institutioner där få antogs – oavsett kön."
+  ],
+  "takeaway": "Ett totalsnitt kan visa motsatsen till delarna.",
+  "source": "Bickel, Hammel & O'Connell, Science (1975)",
+  "more": "Simpsons paradox uppstår när en dold faktor – här vilken institution man sökte till – påverkar både gruppen och utfallet. Den dyker upp i medicin, sport och politik. I ett känt exempel om njursten var den behandling som såg sämre ut totalt i själva verket bättre för både små och stora stenar, var för sig.",
+  "video": "videos/simpsons-paradox.mp4",
+  "poster": "posters/simpsons-paradox.jpg"
+ },
+ {
   "id": "kartan-terrangen",
   "num": 35,
   "kind": "begrepp",
@@ -768,6 +1538,28 @@
   "more": "Statistikern George Box uttryckte liknande: 'Alla modeller är fel, men vissa är användbara.' En karta som var helt exakt skulle vara lika stor som terrängen själv – och därmed oanvändbar, som Borges skrev i en kort novell.",
   "video": "videos/kartan-terrangen.mp4",
   "poster": "posters/kartan-terrangen.jpg"
+ },
+ {
+  "id": "myt-jarnjungfrun",
+  "num": 123,
+  "kind": "myt",
+  "label": "Myt",
+  "accent": "#ff6b6b",
+  "hook": "Medeltidens mest ökända tortyrredskap – fanns troligen aldrig.",
+  "title": "Järnjungfrun",
+  "meta": "Myt · ett 'medeltida' redskap från 1800-talet",
+  "stat": "",
+  "statLabel": "",
+  "points": [
+   "Det finns inga säkra medeltida källor om järnjungfrur.",
+   "De kända exemplaren sattes ihop på 1800-talet, ofta av delar från olika föremål.",
+   "De visades på museer och utställningar som sensationer."
+  ],
+  "takeaway": "Bilden av en 'mörk medeltid' är delvis påhittad senare.",
+  "source": "Schild, Die Eiserne Jungfrau (2000)",
+  "more": "Idén går tillbaka till Johann Philipp Siebenkees, som 1793 skrev om en avrättning i Nürnberg 1515 – utan säkra belägg. Den mest kända järnjungfrun, den från Nürnberg, förstördes under andra världskriget. Kopior visas fortfarande på tortyrmuseer, ofta utan förklaring.",
+  "video": "videos/myt-jarnjungfrun.mp4",
+  "poster": "posters/myt-jarnjungfrun.jpg"
  },
  {
   "id": "myt-napoleon",
@@ -792,6 +1584,28 @@
   "poster": "posters/myt-napoleon.jpg"
  },
  {
+  "id": "parfit-teleportern",
+  "num": 124,
+  "kind": "filosofi",
+  "label": "Filosofi",
+  "accent": "#f5b942",
+  "hook": "Om en teleporter kopierade dig – vem vore då du?",
+  "title": "Derek Parfit",
+  "meta": "Filosof · 1942–2017",
+  "stat": "",
+  "statLabel": "",
+  "points": [
+   "Maskinen skannar dig, förstör originalet och bygger en exakt kopia på Mars.",
+   "Kopian minns allt du minns. Är det du – eller en ny person?",
+   "Parfit menade att frågan om identitet är mindre viktig än vi tror."
+  ],
+  "takeaway": "Det som räknas är sambandet, inte en fast kärna.",
+  "source": "Parfit, Reasons and Persons (1984), del 3",
+  "more": "Parfit hävdade att det som spelar roll är psykologisk kontinuitet – minnen, avsikter, karaktär – och att den kan vara mer eller mindre stark. Han skrev att insikten gjorde honom mindre rädd för döden: livet kändes mindre som en glastunnel och mer som öppen luft, med andra människor närmare.",
+  "video": "videos/parfit-teleportern.mp4",
+  "poster": "posters/parfit-teleportern.jpg"
+ },
+ {
   "id": "hume-ar-bor",
   "num": 37,
   "kind": "filosofi",
@@ -812,6 +1626,28 @@
   "more": "Humes giljotin, eller är–bör-problemet, är ett av de mest diskuterade problemen i etiken. Det hänger ihop med det naturalistiska felslutet: att något är naturligt, vanligt eller traditionellt gör det inte automatiskt gott.",
   "video": "videos/hume-ar-bor.mp4",
   "poster": "posters/hume-ar-bor.jpg"
+ },
+ {
+  "id": "lenski-ecoli",
+  "num": 125,
+  "kind": "studie",
+  "label": "Studie",
+  "accent": "#4cc9f0",
+  "hook": "Ett experiment med bakterier har pågått sedan 1988. Vad har hänt?",
+  "title": "Lenskis E. coli",
+  "meta": "Richard Lenski m.fl. · startat 1988",
+  "stat": "75 000+",
+  "statLabel": "generationer av evolution i realtid",
+  "points": [
+   "Tolv identiska bakteriepopulationer startades och förs över till ny näring varje dag.",
+   "Prover fryses ned regelbundet – en fossil serie som kan väckas till liv igen.",
+   "Efter drygt 30 000 generationer lärde sig en population äta citrat – en helt ny förmåga."
+  ],
+  "takeaway": "Evolution går att se, mäta och spola tillbaka.",
+  "source": "Blount, Borland & Lenski, PNAS (2008)",
+  "more": "Genom att väcka frysta prover kunde forskarna visa att citratförmågan krävde tidigare, till synes neutrala mutationer – historien spelade roll. Alla populationer har också blivit bättre på att växa, men förbättringarna avtar med tiden utan att ta slut. Sedan 2022 drivs experimentet vidare av Jeffrey Barrick vid University of Texas.",
+  "video": "videos/lenski-ecoli.mp4",
+  "poster": "posters/lenski-ecoli.jpg"
  },
  {
   "id": "ebbinghaus-glomska",
@@ -836,6 +1672,28 @@
   "poster": "posters/ebbinghaus-glomska.jpg"
  },
  {
+  "id": "basfrekvensfelet",
+  "num": 126,
+  "kind": "begrepp",
+  "label": "Tankemodell",
+  "accent": "#b892ff",
+  "hook": "Testet är 99 % säkert och du får ett positivt svar. Hur troligt är det att du är sjuk?",
+  "title": "Basfrekvensfelet",
+  "meta": "Statistik · Bayes sats, 1763",
+  "stat": "",
+  "statLabel": "",
+  "points": [
+   "Säg att sjukdomen drabbar 1 av 1 000 och att testet ger 1 % falsklarm.",
+   "Testa 1 000 personer: den sjuka hittas – men också runt 10 friska.",
+   "Av alla positiva svar är alltså bara ungefär vart elfte sant."
+  ],
+  "takeaway": "Fråga alltid: hur vanligt är det från början?",
+  "source": "Bayes (1763); Casscells, Schoenberger & Graboys, NEJM (1978)",
+  "more": "I en klassisk studie fick läkare och läkarstudenter vid Harvard en liknande fråga. Det vanligaste svaret var 95 % – rätt svar var runt 2 %. Basfrekvensen glöms bort eftersom fallet framför oss känns viktigare än den tråkiga statistiken i bakgrunden. Samma misstag görs i rättssalar och vid screening av hela befolkningar.",
+  "video": "videos/basfrekvensfelet.mp4",
+  "poster": "posters/basfrekvensfelet.jpg"
+ },
+ {
   "id": "fermi",
   "num": 39,
   "kind": "begrepp",
@@ -856,6 +1714,28 @@
   "more": "Fermi uppskattade sprängkraften i den första atombombstestet genom att släppa papperslappar och se hur långt tryckvågen förde dem – och hamnade nära de uppmätta värdena. Fermiuppskattningar används i dag i allt från affärsplaner till jobbintervjuer.",
   "video": "videos/fermi.mp4",
   "poster": "posters/fermi.jpg"
+ },
+ {
+  "id": "myt-marie-antoinette",
+  "num": 127,
+  "kind": "myt",
+  "label": "Myt",
+  "accent": "#ff6b6b",
+  "hook": "'Låt dem äta kaka!' Sa hon verkligen så?",
+  "title": "Marie Antoinettes kaka",
+  "meta": "Myt · tillskriven drottningen sedan 1800-talet",
+  "stat": "",
+  "statLabel": "",
+  "points": [
+   "Repliken finns i Rousseaus Bekännelser, skrivna runt 1765, om 'en stor prinsessa'.",
+   "Marie Antoinette var då cirka tio år och bodde i Wien.",
+   "Det finns inga belägg för att hon sa det. Hon skänkte tvärtom pengar till de fattiga."
+  ],
+  "takeaway": "Ett bra citat söker sig till en känd mun.",
+  "source": "Rousseau, Bekännelser, bok 6; Fraser, Marie Antoinette (2001)",
+  "more": "I originalet står det brioche, ett lyxigt bröd, inte kaka. Liknande historier berättades redan om andra kungligheter. Under revolutionen var Marie Antoinette måltavla för en intensiv smutskastningskampanj, och repliken passade perfekt i bilden av en kall och slösaktig drottning – men den knöts till henne först långt senare.",
+  "video": "videos/myt-marie-antoinette.mp4",
+  "poster": "posters/myt-marie-antoinette.jpg"
  },
  {
   "id": "myt-vikingahjalmar",
@@ -880,6 +1760,28 @@
   "poster": "posters/myt-vikingahjalmar.jpg"
  },
  {
+  "id": "williams-moralisk-tur",
+  "num": 128,
+  "kind": "filosofi",
+  "label": "Filosofi",
+  "accent": "#f5b942",
+  "hook": "Två berusade förare kör hem. Bara den ena kör på ett barn.",
+  "title": "Moralisk tur",
+  "meta": "Bernard Williams & Thomas Nagel · 1976",
+  "stat": "",
+  "statLabel": "",
+  "points": [
+   "Båda gjorde samma sak. Ändå dömer vi den ena mycket hårdare.",
+   "Skillnaden avgjordes av slumpen – ett barn som sprang ut.",
+   "Ändå känns det fel att säga att de är lika skyldiga."
+  ],
+  "takeaway": "Vi dömer ofta utfall, inte val.",
+  "source": "Williams & Nagel, 'Moral Luck', Aristotelian Society (1976)",
+  "more": "Nagel delade in turen i olika slag: tur i omständigheter, i konsekvenser och till och med i vilken karaktär man fått. Problemet är att vi bara vill skylla folk för det de kontrollerar – men nästan inget är helt under vår kontroll. Frågan är fortfarande olöst.",
+  "video": "videos/williams-moralisk-tur.mp4",
+  "poster": "posters/williams-moralisk-tur.jpg"
+ },
+ {
   "id": "kant-imperativ",
   "num": 41,
   "kind": "filosofi",
@@ -900,6 +1802,28 @@
   "more": "Det kategoriska imperativet är kärnan i Kants pliktetik. Till skillnad från konsekvensetik handlar det inte om att räkna ut utfall utan om att följa principer som kan gälla för alla. Kant gick enligt legenden samma promenad varje dag så punktligt att grannarna ställde klockan efter honom.",
   "video": "videos/kant-imperativ.mp4",
   "poster": "posters/kant-imperativ.jpg"
+ },
+ {
+  "id": "semmelweis",
+  "num": 129,
+  "kind": "studie",
+  "label": "Studie",
+  "accent": "#4cc9f0",
+  "hook": "Han räddade mödrars liv med handtvätt – och blev utskrattad.",
+  "title": "Semmelweis och handtvätten",
+  "meta": "Ignaz Semmelweis · Wien, 1847",
+  "stat": "18 % → 2 %",
+  "statLabel": "dödlighet månaden före och efter handtvätten",
+  "points": [
+   "På läkarnas förlossningsavdelning dog mödrar i barnsängsfeber långt oftare än på barnmorskornas.",
+   "Läkarna gick direkt från obduktioner till förlossningar. Barnmorskorna gjorde inte det.",
+   "Semmelweis införde handtvätt i klorkalk. Dödligheten rasade."
+  ],
+  "takeaway": "Data räcker inte – man måste också övertyga.",
+  "source": "Semmelweis, Barnsängsfeberns etiologi, begrepp och profylax (1861)",
+  "more": "Semmelweis kunde inte förklara varför tvätten fungerade – bakterieteorin kom först senare med Pasteur och Lister – och han var dessutom aggressiv mot sina kritiker. Han dog 1865 på ett mentalsjukhus, sannolikt av en infektion. 'Semmelweisreflexen' kallas i dag tendensen att avfärda ny kunskap som går emot det invanda.",
+  "video": "videos/semmelweis.mp4",
+  "poster": "posters/semmelweis.jpg"
  },
  {
   "id": "testeffekten",
@@ -924,6 +1848,28 @@
   "poster": "posters/testeffekten.jpg"
  },
  {
+  "id": "satisficing",
+  "num": 130,
+  "kind": "begrepp",
+  "label": "Tankemodell",
+  "accent": "#b892ff",
+  "hook": "Ska du leta efter det bästa – eller nöja dig med bra nog?",
+  "title": "Satisficing",
+  "meta": "Herbert Simon · 1956",
+  "stat": "",
+  "statLabel": "",
+  "points": [
+   "Simon menade att vi sällan kan hitta det optimala – det kostar för mycket att leta.",
+   "Vi väljer i stället det första som är tillräckligt bra.",
+   "Senare studier fann att maximerare gjorde objektivt bättre val – men var mindre nöjda."
+  ],
+  "takeaway": "Bestäm vad som är bra nog – och sluta leta där.",
+  "source": "Simon, Psychological Review (1956); Iyengar, Wells & Schwartz (2006)",
+  "more": "Ordet är en blandning av engelskans 'satisfy' och 'suffice'. Simon fick ekonomipriset till Nobels minne 1978. I en studie av nyutexaminerade fick maximerarna jobb med 20 % högre lön, men de var mindre nöjda, mer ängsliga och mer besvikna under jobbsökandet än de som nöjde sig med bra nog.",
+  "video": "videos/satisficing.mp4",
+  "poster": "posters/satisficing.jpg"
+ },
+ {
   "id": "inversion",
   "num": 43,
   "kind": "begrepp",
@@ -944,6 +1890,28 @@
   "more": "Charlie Munger, Warren Buffetts partner, höll ett känt tal om hur man garanterat blir olycklig – ett inverterat lyckorecept. Inversion är också grunden för 'pre-mortem': att innan ett projekt startar föreställa sig att det har misslyckats och fråga varför.",
   "video": "videos/inversion.mp4",
   "poster": "posters/inversion.jpg"
+ },
+ {
+  "id": "myt-nero",
+  "num": 131,
+  "kind": "myt",
+  "label": "Myt",
+  "accent": "#ff6b6b",
+  "hook": "Spelade Nero fiol medan Rom brann?",
+  "title": "Nero och fiolen",
+  "meta": "Myt · Roms brand, år 64",
+  "stat": "",
+  "statLabel": "",
+  "points": [
+   "Fiolen fanns inte – den uppfanns runt 1 400 år senare.",
+   "Enligt Tacitus var Nero i Antium när branden bröt ut och skyndade tillbaka.",
+   "Han öppnade offentliga byggnader och sina egna trädgårdar för de hemlösa."
+  ],
+  "takeaway": "Historien skrevs ofta av dem som hatade sina härskare.",
+  "source": "Tacitus, Annaler 15:39",
+  "more": "Ryktet att Nero sjöng om Trojas fall medan staden brann fanns redan i antiken – Tacitus nämner det men kallar det just ett rykte. Nero var ändå knappast oskyldig: han använde den nedbrunna marken till sitt enorma palats Domus Aurea och lät skylla branden på de kristna, som förföljdes brutalt.",
+  "video": "videos/myt-nero.mp4",
+  "poster": "posters/myt-nero.jpg"
  },
  {
   "id": "myt-kinesiska-muren",
@@ -968,6 +1936,28 @@
   "poster": "posters/myt-kinesiska-muren.jpg"
  },
  {
+  "id": "neurath-skeppet",
+  "num": 132,
+  "kind": "filosofi",
+  "label": "Filosofi",
+  "accent": "#f5b942",
+  "hook": "Hur bygger man om ett skepp mitt ute på havet?",
+  "title": "Otto Neurath",
+  "meta": "Filosof och samhällsvetare · 1882–1945",
+  "stat": "",
+  "statLabel": "",
+  "points": [
+   "Vi kan aldrig docka vår kunskap och börja om från grunden.",
+   "Vi får byta en planka i taget – medan vi seglar.",
+   "Varje idé prövas mot alla de andra som vi just då står på."
+  ],
+  "takeaway": "Förbättra det du har – du kan inte börja om från noll.",
+  "source": "Neurath, 'Protokollsätze', Erkenntnis (1932)",
+  "more": "Neurath var medlem av Wienkretsen och skapade även Isotype, bildspråket som ligger bakom dagens infografik och piktogram. Skeppet är ett svar till Descartes, som ville riva allt och bygga på säker grund. Liknelsen togs senare upp av W. V. O. Quine och har blivit en standardbild för hur kunskap och samhällen förändras.",
+  "video": "videos/neurath-skeppet.mp4",
+  "poster": "posters/neurath-skeppet.jpg"
+ },
+ {
   "id": "nietzsche-aterkomst",
   "num": 45,
   "kind": "filosofi",
@@ -988,6 +1978,28 @@
   "more": "Den eviga återkomsten är främst ett tankeexperiment. Nietzsche ville att vi skulle 'älska vårt öde' – amor fati – och skapa ett liv vi kan bejaka helt. Han kallade det 'den tyngsta tyngden'.",
   "video": "videos/nietzsche-aterkomst.mp4",
   "poster": "posters/nietzsche-aterkomst.jpg"
+ },
+ {
+  "id": "goodall-verktyg",
+  "num": 133,
+  "kind": "studie",
+  "label": "Studie",
+  "accent": "#4cc9f0",
+  "hook": "En schimpans med ett grässtrå fick forskarna att definiera om människan.",
+  "title": "Goodall och termitpinnen",
+  "meta": "Jane Goodall · Gombe, Tanzania, 1960",
+  "stat": "",
+  "statLabel": "",
+  "points": [
+   "Man trodde att verktyg var det som skilde människan från alla andra djur.",
+   "Goodall såg schimpansen David Greybeard fiska termiter med ett strå.",
+   "Han rensade dessutom kvistar från blad – han tillverkade verktyg."
+  ],
+  "takeaway": "En enda noggrann observation kan välta en hel definition.",
+  "source": "Goodall, In the Shadow of Man (1971)",
+  "more": "Goodall hade ingen akademisk examen när hon började och kritiserades för att ge schimpanserna namn i stället för nummer och för att beskriva deras personligheter. I dag är individuella observationer en självklar del av forskningen om djurs beteende, och verktygsbruk har setts hos kråkor, bläckfiskar och delfiner.",
+  "video": "videos/goodall-verktyg.mp4",
+  "poster": "posters/goodall-verktyg.jpg"
  },
  {
   "id": "somnbrist",
@@ -1012,6 +2024,28 @@
   "poster": "posters/somnbrist.jpg"
  },
  {
+  "id": "riskkompensation",
+  "num": 134,
+  "kind": "begrepp",
+  "label": "Tankemodell",
+  "accent": "#b892ff",
+  "hook": "Säkrare bilar – och förarna började köra mer vårdslöst.",
+  "title": "Riskkompensation",
+  "meta": "Sam Peltzman · 1975",
+  "stat": "",
+  "statLabel": "",
+  "points": [
+   "När något känns säkrare tar vi ofta ut tryggheten i form av mer risk.",
+   "I en studie i München körde taxichaufförer med ABS-bromsar tätare och tvärare.",
+   "Effekten äter sällan upp hela säkerhetsvinsten – men en del av den."
+  ],
+  "takeaway": "Ny säkerhet förändrar beteendet – räkna med det.",
+  "source": "Peltzman, J. of Political Economy (1975); Aschenbrenner & Biehl (1994)",
+  "more": "Peltzman hävdade att säkerhetskrav på bilar knappt minskade dödligheten eftersom förare körde mer riskabelt – en slutsats som senare forskning ifrågasatt. Bilbälten räddar uppenbart liv. Men idén lever vidare i forskning om allt från cykelhjälmar till statliga garantier för banker.",
+  "video": "videos/riskkompensation.mp4",
+  "poster": "posters/riskkompensation.jpg"
+ },
+ {
   "id": "regression-medel",
   "num": 47,
   "kind": "begrepp",
@@ -1032,6 +2066,28 @@
   "more": "Kahneman berättar om flyginstruktörer i israeliska flygvapnet som var övertygade om att skäll fungerade bättre än beröm. Regression förklarar också 'sophomore slump', varför nya behandlingar ibland verkar fungera och varför 'Sports Illustrated-förbannelsen' finns.",
   "video": "videos/regression-medel.mp4",
   "poster": "posters/regression-medel.jpg"
+ },
+ {
+  "id": "myt-einstein-matte",
+  "num": 135,
+  "kind": "myt",
+  "label": "Myt",
+  "accent": "#ff6b6b",
+  "hook": "Einstein var dålig i matte i skolan? Tvärtom.",
+  "title": "Einstein och matten",
+  "meta": "Myt · spridd sedan 1930-talet",
+  "stat": "",
+  "statLabel": "",
+  "points": [
+   "Einstein behärskade differential- och integralkalkyl innan han fyllde 15.",
+   "Han hade toppbetyg i matematik och fysik i sin schweiziska skola.",
+   "Myten kan bero på att skolans betygsskala vändes – 6 blev bäst i stället för 1."
+  ],
+  "takeaway": "Myter om geniers misslyckanden tröstar – men stämmer sällan.",
+  "source": "Isaacson, Einstein: His Life and Universe (2007)",
+  "more": "När Einstein 1935 fick se en tidningsnotis om att han skulle ha underkänts i matte svarade han att det aldrig hänt. Han klarade visserligen inte inträdesprovet till ETH i Zürich som 16-åring, två år yngre än de flesta – men det var de språkliga och allmänna delarna som brast. I matematik och fysik var resultaten utmärkta.",
+  "video": "videos/myt-einstein-matte.mp4",
+  "poster": "posters/myt-einstein-matte.jpg"
  },
  {
   "id": "myt-platt-jord",
@@ -1056,6 +2112,28 @@
   "poster": "posters/myt-platt-jord.jpg"
  },
  {
+  "id": "wang-yangming",
+  "num": 136,
+  "kind": "filosofi",
+  "label": "Filosofi",
+  "accent": "#f5b942",
+  "hook": "Om du vet vad du borde göra men inte gör det – vet du det då?",
+  "title": "Wang Yangming",
+  "meta": "Konfuciansk filosof · 1472–1529",
+  "stat": "",
+  "statLabel": "",
+  "points": [
+   "Wang lärde ut 'kunskapens och handlingens enhet'.",
+   "Den som säger sig veta att föräldrar ska vördas men inte gör det, vet det inte än.",
+   "Riktig kunskap är som att avsky en dålig lukt – avskyn kommer med insikten."
+  ],
+  "takeaway": "Kunskap som inte syns i handling är bara åsikt.",
+  "source": "Wang Yangming, Chuanxi lu (Instruktioner för praktiskt liv)",
+  "more": "Wang var ämbetsman och general och förvisades till en avlägsen post i Guizhou efter att ha kritiserat en mäktig eunuck vid hovet. Där fick han sin insikt: principerna finns inte i yttre ting utan i det egna sinnet. Hans skola fick stort inflytande i Japan, bland annat på reformatorer under Meiji-tiden.",
+  "video": "videos/wang-yangming.mp4",
+  "poster": "posters/wang-yangming.jpg"
+ },
+ {
   "id": "kierkegaard-baklanges",
   "num": 49,
   "kind": "filosofi",
@@ -1076,6 +2154,28 @@
   "more": "Kierkegaard räknas som existentialismens fader. Han skrev mycket om ångest, val och den enskilda människans ansvar. Ångest var för honom 'frihetens svindel' – känslan av att stå inför möjligheter.",
   "video": "videos/kierkegaard-baklanges.mp4",
   "poster": "posters/kierkegaard-baklanges.jpg"
+ },
+ {
+  "id": "tetlock-experter",
+  "num": 137,
+  "kind": "studie",
+  "label": "Studie",
+  "accent": "#4cc9f0",
+  "hook": "Är experter bättre än slumpen på att förutsäga framtiden?",
+  "title": "Tetlocks prognoser",
+  "meta": "Philip Tetlock · USA, 1984–2003",
+  "stat": "82 000+",
+  "statLabel": "prognoser från 284 experter, följda i nästan 20 år",
+  "points": [
+   "Experter på politik och ekonomi fick göra tusentals förutsägelser.",
+   "I snitt var de knappt bättre än slumpen.",
+   "'Rävar' som vägde många perspektiv slog 'igelkottar' med en enda stor idé."
+  ],
+  "takeaway": "Ödmjuka, flexibla tänkare förutsäger bättre.",
+  "source": "Tetlock, Expert Political Judgment (2005)",
+  "more": "De mest kända experterna, de som syntes mest i medier, träffade ofta sämst – en stor och säker berättelse är bra tv men ger dåliga prognoser. Tetlock gick vidare med Good Judgment Project, där vanliga människor som tränats i att tänka i sannolikheter slog underrättelseanalytiker som hade tillgång till hemlig information.",
+  "video": "videos/tetlock-experter.mp4",
+  "poster": "posters/tetlock-experter.jpg"
  },
  {
   "id": "oppen-placebo",
@@ -1100,6 +2200,28 @@
   "poster": "posters/oppen-placebo.jpg"
  },
  {
+  "id": "stockdaleparadoxen",
+  "num": 138,
+  "kind": "begrepp",
+  "label": "Tankemodell",
+  "accent": "#b892ff",
+  "hook": "I fånglägret bröts optimisterna ned först. Varför?",
+  "title": "Stockdaleparadoxen",
+  "meta": "James Stockdale · krigsfånge 1965–1973",
+  "stat": "",
+  "statLabel": "",
+  "points": [
+   "Stockdale satt sju och ett halvt år i fångenskap i Nordvietnam.",
+   "De som sa 'vi är hemma till jul' bröts ned när jul efter jul passerade.",
+   "Han höll fast vid att det skulle sluta väl – och såg samtidigt verkligheten i vitögat."
+  ],
+  "takeaway": "Tro på slutet. Blunda inte för nuet.",
+  "source": "Collins, Good to Great (2001), kap. 4",
+  "more": "Stockdale var en av de högst rankade amerikanska officerarna i fånglägret och torterades upprepade gånger. Han berättade för Jim Collins att han aldrig tvivlade på att han skulle komma ut. Han hade läst Epiktetos och sa att stoicismen hjälpte honom att skilja mellan det han kunde och inte kunde påverka.",
+  "video": "videos/stockdaleparadoxen.mp4",
+  "poster": "posters/stockdaleparadoxen.jpg"
+ },
+ {
   "id": "parkinsons-lag",
   "num": 51,
   "kind": "begrepp",
@@ -1120,6 +2242,28 @@
   "more": "Parkinson skrev artikeln som satir om brittisk byråkrati – han visade att antalet tjänstemän i amiralitetet ökade medan antalet fartyg minskade. Hans andra lag: utgifter stiger tills de möter inkomsterna.",
   "video": "videos/parkinsons-lag.mp4",
   "poster": "posters/parkinsons-lag.jpg"
+ },
+ {
+  "id": "myt-arstiderna",
+  "num": 139,
+  "kind": "myt",
+  "label": "Myt",
+  "accent": "#ff6b6b",
+  "hook": "Sommar för att jorden är närmare solen? Då vore det sommar i januari.",
+  "title": "Årstiderna",
+  "meta": "Myt · vanlig missuppfattning",
+  "stat": "",
+  "statLabel": "",
+  "points": [
+   "Jorden är som närmast solen i början av januari.",
+   "Årstiderna beror på att jordaxeln lutar cirka 23,4 grader.",
+   "När vår halva lutar mot solen faller ljuset brantare och dagarna blir längre."
+  ],
+  "takeaway": "Vinkeln, inte avståndet, ger årstiderna.",
+  "source": "NASA Space Place, What Causes the Seasons?",
+  "more": "Avståndet mellan jorden och solen skiljer bara cirka 3 % över året. Om avståndet styrde årstiderna skulle hela jorden ha sommar samtidigt – men när det är sommar i Sverige är det vinter i Australien. I dokumentären A Private Universe (1987) kunde nästan inga nyutexaminerade från Harvard förklara det rätt.",
+  "video": "videos/myt-arstiderna.mp4",
+  "poster": "posters/myt-arstiderna.jpg"
  },
  {
   "id": "myt-mozart",
@@ -1144,6 +2288,28 @@
   "poster": "posters/myt-mozart.jpg"
  },
  {
+  "id": "nagel-fladdermus",
+  "num": 140,
+  "kind": "filosofi",
+  "label": "Filosofi",
+  "accent": "#f5b942",
+  "hook": "Hur känns det att vara en fladdermus?",
+  "title": "Thomas Nagel",
+  "meta": "Filosof · f. 1937",
+  "stat": "",
+  "statLabel": "",
+  "points": [
+   "Fladdermöss uppfattar världen med ekolod – ett sinne vi helt saknar.",
+   "Vi kan beskriva deras hjärna i detalj och ändå inte veta hur det känns.",
+   "Upplevelsen inifrån är svår att fånga med fysikens språk."
+  ],
+  "takeaway": "Att förstå något är inte samma sak som att uppleva det.",
+  "source": "Nagel, 'What Is It Like to Be a Bat?', Philosophical Review (1974)",
+  "more": "Nagels uppsats är en av de mest citerade i medvetandefilosofin. Han förnekar inte att medvetandet är fysiskt, men hävdar att vi saknar begrepp för att förstå hur det skulle kunna vara det. Idén föregick David Chalmers 'svåra problem' med två decennier.",
+  "video": "videos/nagel-fladdermus.mp4",
+  "poster": "posters/nagel-fladdermus.jpg"
+ },
+ {
   "id": "sartre-existens",
   "num": 53,
   "kind": "filosofi",
@@ -1164,6 +2330,28 @@
   "more": "'Existensen föregår essensen' är existentialismens kärnformel. Sartre menade att det inte finns någon förutbestämd mänsklig natur, och att vi därför bär fullt ansvar för vad vi gör av oss själva. Han tackade nej till Nobelpriset i litteratur 1964.",
   "video": "videos/sartre-existens.mp4",
   "poster": "posters/sartre-existens.jpg"
+ },
+ {
+  "id": "galton-oxen",
+  "num": 141,
+  "kind": "studie",
+  "label": "Studie",
+  "accent": "#4cc9f0",
+  "hook": "787 personer gissade vad en oxe vägde. Medianen blev nästan exakt rätt.",
+  "title": "Galtons oxe",
+  "meta": "Francis Galton · Plymouth, 1906",
+  "stat": "0,8 %",
+  "statLabel": "från rätt vikt – för medianen av alla gissningar",
+  "points": [
+   "På en boskapsmarknad betalade folk för att gissa vad en slaktad oxe vägde.",
+   "Gissningarna spretade åt alla håll – men felen tog ut varandra.",
+   "Medianen: 1 207 pund. Verklig vikt: 1 198 pund."
+  ],
+  "takeaway": "Många oberoende gissningar slår ofta experten.",
+  "source": "Galton, 'Vox Populi', Nature (1907)",
+  "more": "Galton var själv skeptisk till vanligt folks omdöme och blev förvånad. Effekten kräver att gissningarna är oberoende: hör folk varandras svar först drar de åt samma håll och felen slutar ta ut varandra. Därför fungerar en tyst, anonym runda ofta bättre än en diskussion där den mest självsäkra talar först.",
+  "video": "videos/galton-oxen.mp4",
+  "poster": "posters/galton-oxen.jpg"
  },
  {
   "id": "barmhartige-samariten",
@@ -1188,6 +2376,28 @@
   "poster": "posters/barmhartige-samariten.jpg"
  },
  {
+  "id": "roda-drottningen",
+  "num": 142,
+  "kind": "begrepp",
+  "label": "Tankemodell",
+  "accent": "#b892ff",
+  "hook": "Varför måste arter springa för att stå still?",
+  "title": "Röda drottningen",
+  "meta": "Leigh Van Valen · 1973",
+  "stat": "",
+  "statLabel": "",
+  "points": [
+   "Rovdjur blir snabbare, bytesdjur blir snabbare – ingen får ett varaktigt övertag.",
+   "Parasiter anpassar sig till värdar, och värdar till parasiter.",
+   "Arter måste ständigt förändras bara för att behålla sin plats."
+  ],
+  "takeaway": "I en tävlande värld är stillastående att falla bakåt.",
+  "source": "Van Valen, 'A New Evolutionary Law', Evolutionary Theory (1973)",
+  "more": "Namnet kommer från Lewis Carrolls Alice i Spegellandet. Van Valen fann att risken för att en grupp av arter dör ut verkade ungefär konstant över tid – oavsett hur länge gruppen funnits. Idén används också för att förklara varför sexuell förökning finns: den blandar generna och gör det svårare för parasiter att hänga med.",
+  "video": "videos/roda-drottningen.mp4",
+  "poster": "posters/roda-drottningen.jpg"
+ },
+ {
   "id": "tit-for-tat",
   "num": 55,
   "kind": "begrepp",
@@ -1208,6 +2418,28 @@
   "more": "Strategin skickades in av psykologen Anatol Rapoport. Den vann båda Axelrods turneringar. Senare forskning visar att något mer förlåtande varianter klarar sig ännu bättre när det finns brus och misstag i kommunikationen.",
   "video": "videos/tit-for-tat.mp4",
   "poster": "posters/tit-for-tat.jpg"
+ },
+ {
+  "id": "myt-salem",
+  "num": 143,
+  "kind": "myt",
+  "label": "Myt",
+  "accent": "#ff6b6b",
+  "hook": "Häxorna i Salem brändes på bål? Ingen av dem gjorde det.",
+  "title": "Häxorna i Salem",
+  "meta": "Myt · Salem, Massachusetts, 1692",
+  "stat": "",
+  "statLabel": "",
+  "points": [
+   "19 personer avrättades genom hängning.",
+   "En man, Giles Corey, pressades till döds under stenar när han vägrade svara.",
+   "Bränning var ett straff på kontinenten – i engelska kolonier hängdes dömda häxor."
+  ],
+  "takeaway": "Kolla detaljerna – även i berättelser alla tror att de kan.",
+  "source": "Norton, In the Devil's Snare (2002)",
+  "more": "Bränningar förekom däremot i stora delar av Europa. I Sverige halshöggs de flesta dömda innan kroppen brändes, till exempel under det stora oväsendet på 1670-talet. Flera anklagade i Salem dog också i fängelset. 1711 friade kolonin de dömda och betalade ersättning till deras familjer.",
+  "video": "videos/myt-salem.mp4",
+  "poster": "posters/myt-salem.jpg"
  },
  {
   "id": "myt-hawthorne",
@@ -1232,6 +2464,28 @@
   "poster": "posters/myt-hawthorne.jpg"
  },
  {
+  "id": "mozi-omsorg",
+  "num": 144,
+  "kind": "filosofi",
+  "label": "Filosofi",
+  "accent": "#f5b942",
+  "hook": "En kinesisk tänkare argumenterade mot erövringskrig – för 2 400 år sedan.",
+  "title": "Mozi",
+  "meta": "Filosof · ca 470–391 f.Kr.",
+  "stat": "",
+  "statLabel": "",
+  "points": [
+   "Den som stjäl persikor kallas tjuv. Den som erövrar ett land kallas hjälte.",
+   "Mozi förespråkade jian ai: omsorg om alla, inte bara om de egna.",
+   "Hans anhängare blev experter på att försvara städer mot belägring."
+  ],
+  "takeaway": "Det som är fel i liten skala är fel även i stor.",
+  "source": "Mozi, kapitlen 'Mot anfallskrig' och 'Allomfattande omsorg'",
+  "more": "Mohismen var under en tid lika inflytelserik som konfucianismen. Mozi prövade idéer mot tre kriterier: stämmer de med de vises exempel, med folks erfarenhet, och gagnar de folket? Mohisterna byggde försvarsverk åt hotade städer – en fredsrörelse med verktyg. Skolan försvann efter att Qin-dynastin enat Kina.",
+  "video": "videos/mozi-omsorg.mp4",
+  "poster": "posters/mozi-omsorg.jpg"
+ },
+ {
   "id": "camus-sisyfos",
   "num": 57,
   "kind": "filosofi",
@@ -1252,6 +2506,28 @@
   "more": "Camus började sin essä med frågan om livet är värt att leva. Hans svar var ja – inte för att det finns en dold mening, utan för att kampen i sig kan fylla ett människohjärta. Han fick Nobelpriset i litteratur 1957.",
   "video": "videos/camus-sisyfos.mp4",
   "poster": "posters/camus-sisyfos.jpg"
+ },
+ {
+  "id": "pennebaker-skriva",
+  "num": 145,
+  "kind": "studie",
+  "label": "Studie",
+  "accent": "#4cc9f0",
+  "hook": "Fyra dagar, femton minuter om dagen. Kan skrivande göra dig friskare?",
+  "title": "Att skriva av sig",
+  "meta": "James Pennebaker · Texas, 1986",
+  "stat": "",
+  "statLabel": "",
+  "points": [
+   "Studenter skrev om sina djupaste tankar och känslor kring en svår händelse.",
+   "En kontrollgrupp skrev om ytliga ämnen, som hur deras rum såg ut.",
+   "Under månaderna efter besökte de som skrivit om det svåra vårdcentralen mer sällan."
+  ],
+  "takeaway": "Att sätta ord på det svåra kan lätta bördan.",
+  "source": "Pennebaker & Beall, J. of Abnormal Psychology (1986)",
+  "more": "Effekten har upprepats i hundratals studier, men den är oftast måttlig och varierar. Det verkar viktigt att både uttrycka känslorna och försöka förstå händelsen – texter med fler ord som 'eftersom' och 'insåg' gav störst nytta. Direkt efter skrivandet mådde deltagarna ofta sämre; nyttan kom senare.",
+  "video": "videos/pennebaker-skriva.mp4",
+  "poster": "posters/pennebaker-skriva.jpg"
  },
  {
   "id": "rokfyllda-rummet",
@@ -1276,6 +2552,28 @@
   "poster": "posters/rokfyllda-rummet.jpg"
  },
  {
+  "id": "ostroms-allmanningar",
+  "num": 146,
+  "kind": "begrepp",
+  "label": "Tankemodell",
+  "accent": "#b892ff",
+  "hook": "Måste allmänningar alltid gå under? En Nobelpristagare sa nej.",
+  "title": "Ostroms allmänningar",
+  "meta": "Elinor Ostrom · ekonomipriset 2009",
+  "stat": "",
+  "statLabel": "",
+  "points": [
+   "Teorin sa att gemensamma resurser överutnyttjas om ingen äger dem.",
+   "Ostrom studerade fiskevatten, betesmarker och bevattning som skötts i århundraden.",
+   "Grupper med egna regler, övervakning och gradvisa straff lyckades."
+  ],
+  "takeaway": "Människor kan förvalta det gemensamma – med rätt regler.",
+  "source": "Ostrom, Governing the Commons (1990)",
+  "more": "Ostrom var den första kvinnan som fick ekonomipriset till Nobels minne. Hennes exempel inkluderade alpbeten i Törbel i Schweiz, som förvaltats gemensamt sedan medeltiden, och bevattningssystem i Spanien och Filippinerna. Hon formulerade åtta designprinciper, som tydliga gränser och att de som berörs av reglerna får vara med och ändra dem.",
+  "video": "videos/ostroms-allmanningar.mp4",
+  "poster": "posters/ostroms-allmanningar.jpg"
+ },
+ {
   "id": "bekraftelsebias",
   "num": 59,
   "kind": "begrepp",
@@ -1296,6 +2594,28 @@
   "more": "Bekräftelsebias är tendensen att söka, tolka och minnas information som stöder det vi redan tror. Den påverkar allt från vetenskap till nyhetsflöden och rättegångar. Popper hade en lösning: försök aktivt falsifiera din egen hypotes.",
   "video": "videos/bekraftelsebias.mp4",
   "poster": "posters/bekraftelsebias.jpg"
+ },
+ {
+  "id": "myt-struts",
+  "num": 147,
+  "kind": "myt",
+  "label": "Myt",
+  "accent": "#ff6b6b",
+  "hook": "Strutsar gömmer huvudet i sanden när de är rädda? Aldrig.",
+  "title": "Strutsen och sanden",
+  "meta": "Myt · sedan Plinius den äldre, 77 e.Kr.",
+  "stat": "",
+  "statLabel": "",
+  "points": [
+   "Strutsar lägger ägg i en grop i marken och vänder dem med näbben flera gånger om dagen.",
+   "På håll ser det ut som om huvudet är nere i sanden.",
+   "Vid fara springer de – i upp till 70 km/h – eller lägger sig platt mot marken."
+  ],
+  "takeaway": "Den som verkligen blundar för fara överlever inte länge.",
+  "source": "Plinius, Naturalis historia, bok 10",
+  "more": "Plinius skrev att strutsar tror att hela kroppen är gömd när de stuckit in huvudet i en buske. Myten blev ett talesätt för att blunda för problem. En struts som faktiskt grävde ned huvudet skulle kvävas. När de ligger platt mot marken smälter de däremot in i landskapet på håll.",
+  "video": "videos/myt-struts.mp4",
+  "poster": "posters/myt-struts.jpg"
  },
  {
   "id": "myt-marshmallow",
@@ -1320,6 +2640,28 @@
   "poster": "posters/myt-marshmallow.jpg"
  },
  {
+  "id": "boethius-hjulet",
+  "num": 148,
+  "kind": "filosofi",
+  "label": "Filosofi",
+  "accent": "#f5b942",
+  "hook": "Vad skriver man i en fängelsecell i väntan på avrättning?",
+  "title": "Boethius",
+  "meta": "Filosof och ämbetsman · ca 477–524",
+  "stat": "",
+  "statLabel": "",
+  "points": [
+   "Boethius föll från Roms högsta ämbeten till dödscellen.",
+   "Där lät han Filosofin besöka honom i en kvinnas gestalt och tala honom till rätta.",
+   "Lyckan är ett hjul: den som klagar när det snurrar har missförstått det."
+  ],
+  "takeaway": "Lyckan kan ta det den gav – men inte vem du är.",
+  "source": "Boethius, Filosofins tröst (ca 524), bok 2",
+  "more": "Filosofins tröst blev en av medeltidens mest lästa böcker och översattes av bland andra Alfred den store, Chaucer och drottning Elizabeth I. Lyckohjulet, rota fortunae, fanns redan i antiken men fick genom Boethius sin plats i medeltida konst och litteratur.",
+  "video": "videos/boethius-hjulet.mp4",
+  "poster": "posters/boethius-hjulet.jpg"
+ },
+ {
   "id": "beauvoir-blir",
   "num": 61,
   "kind": "filosofi",
@@ -1340,6 +2682,28 @@
   "more": "Det andra könet är ett av 1900-talets mest inflytelserika verk och en grundbult i modern feminism. Beauvoir byggde på existentialismen: om existensen föregår essensen så kan inte heller kön vara ett färdigt öde.",
   "video": "videos/beauvoir-blir.mp4",
   "poster": "posters/beauvoir-blir.jpg"
+ },
+ {
+  "id": "promenad-ideer",
+  "num": 149,
+  "kind": "studie",
+  "label": "Studie",
+  "accent": "#4cc9f0",
+  "hook": "Fastnat på ett problem? Res dig upp.",
+  "title": "Promenaden och idéerna",
+  "meta": "Marily Oppezzo & Daniel Schwartz · Stanford, 2014",
+  "stat": "+60 %",
+  "statLabel": "fler kreativa idéer när deltagarna gick i stället för att sitta",
+  "points": [
+   "Deltagare fick hitta på nya användningar för vardagsföremål.",
+   "De som gick – även på löpband vända mot en vägg – kom på betydligt fler.",
+   "Effekten satt i en stund även efter att de satt sig igen."
+  ],
+  "takeaway": "Gå en sväng när du behöver nya idéer.",
+  "source": "Oppezzo & Schwartz, J. of Experimental Psychology: LMC (2014)",
+  "more": "Promenaden hjälpte det öppna tänkandet – att få många idéer – men inte uppgifter med ett enda rätt svar. Nietzsche skrev att alla verkligt stora tankar föds under promenader, och Darwin hade en egen grusgång, Sandwalk, som han vandrade varv efter varv på varje dag.",
+  "video": "videos/promenad-ideer.mp4",
+  "poster": "posters/promenad-ideer.jpg"
  },
  {
   "id": "festinger-dissonans",
@@ -1364,6 +2728,28 @@
   "poster": "posters/festinger-dissonans.jpg"
  },
  {
+  "id": "myt-blixten",
+  "num": 150,
+  "kind": "myt",
+  "label": "Myt",
+  "accent": "#ff6b6b",
+  "hook": "Blixten slår aldrig ned två gånger på samma ställe? Fråga Empire State Building.",
+  "title": "Blixten slår två gånger",
+  "meta": "Myt · gammalt talesätt",
+  "stat": "",
+  "statLabel": "",
+  "points": [
+   "Empire State Building träffas av blixten runt 20–25 gånger om året.",
+   "Höga, spetsiga och ledande föremål träffas om och om igen.",
+   "Parkvakten Roy Sullivan träffades av blixten sju gånger – och överlevde alla."
+  ],
+  "takeaway": "Det som hänt en gång kan mycket väl hända igen.",
+  "source": "NOAA National Weather Service; Guinness World Records",
+  "more": "Blixten tar den lättaste vägen till marken, och den vägen är ofta densamma gång efter gång. Det är därför åskledare fungerar. Roy Sullivan arbetade i Shenandoah nationalpark och träffades mellan 1942 och 1977. Han förlorade bland annat en stortånagel och fick håret i brand vid två tillfällen.",
+  "video": "videos/myt-blixten.mp4",
+  "poster": "posters/myt-blixten.jpg"
+ },
+ {
   "id": "feynman-teknik",
   "num": 63,
   "kind": "begrepp",
@@ -1386,6 +2772,28 @@
   "poster": "posters/feynman-teknik.jpg"
  },
  {
+  "id": "maier-hjalploshet",
+  "num": 151,
+  "kind": "studie",
+  "label": "Studie",
+  "accent": "#4cc9f0",
+  "hook": "I 50 år trodde vi att hjälplöshet var inlärd. Det var tvärtom.",
+  "title": "Hjälplösheten som vändes",
+  "meta": "Steven Maier & Martin Seligman · 1967 och 2016",
+  "stat": "",
+  "statLabel": "",
+  "points": [
+   "1967: hundar som fått stötar de inte kunde stoppa slutade senare försöka fly.",
+   "Slutsatsen blev att de hade lärt sig att vara hjälplösa.",
+   "50 år senare visade hjärnforskningen att passivitet är grundläget. Det vi lär oss är kontroll."
+  ],
+  "takeaway": "Det vi lär oss är inte hjälplöshet – utan att vi kan påverka.",
+  "source": "Maier & Seligman, Psychological Review (2016)",
+  "more": "Hjärnans grundsvar på långvarig, svår stress är att bli passiv. Först när ett djur – eller en människa – upplever att det faktiskt kan påverka situationen lär sig en krets i pannloben att dämpa passiviteten. Det ger en ny syn på resiliens: den byggs genom erfarenheter av kontroll. De ursprungliga försöken på hundar är i dag etiskt omdiskuterade.",
+  "video": "videos/maier-hjalploshet.mp4",
+  "poster": "posters/maier-hjalploshet.jpg"
+ },
+ {
   "id": "mill-skadeprincipen",
   "num": 64,
   "kind": "filosofi",
@@ -1406,6 +2814,28 @@
   "more": "Skadeprincipen är en hörnsten i liberal filosofi och används i debatter om allt från yttrandefrihet till droger. Mill skrev boken tillsammans med sin fru Harriet Taylor Mill, och var en tidig förespråkare för kvinnlig rösträtt.",
   "video": "videos/mill-skadeprincipen.mp4",
   "poster": "posters/mill-skadeprincipen.jpg"
+ },
+ {
+  "id": "myt-kameleonten",
+  "num": 152,
+  "kind": "myt",
+  "label": "Myt",
+  "accent": "#ff6b6b",
+  "hook": "Kameleonter byter färg för att smälta in? Mest inte.",
+  "title": "Kameleontens färger",
+  "meta": "Myt · klassiskt naturexempel",
+  "stat": "",
+  "statLabel": "",
+  "points": [
+   "Färgbytena handlar främst om kommunikation: att imponera, hota eller ge upp.",
+   "De reglerar också temperaturen – mörkare hud tar upp mer värme.",
+   "Färgen skapas av nanokristaller i huden som ändrar avstånd och reflekterar olika ljus."
+  ],
+  "takeaway": "Färgen är ett språk, inte en osynlighetsmantel.",
+  "source": "Teyssier m.fl., Nature Communications (2015)",
+  "more": "Kameleonter har redan en grundfärg som passar deras miljö, men de stora färgskiftningarna syns när hanar möts eller uppvaktar honor – raka motsatsen till att gömma sig. Upptäckten av de fotoniska kristallerna i huden förklarade hur de kan skifta från grönt till gult och rött på bara några minuter.",
+  "video": "videos/myt-kameleonten.mp4",
+  "poster": "posters/myt-kameleonten.jpg"
  },
  {
   "id": "ikea-effekten",

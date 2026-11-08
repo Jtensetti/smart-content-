@@ -1,0 +1,257 @@
+[
+  {
+    "id": "myt-rosenhan",
+    "kind": "myt",
+    "hook": "Studien som 'avslöjade' psykiatrin – kan ha varit till stor del påhittad.",
+    "title": "Rosenhans pseudopatienter",
+    "meta": "Myt · Science, 1973",
+    "points": [
+      "Rosenhan påstod att åtta friska personer lurat sig in på psykiatriska sjukhus.",
+      "Journalisten Susannah Cahalan granskade studien i flera år.",
+      "Hon hittade bara två av deltagarna – och den ena hade uteslutits för att han trivdes."
+    ],
+    "takeaway": "Även läroboksklassiker behöver granskas.",
+    "source": "Cahalan, The Great Pretender (2019)",
+    "more": "Studien 'On Being Sane in Insane Places' bidrog till stora reformer inom psykiatrin och citeras fortfarande flitigt. Cahalan fann att Rosenhans egna journalanteckningar motsade hans beskrivning, och att en deltagare med positiva upplevelser lämnats utanför. Hon kunde inte hitta de övriga pseudopatienterna."
+  },
+  {
+    "id": "myt-hungriga-domare",
+    "kind": "myt",
+    "hook": "Domare är hårdare innan lunch? Kanske inte.",
+    "title": "De hungriga domarna",
+    "meta": "Myt · PNAS, 2011",
+    "points": [
+      "En studie fann att beviljade frigivningar sjönk från 65 % till nära noll före varje paus.",
+      "Kritiker visade att ordningen inte var slumpmässig: fångar utan advokat togs ofta sist.",
+      "Effekten är dessutom orimligt stor – större än nästan allt annat inom psykologin."
+    ],
+    "takeaway": "Är en effekt för bra för att vara sann – var misstänksam.",
+    "source": "Danziger m.fl., PNAS (2011); Weinshall-Margel & Shapard, PNAS (2011)",
+    "more": "Studien blev en favorit i populärvetenskapen som bevis för beslutsutmattning. Men domarna planerade pauserna själva, och ärenden utan ombud tenderade att hamna sist före en paus. Psykologen Daniël Lakens påpekade att en så enorm effekt borde ha märkts av alla som arbetar i domstolar."
+  },
+  {
+    "id": "myt-aldre-priming",
+    "kind": "myt",
+    "hook": "Läser du ord om ålderdom går du långsammare. Eller?",
+    "title": "Äldre-primingen",
+    "meta": "Myt · Bargh m.fl., 1996",
+    "points": [
+      "Studenter som läst ord som 'grå' och 'bingo' sades gå långsammare i korridoren.",
+      "När Doyen m.fl. upprepade försöket 2012 med fotoceller syntes ingen effekt.",
+      "Effekten kom bara tillbaka när försöksledarna visste vad de väntade sig."
+    ],
+    "takeaway": "Försöksledarens förväntningar kan forma resultatet.",
+    "source": "Bargh m.fl., JPSP (1996); Doyen m.fl., PLoS ONE (2012)",
+    "more": "Studien citerades tusentals gånger och lyftes fram av Daniel Kahneman i Tänka, snabbt och långsamt. Kahneman skrev 2012 ett öppet brev där han varnade för ett tågvrak inom primingforskningen. Den här studien blev en av startpunkterna för replikationskrisen i psykologin."
+  },
+  {
+    "id": "myt-power-posing",
+    "kind": "myt",
+    "hook": "Två minuter i en 'kraftpose' gör dig modigare. Eller inte?",
+    "title": "Power posing",
+    "meta": "Myt · Carney, Cuddy & Yap, 2010",
+    "points": [
+      "Ett populärt TED-föredrag gjorde idén världsberömd: breda poser skulle ändra hormonerna.",
+      "Större upprepningar fann ingen effekt på testosteron, kortisol eller risktagande.",
+      "2016 skrev studiens försteförfattare att hon inte längre trodde på effekten."
+    ],
+    "takeaway": "En effekt blir inte sann för att den är populär.",
+    "source": "Ranehill m.fl., Psychological Science (2015); Carney (2016)",
+    "more": "Dana Carney publicerade ett uttalande där hon beskrev hur data i originalstudien hade analyserats på flexibla sätt. Amy Cuddy har hävdat att poserna ändå kan få folk att känna sig starkare, och det finns visst stöd för den känslan. Men effekterna på hormoner och beteende har inte hållit."
+  },
+  {
+    "id": "myt-lamlar",
+    "kind": "myt",
+    "hook": "Begår lämlar massjälvmord? Bilderna var arrangerade.",
+    "title": "Lämlarnas självmord",
+    "meta": "Myt · Disneys White Wilderness, 1958",
+    "points": [
+      "Disneys Oscarsbelönade naturfilm visade lämlar som störtade sig i havet.",
+      "Djuren hade fraktats till Alberta och föstes ut över en flodbrant av filmteamet.",
+      "Lämmelstammar svänger kraftigt och djuren vandrar – men inte för att dö."
+    ],
+    "takeaway": "Även naturfilmer kan vara iscensatta.",
+    "source": "CBC, The Fifth Estate (1982)",
+    "more": "Myten om lämlarnas självmord fanns före filmen, men filmen gjorde den till en sanning för generationer. När stammarna blir täta vandrar lämlar och kan drunkna när de försöker simma över vatten. Det är olyckor, inte avsikt. Lämmeltåg lever ändå kvar som bild för folk som följer varandra blint."
+  },
+  {
+    "id": "myt-glas-flyter",
+    "kind": "myt",
+    "hook": "Gamla fönster är tjockare nertill – för att glaset rinner?",
+    "title": "Glaset som flyter",
+    "meta": "Myt · seglivad sedan 1900-talet",
+    "points": [
+      "Glas är ett amorft fast ämne. Vid rumstemperatur rör det sig inte märkbart.",
+      "Beräkningar visar att det skulle ta längre tid än universums ålder att se en skillnad.",
+      "Gamla rutor var ojämna från början, och glasmästare satte ofta den tjocka kanten nedåt."
+    ],
+    "takeaway": "Ojämnt glas är spår av hantverket, inte av tiden.",
+    "source": "Zanotto, American Journal of Physics (1998)",
+    "more": "Förr gjordes fönsterglas ofta som kronglas: en glasklump snurrades ut till en stor platt skiva som blev ojämn i tjocklek. Det finns gamla rutor med den tjocka kanten uppåt eller åt sidan. Och romerska glasföremål och teleskoplinser som är hundratals år gamla har inte flutit ut."
+  },
+  {
+    "id": "myt-socker",
+    "kind": "myt",
+    "hook": "Barn blir uppe i varv av socker. Eller är det föräldrarna som ser det?",
+    "title": "Socker och hyperaktivitet",
+    "meta": "Myt · vanlig sedan 1970-talet",
+    "points": [
+      "En sammanställning av 16 dubbelblinda studier fann ingen effekt av socker på barns beteende.",
+      "I ett försök fick mammor höra att sonen druckit socker – fast han fått placebo.",
+      "De bedömde honom som mer hyperaktiv och var mer kritiska mot honom."
+    ],
+    "takeaway": "Förväntningar kan ändra hur vi ser på beteende.",
+    "source": "Wolraich m.fl., JAMA (1995); Hoover & Milich (1994)",
+    "more": "Kalas, högtider och godis kommer ofta tillsammans med spänning, andra barn och sena kvällar – och då är det lätt att skylla på sockret. Socker är inte bra för tänderna eller hälsan i stora mängder, men det verkar inte göra barn hyperaktiva."
+  },
+  {
+    "id": "myt-medellivslangd",
+    "kind": "myt",
+    "hook": "Folk dog vid 30 på medeltiden? Inte riktigt.",
+    "title": "Medellivslängden",
+    "meta": "Myt · bygger på missförstådd statistik",
+    "points": [
+      "Den låga medellivslängden drogs ned av att väldigt många dog som barn.",
+      "Den som klarade barndomen hade goda chanser att bli 50–60 år eller mer.",
+      "Ett snitt säger lite när utfallen är så ojämnt fördelade."
+    ],
+    "takeaway": "Ett medelvärde kan dölja hur det faktiskt ser ut.",
+    "source": "Our World in Data, Life Expectancy; Kaplan m.fl. (2000)",
+    "more": "I många samhällen före 1800-talet dog ungefär vart tredje eller vart fjärde barn före fem års ålder. Bland engelska adelsmän födda 1200–1450 levde den som fyllt 21 i snitt till runt 64 års ålder. Det betyder inte att livet var lätt – men en 40-åring var ingen gammal människa."
+  },
+  {
+    "id": "myt-jarnjungfrun",
+    "kind": "myt",
+    "hook": "Medeltidens mest ökända tortyrredskap – fanns troligen aldrig.",
+    "title": "Järnjungfrun",
+    "meta": "Myt · ett 'medeltida' redskap från 1800-talet",
+    "points": [
+      "Det finns inga säkra medeltida källor om järnjungfrur.",
+      "De kända exemplaren sattes ihop på 1800-talet, ofta av delar från olika föremål.",
+      "De visades på museer och utställningar som sensationer."
+    ],
+    "takeaway": "Bilden av en 'mörk medeltid' är delvis påhittad senare.",
+    "source": "Schild, Die Eiserne Jungfrau (2000)",
+    "more": "Idén går tillbaka till Johann Philipp Siebenkees, som 1793 skrev om en avrättning i Nürnberg 1515 – utan säkra belägg. Den mest kända järnjungfrun, den från Nürnberg, förstördes under andra världskriget. Kopior visas fortfarande på tortyrmuseer, ofta utan förklaring."
+  },
+  {
+    "id": "myt-marie-antoinette",
+    "kind": "myt",
+    "hook": "'Låt dem äta kaka!' Sa hon verkligen så?",
+    "title": "Marie Antoinettes kaka",
+    "meta": "Myt · tillskriven drottningen sedan 1800-talet",
+    "points": [
+      "Repliken finns i Rousseaus Bekännelser, skrivna runt 1765, om 'en stor prinsessa'.",
+      "Marie Antoinette var då cirka tio år och bodde i Wien.",
+      "Det finns inga belägg för att hon sa det. Hon skänkte tvärtom pengar till de fattiga."
+    ],
+    "takeaway": "Ett bra citat söker sig till en känd mun.",
+    "source": "Rousseau, Bekännelser, bok 6; Fraser, Marie Antoinette (2001)",
+    "more": "I originalet står det brioche, ett lyxigt bröd, inte kaka. Liknande historier berättades redan om andra kungligheter. Under revolutionen var Marie Antoinette måltavla för en intensiv smutskastningskampanj, och repliken passade perfekt i bilden av en kall och slösaktig drottning – men den knöts till henne först långt senare."
+  },
+  {
+    "id": "myt-nero",
+    "kind": "myt",
+    "hook": "Spelade Nero fiol medan Rom brann?",
+    "title": "Nero och fiolen",
+    "meta": "Myt · Roms brand, år 64",
+    "points": [
+      "Fiolen fanns inte – den uppfanns runt 1 400 år senare.",
+      "Enligt Tacitus var Nero i Antium när branden bröt ut och skyndade tillbaka.",
+      "Han öppnade offentliga byggnader och sina egna trädgårdar för de hemlösa."
+    ],
+    "takeaway": "Historien skrevs ofta av dem som hatade sina härskare.",
+    "source": "Tacitus, Annaler 15:39",
+    "more": "Ryktet att Nero sjöng om Trojas fall medan staden brann fanns redan i antiken – Tacitus nämner det men kallar det just ett rykte. Nero var ändå knappast oskyldig: han använde den nedbrunna marken till sitt enorma palats Domus Aurea och lät skylla branden på de kristna, som förföljdes brutalt."
+  },
+  {
+    "id": "myt-einstein-matte",
+    "kind": "myt",
+    "hook": "Einstein var dålig i matte i skolan? Tvärtom.",
+    "title": "Einstein och matten",
+    "meta": "Myt · spridd sedan 1930-talet",
+    "points": [
+      "Einstein behärskade differential- och integralkalkyl innan han fyllde 15.",
+      "Han hade toppbetyg i matematik och fysik i sin schweiziska skola.",
+      "Myten kan bero på att skolans betygsskala vändes – 6 blev bäst i stället för 1."
+    ],
+    "takeaway": "Myter om geniers misslyckanden tröstar – men stämmer sällan.",
+    "source": "Isaacson, Einstein: His Life and Universe (2007)",
+    "more": "När Einstein 1935 fick se en tidningsnotis om att han skulle ha underkänts i matte svarade han att det aldrig hänt. Han klarade visserligen inte inträdesprovet till ETH i Zürich som 16-åring, två år yngre än de flesta – men det var de språkliga och allmänna delarna som brast. I matematik och fysik var resultaten utmärkta."
+  },
+  {
+    "id": "myt-arstiderna",
+    "kind": "myt",
+    "hook": "Sommar för att jorden är närmare solen? Då vore det sommar i januari.",
+    "title": "Årstiderna",
+    "meta": "Myt · vanlig missuppfattning",
+    "points": [
+      "Jorden är som närmast solen i början av januari.",
+      "Årstiderna beror på att jordaxeln lutar cirka 23,4 grader.",
+      "När vår halva lutar mot solen faller ljuset brantare och dagarna blir längre."
+    ],
+    "takeaway": "Vinkeln, inte avståndet, ger årstiderna.",
+    "source": "NASA Space Place, What Causes the Seasons?",
+    "more": "Avståndet mellan jorden och solen skiljer bara cirka 3 % över året. Om avståndet styrde årstiderna skulle hela jorden ha sommar samtidigt – men när det är sommar i Sverige är det vinter i Australien. I dokumentären A Private Universe (1987) kunde nästan inga nyutexaminerade från Harvard förklara det rätt."
+  },
+  {
+    "id": "myt-salem",
+    "kind": "myt",
+    "hook": "Häxorna i Salem brändes på bål? Ingen av dem gjorde det.",
+    "title": "Häxorna i Salem",
+    "meta": "Myt · Salem, Massachusetts, 1692",
+    "points": [
+      "19 personer avrättades genom hängning.",
+      "En man, Giles Corey, pressades till döds under stenar när han vägrade svara.",
+      "Bränning var ett straff på kontinenten – i engelska kolonier hängdes dömda häxor."
+    ],
+    "takeaway": "Kolla detaljerna – även i berättelser alla tror att de kan.",
+    "source": "Norton, In the Devil's Snare (2002)",
+    "more": "Bränningar förekom däremot i stora delar av Europa. I Sverige halshöggs de flesta dömda innan kroppen brändes, till exempel under det stora oväsendet på 1670-talet. Flera anklagade i Salem dog också i fängelset. 1711 friade kolonin de dömda och betalade ersättning till deras familjer."
+  },
+  {
+    "id": "myt-struts",
+    "kind": "myt",
+    "hook": "Strutsar gömmer huvudet i sanden när de är rädda? Aldrig.",
+    "title": "Strutsen och sanden",
+    "meta": "Myt · sedan Plinius den äldre, 77 e.Kr.",
+    "points": [
+      "Strutsar lägger ägg i en grop i marken och vänder dem med näbben flera gånger om dagen.",
+      "På håll ser det ut som om huvudet är nere i sanden.",
+      "Vid fara springer de – i upp till 70 km/h – eller lägger sig platt mot marken."
+    ],
+    "takeaway": "Den som verkligen blundar för fara överlever inte länge.",
+    "source": "Plinius, Naturalis historia, bok 10",
+    "more": "Plinius skrev att strutsar tror att hela kroppen är gömd när de stuckit in huvudet i en buske. Myten blev ett talesätt för att blunda för problem. En struts som faktiskt grävde ned huvudet skulle kvävas. När de ligger platt mot marken smälter de däremot in i landskapet på håll."
+  },
+  {
+    "id": "myt-blixten",
+    "kind": "myt",
+    "hook": "Blixten slår aldrig ned två gånger på samma ställe? Fråga Empire State Building.",
+    "title": "Blixten slår två gånger",
+    "meta": "Myt · gammalt talesätt",
+    "points": [
+      "Empire State Building träffas av blixten runt 20–25 gånger om året.",
+      "Höga, spetsiga och ledande föremål träffas om och om igen.",
+      "Parkvakten Roy Sullivan träffades av blixten sju gånger – och överlevde alla."
+    ],
+    "takeaway": "Det som hänt en gång kan mycket väl hända igen.",
+    "source": "NOAA National Weather Service; Guinness World Records",
+    "more": "Blixten tar den lättaste vägen till marken, och den vägen är ofta densamma gång efter gång. Det är därför åskledare fungerar. Roy Sullivan arbetade i Shenandoah nationalpark och träffades mellan 1942 och 1977. Han förlorade bland annat en stortånagel och fick håret i brand vid två tillfällen."
+  },
+  {
+    "id": "myt-kameleonten",
+    "kind": "myt",
+    "hook": "Kameleonter byter färg för att smälta in? Mest inte.",
+    "title": "Kameleontens färger",
+    "meta": "Myt · klassiskt naturexempel",
+    "points": [
+      "Färgbytena handlar främst om kommunikation: att imponera, hota eller ge upp.",
+      "De reglerar också temperaturen – mörkare hud tar upp mer värme.",
+      "Färgen skapas av nanokristaller i huden som ändrar avstånd och reflekterar olika ljus."
+    ],
+    "takeaway": "Färgen är ett språk, inte en osynlighetsmantel.",
+    "source": "Teyssier m.fl., Nature Communications (2015)",
+    "more": "Kameleonter har redan en grundfärg som passar deras miljö, men de stora färgskiftningarna syns när hanar möts eller uppvaktar honor – raka motsatsen till att gömma sig. Upptäckten av de fotoniska kristallerna i huden förklarade hur de kan skifta från grönt till gult och rött på bara några minuter."
+  }
+]

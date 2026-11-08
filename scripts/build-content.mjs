@@ -17,7 +17,7 @@ const LIMITS = { hook: 100, title: 34, meta: 60, point: 105, takeaway: 62, sourc
 
 const items = readdirSync(join(root, "content"))
   .filter((f) => f.endsWith(".json"))
-  .flatMap((f) => JSON.parse(readFileSync(join(root, "content", f), "utf8")));
+  .flatMap((f) => JSON.parse(readFileSync(join(root, "content", f), "utf8")).map((it) => ({ ...it, deep: f.includes("-djup") })));
 
 // ---- validate ----
 const problems = [];
@@ -71,19 +71,35 @@ if (problems.length) {
   process.exit(1);
 }
 
-// ---- order the feed: round-robin across kinds so the scroll stays varied ----
-const byKind = Object.keys(KINDS).map((k) => items.filter((i) => i.kind === k));
+// ---- order the feed ----
+// Episode numbers stay stable: the first batch keeps #1–87 (so its renders stay valid),
+// the deeper second batch (content/*-djup.json) continues from there. Within each batch
+// the kinds are round-robined so the scroll stays varied.
+const roundRobin = (list) => {
+  const byKind = Object.keys(KINDS).map((k) => list.filter((i) => i.kind === k));
+  const out = [];
+  while (byKind.some((l) => l.length)) for (const l of byKind) if (l.length) out.push(l.shift());
+  return out;
+};
+const first = roundRobin(items.filter((i) => !i.deep));
+const deep = roundRobin(items.filter((i) => i.deep));
+const numbered = [...first, ...deep];
+const numOf = new Map(numbered.map((it, i) => [it.id, i + 1]));
+// The page shows the deeper batch first, alternating with the classics.
 const feed = [];
-while (byKind.some((l) => l.length)) for (const l of byKind) if (l.length) feed.push(l.shift());
+for (let i = 0; i < Math.max(first.length, deep.length); i++) {
+  if (deep[i]) feed.push(deep[i]);
+  if (first[i]) feed.push(first[i]);
+}
 
 const pad = (n) => String(n).padStart(2, "0");
-const rows = feed.map((it, i) => {
+const rows = numbered.map((it) => {
   const k = KINDS[it.kind];
   return {
     slug: it.id,
     kind: it.kind,
     tag: k.tag,
-    num: `#${pad(i + 1)}`,
+    num: `#${pad(numOf.get(it.id))}`,
     hook: it.hook,
     title: it.title,
     meta: it.meta,
@@ -107,9 +123,9 @@ const todo = rows.filter((r) => all || !existsSync(join(root, "renders", `${r.sl
 writeFileSync(join(root, "video", "batch.json"), JSON.stringify(todo, null, 2));
 
 mkdirSync(join(root, "site", "data"), { recursive: true });
-const site = feed.map((it, i) => ({
+const site = feed.map((it) => ({
   id: it.id,
-  num: i + 1,
+  num: numOf.get(it.id),
   kind: it.kind,
   label: KINDS[it.kind].label,
   accent: KINDS[it.kind].accent,

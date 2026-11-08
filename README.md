@@ -8,7 +8,7 @@ där varje video täcker skärmen.
 
 | Steg | Var | Vad |
 | --- | --- | --- |
-| 1. Kurera innehåll | `content/*.json`, `content/visuals.mjs` | 87 shorts med hook, tre punkter, lärdom, källa, en längre "läs mer"-text och en animerad visualisering |
+| 1. Kurera innehåll | `content/*.json`, `content/visuals*.mjs` | 152 shorts med hook, tre punkter, lärdom, källa, en längre "läs mer"-text och en animerad visualisering |
 | 2. Bygg videor | `video/index.html` | En [HyperFrames](https://hyperframes.heygen.com)-mall (HTML + GSAP) som drivs av variabler. Varje innehållspost blir en rad i en batch-rendering |
 | 3. Scrollflöde | `site/` | Statisk sida: helskärmsvideo, snap-scroll, filter, "läs mer", dela-länk per video |
 
@@ -93,6 +93,8 @@ Slå på det under **Settings → Pages → Source: GitHub Actions**. (Pages på
 Varje video har en egen länk: `…/#epiktetos-kontroll`.
 
 ## Mallen
+
+Innehållet ligger i två omgångar: klassikerna (`content/<typ>.json`, avsnitt #1–87) och en djupare andra omgång med mindre kända tänkare, studier, tankemodeller och myter (`content/<typ>-djup.json` och `content/visuals-djup.mjs`, avsnitt #88–152). Avsnittsnumren är stabila, så befintliga renderingar behöver inte göras om när nytt innehåll läggs till. Flödet visar den djupare omgången först, varvad med klassikerna.
 
 Upplägget är inspirerat av [Deepstash](https://deepstash.com): en källa kokas ner till ett fåtal korta idékort.
 
